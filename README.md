@@ -1,6 +1,8 @@
 
 <h3 align="center">Hi there, I'm <a href="https://surmon.me">Surmon !</a> 👋</h3>
 
+I am passionate about open source software and giving back to others. My projects are trusted by thousands of developers all over the world.
+
 ---
 
 <a href="/" align="left">

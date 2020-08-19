@@ -1,12 +1,7 @@
 ### Hi there, I'm [Surmon !](https://surmon.me) 👋
 
-<a href="/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&layout=compact" />
-</a>
-
-<a href="/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=surmon-china&count_private=true&show_icons=true&icon_color=222&text_color=777&bg_color=fffefe" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=surmon-china&count_private=true&show_icons=true&icon_color=222&text_color=777&bg_color=fffefe" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&layout=compact" />
 
 <!--
 **surmon-china/surmon-china** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

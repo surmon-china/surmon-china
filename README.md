@@ -5,7 +5,7 @@
 </a>
 
 <a href="/" align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=surmon-china&count_private=true&show_icons=true&icon_color=222&text_color=777&bg_color=fffefe" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surmon-china&count_private=true&show_icons=true&icon_color=222&text_color=777&bg_color=fffefe&hide=issues" />
 </a>
 
 <!--

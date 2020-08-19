@@ -1,10 +1,10 @@
 
 <h2 align="center">Hi there, 👋 I'm Surmon! 😎</h2>
 
-<h4 align="center">I am passionate about open source software and giving back to others.</h4>
-<h4 align="center">My projects are trusted by thousands of developers all over the world.</h4>
+<h5 align="center">I am passionate about open source software and giving back to others.</h5>
+<h5 align="center">My projects are trusted by thousands of developers all over the world.</h5>
 
-<br>
+---
 
 <p align="center">
   <a href="https://www.npmjs.com/~surmon">
@@ -26,7 +26,7 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://www.instagram.com/surmon666">
-    <img alt="instagram" src="https://img.shields.io/badge/instagram-222?style=for-the-badge&logo=instagram" />
+    <img alt="instagram" src="https://img.shields.io/badge/instagram-dc2743?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <span>&nbsp;</span>
   <a href="https://t.me/surmon">
@@ -34,7 +34,11 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://twitter.com/surmon_me">
-    <img alt="twitter" src="https://img.shields.io/badge/twitter-222?style=for-the-badge&logo=twitter" />
+    <img alt="twitter" src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://space.bilibili.com/27940710">
+    <img alt="twitter" src="https://img.shields.io/badge/bilibili-449fd1?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
 </p>
 

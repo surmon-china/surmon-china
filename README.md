@@ -1,14 +1,15 @@
+---
 
-### Hi there, I'm [Surmon !](https://surmon.me) 👋
+<h3 align="center">Hi there, I'm <a href="https://surmon.me">Surmon</a> ! 👋</h3>
 
 ---
 
 <a href="/" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&layout=compact&hide_border=true&bg_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6" />
 </a>
 
 <a href="/" align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=surmon-china&count_private=true&show_icons=true&icon_color=222&text_color=777&bg_color=fff&hide=issues&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surmon-china&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=777&bg_color=fff&hide=issues&hide_border=true" />
 </a>
 
 <!--

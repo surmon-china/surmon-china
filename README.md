@@ -1,9 +1,9 @@
 
 <h2 align="center">Hi there, I'm <a href="https://surmon.me">Surmon !</a> 👋</h2>
 
-I am passionate about open source software and giving back to others. My projects are trusted by thousands of developers all over the world.
+I am passionate about open source software and giving back to others.
 
----
+My projects are trusted by thousands of developers all over the world.
 
 <a href="/" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />

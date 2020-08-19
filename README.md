@@ -1,6 +1,5 @@
----
 
-<h3 align="center">Hi there, I'm <a href="https://surmon.me">Surmon</a> ! 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://surmon.me">Surmon !</a> 👋</h3>
 
 ---
 

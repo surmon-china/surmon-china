@@ -1,11 +1,11 @@
 ### Hi there, I'm [Surmon !](https://surmon.me) 👋
 
 <a href="/" align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&layout=compact&hide_border=true" />
 </a>
 
 <a href="/" align="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=surmon-china&count_private=true&show_icons=true&icon_color=222&text_color=777&bg_color=fffefe&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surmon-china&count_private=true&show_icons=true&icon_color=222&text_color=777&bg_color=fffefe&hide=issues&hide_border=true" />
 </a>
 
 <!--

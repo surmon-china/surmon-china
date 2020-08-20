@@ -28,7 +28,7 @@
 
 <details>
   <summary>
-    <string>Homepages and examples for GitHub repositories.<string>
+    <strong>👆 👉 Homepages and examples for GitHub repositories. 👇<strong>
   </summary>
   <br>
 

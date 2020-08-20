@@ -12,34 +12,30 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/sponsors/surmon-china">
-    <img alt="sponsor me" src="https://img.shields.io/badge/-sponsor%20me-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://www.paypal.me/surmon">
-    <img alt="paypal me" src="https://img.shields.io/badge/paypal%20me-009cde?style=for-the-badge&labelColor=555&logo=paypal" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://surmon.me/sponsor">
-    <img alt="alipay me" src="https://img.shields.io/badge/alipay-00a1e9?style=for-the-badge&labelColor=f0f0f0&logo=alipay" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://surmon.me">
     <img alt="blog" src="https://img.shields.io/badge/surmon.me-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=0088f5" />
   </a>
   <span>&nbsp;</span>
+  <a href="https://github.com/sponsors/surmon-china">
+    <img alt="sponsor me" src="https://img.shields.io/badge/-sponsor%20me-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://surmon.me/sponsor">
+    <img alt="paypal me" src="https://img.shields.io/badge/paypal%20|%20alipay-009cde?style=for-the-badge&labelColor=555&logo=paypal" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/surmon666">
     <img alt="instagram" src="https://img.shields.io/badge/instagram-ed4956?style=for-the-badge&logo=instagram&logoColor=ed4956&labelColor=24292e" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://t.me/surmon">
-    <img alt="telegram" src="https://img.shields.io/badge/Telegram-2ca5e0?style=for-the-badge&logo=telegram&labelColor=f0f0f0" />
-  </a>
-  <span>&nbsp;</span>
   <a href="https://twitter.com/surmon_me">
     <img alt="twitter" src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=1da1f2&labelColor=f0f0f0" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://t.me/surmon">
+    <img alt="telegram" src="https://img.shields.io/badge/Telegram-2ca5e0?style=for-the-badge&logo=telegram&labelColor=f0f0f0" />
   </a>
   <span>&nbsp;</span>
   <a href="https://space.bilibili.com/27940710">

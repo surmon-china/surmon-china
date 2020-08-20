@@ -43,7 +43,7 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://space.bilibili.com/27940710">
-    <img alt="twitter" src="https://img.shields.io/badge/bilibili-449fd1?style=for-the-badge&logo=bilibili&logoColor=449fd1&labelColor=f0f0f0" />
+    <img alt="twitter" src="https://img.shields.io/badge/bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=FB7299&labelColor=f0f0f0" />
   </a>
 </p>
 

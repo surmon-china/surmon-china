@@ -50,9 +50,9 @@
   </summary>
   <br>
 
-  | repo | homepage | for | language | stars | last commit | NPM downloads |
-  | --- | --- | --- | --- | --- | --- | --- |
-  | [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) | [examples](https://github.surmon.me/vue-awesome-swiper) | ![vue.js](https://img.shields.io/badge/-white?logo=vue.js&style=flat-square&labelColor=333) | ![GitHub top language](https://img.shields.io/github/languages/top/surmon-china/vue-awesome-swiper?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/surmon-china/vue-awesome-swiper?style=flat-square)](https://github.com/surmon-china/vue-awesome-swiper/stargazers) | ![GitHub last commit](https://img.shields.io/github/last-commit/surmon-china/vue-awesome-swiper?style=flat-square) | ![npm downloads](https://img.shields.io/npm/dw/vue-awesome-swiper?style=flat-square&amp;label=npm%20downloads)
+  | repo | homepage | language | stars | last commit | NPM downloads |
+  | --- | --- | --- | --- | --- | --- |
+  | [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) | [examples](https://github.surmon.me/vue-awesome-swiper) | ![GitHub top language](https://img.shields.io/github/languages/top/surmon-china/vue-awesome-swiper?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/surmon-china/vue-awesome-swiper?style=flat-square)](https://github.com/surmon-china/vue-awesome-swiper/stargazers) | ![GitHub last commit](https://img.shields.io/github/last-commit/surmon-china/vue-awesome-swiper?style=flat-square) | ![npm downloads](https://img.shields.io/npm/dw/vue-awesome-swiper?style=flat-square&amp;label=npm%20downloads)
 </details>
 
 ---

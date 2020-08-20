@@ -16,7 +16,7 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://surmon.me/sponsor">
-    <img alt="paypal me" src="https://img.shields.io/badge/sponsor-me-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
+    <img alt="paypal me" src="https://img.shields.io/badge/-sponsor%20me-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
   </a>
   <span>&nbsp;</span>
   <a href="https://www.instagram.com/surmon666">

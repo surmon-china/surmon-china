@@ -16,25 +16,11 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://surmon.me/sponsor">
-    <img alt="paypal me" src="https://img.shields.io/badge/sponsor%20|%20paypal%20|%20alipay-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
+    <img alt="paypal me" src="https://img.shields.io/badge/sponsor-me-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
   </a>
-</p>
-
-<p align="center">
+  <span>&nbsp;</span>
   <a href="https://www.instagram.com/surmon666">
     <img alt="instagram" src="https://img.shields.io/badge/instagram-ed4956?style=for-the-badge&logo=instagram&logoColor=ed4956&labelColor=24292e" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://twitter.com/surmon_me">
-    <img alt="twitter" src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=1da1f2&labelColor=f0f0f0" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://t.me/surmon">
-    <img alt="telegram" src="https://img.shields.io/badge/Telegram-2ca5e0?style=for-the-badge&logo=telegram&labelColor=f0f0f0" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://space.bilibili.com/27940710">
-    <img alt="twitter" src="https://img.shields.io/badge/bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=FB7299&labelColor=f0f0f0" />
   </a>
 </p>
 

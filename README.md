@@ -27,11 +27,11 @@
 
 <p align="center">
   <a href="https://surmon.me">
-    <img alt="blog" src="https://img.shields.io/badge/surmon.me-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=rss" />
+    <img alt="blog" src="https://img.shields.io/badge/surmon.me-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=0088f5" />
   </a>
   <span>&nbsp;</span>
   <a href="https://www.instagram.com/surmon666">
-    <img alt="instagram" src="https://img.shields.io/badge/instagram-ed4956?style=for-the-badge&logo=instagram&logoColor=ed4956&labelColor=f0f0f0" />
+    <img alt="instagram" src="https://img.shields.io/badge/instagram-ed4956?style=for-the-badge&logo=instagram&logoColor=ed4956&labelColor=24292e" />
   </a>
   <span>&nbsp;</span>
   <a href="https://t.me/surmon">

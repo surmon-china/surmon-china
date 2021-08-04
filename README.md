@@ -33,13 +33,7 @@ I am passionate about open source software and giving back to others. My project
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&text_color=adbac7&hide_border=true&hide_title=true&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854)
 
-<p></p>
-
-<details open>
-  <summary>
-    <strong>Homepages | examples<strong>
-  </summary>
-  <br>
+#### Homepages | examples
 
 | repositorie | homepage | stars | last commit | NPM downloads |
 | --- | --- | --- | --- | --- |

@@ -7,11 +7,11 @@ I am passionate about open source software and giving back to others. My project
 #### Community contribution
 
 <p>
-  <a href="https://www.npmjs.com/~surmon">
-    <img alt="total npm downloads" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-7,087,351-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" />
-  </a>
+  <img alt="total github stars" src="https://img.shields.io/badge/Total%20GitHub%20Stars-29.4k-22272e?style=for-the-badge&labelColor=2d333b&logo=github" />
   <span>&nbsp;</span>
-    <img alt="total github stars" src="https://img.shields.io/badge/Total%20GitHub%20Stars-29.4k-22272e?style=for-the-badge&labelColor=2d333b&logo=github" />
+  <a href="https://www.npmjs.com/~surmon">
+    <img alt="total npm downloads" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-11,390,579-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" />
+  </a>
 </p>
 
 #### Friend me

@@ -8,8 +8,10 @@ I am passionate about open source software and giving back to others. My project
 
 <p>
   <a href="https://www.npmjs.com/~surmon">
-    <img alt="npm download count" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-7,087,351-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" />
+    <img alt="total npm downloads" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-7,087,351-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" />
   </a>
+  <span>&nbsp;</span>
+    <img alt="total github stars" src="https://img.shields.io/badge/Total%20GitHub%20Stars-29.4k-22272e?style=for-the-badge&labelColor=2d333b&logo=github" />
 </p>
 
 #### Friend me

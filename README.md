@@ -16,12 +16,12 @@
     <img alt="blog" src="https://img.shields.io/badge/surmon.me-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=0088f5" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://www.instagram.com/surmon666">
-    <img alt="instagram" src="https://img.shields.io/badge/instagram-ed4956?style=for-the-badge&logo=instagram&logoColor=ed4956&labelColor=24292e" />
+  <a href="https://github.com/sponsors/surmon-china">
+    <img alt="paypal me" src="https://img.shields.io/badge/-sponsor%20me-EA4AAA?style=for-the-badge&labelColor=30363c&logo=githubsponsors" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://github.com/sponsors/surmon-china">
-    <img alt="paypal me" src="https://img.shields.io/badge/-sponsor%20me-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
+  <a href="https://www.instagram.com/surmon666">
+    <img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ed4956&labelColor=24292e" />
   </a>
 </p>
 

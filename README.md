@@ -3,11 +3,11 @@
 
 <p align="center"><strong><code>
 > I am passionate about open source software and giving back to others.
-</code><strong></p>
+</code></strong></p>
 
 <p align="center"><strong><code>
 > My projects are trusted by thousands of developers all over the world.</code>
-</code><strong></p>
+</code></strong></p>
 
 ---
 

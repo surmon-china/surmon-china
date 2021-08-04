@@ -1,9 +1,11 @@
 
 <h2 align="center">Hi there, 👋 I'm Surmon! 😊</h2>
 
-<pre align="center">
-  <p><strong>I am passionate about open source software and giving back to others.</strong></p>
-  <p><strong>My projects are trusted by thousands of developers all over the world.</strong></p>
+<pre>
+  <code>
+    > I am passionate about open source software and giving back to others.
+    > My projects are trusted by thousands of developers all over the world.
+  </code>
 </pre>
 
 ---

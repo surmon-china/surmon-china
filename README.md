@@ -17,7 +17,7 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://github.com/sponsors/surmon-china">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/surmon-china?color=EA4AAA&label=sponsor%20me&logo=githubsponsors&logoColor=EA4AAA&style=for-the-badge">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/surmon-china?color=EA4AAA&label=sponsor%20me&logo=githubsponsors&logoColor=EA4AAA&style=for-the-badge&labelColor=30363c">
   </a>
   <span>&nbsp;</span>
   <a href="https://www.instagram.com/surmon666">

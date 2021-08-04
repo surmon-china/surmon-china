@@ -31,7 +31,7 @@ I am passionate about open source software and giving back to others. My project
 </p>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&text_color=586069&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&card_width=854" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&text_color=586069&hide_border=true&hide_title=true&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854" />
 </div>
 
 <br>

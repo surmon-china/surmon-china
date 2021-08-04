@@ -21,7 +21,7 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://www.instagram.com/surmon666">
-    <img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ed4956&labelColor=24292e" />
+    <img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&labelColor=24292e&logo=instagram" />
   </a>
 </p>
 

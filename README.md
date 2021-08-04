@@ -1,8 +1,8 @@
 
 <h2 align="center">Hi there, 👋 I'm Surmon! 😊</h2>
 
-<h4 align="center">I am passionate about open source software and giving back to others.</h4>
-<h4 align="center">My projects are trusted by thousands of developers all over the world.</h4>
+<pre align="center"><strong>I am passionate about open source software and giving back to others.</strong></pre>
+<pre align="center"><strong>My projects are trusted by thousands of developers all over the world.</strong></pre>
 
 ---
 

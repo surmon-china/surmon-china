@@ -1,14 +1,12 @@
-## Hi there, 👋 I'm Surmon! 😊
 
-#### Open Source Software
+<h2 align="center">Hi there, 👋 I'm Surmon! 😊</h2>
 
-I am passionate about open source software and giving back to others. My projects are trusted by thousands of developers all over the world.
+<h4 align="center">I am passionate about open source software and giving back to others.</h4>
+<h4 align="center">My projects are trusted by thousands of developers all over the world.</h4>
 
 ---
 
-#### Friend me
-
-<p>
+<p align="center">
   <a href="https://surmon.me">
     <img alt="blog" src="https://img.shields.io/badge/surmon.me-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=0088f5" />
   </a>
@@ -22,23 +20,18 @@ I am passionate about open source software and giving back to others. My project
   </a>
 </p>
 
----
-
-#### Community contribution
-
-<p>
+<h5 align="center">
   <img alt="total github stars" src="https://img.shields.io/badge/Total%20GitHub%20Stars-29.4k-22272e?style=for-the-badge&labelColor=2d333b&logo=github" />
   <span>&nbsp;</span>
   <a href="https://www.npmjs.com/~surmon">
     <img alt="total npm downloads" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-11,390,579-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" />
   </a>
-</p>
+</h5>
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&text_color=adbac7&hide_border=true&hide_title=true&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854)
 
 ---
-
-#### Homepages | examples
 
 | repositorie | homepage | stars | last commit | NPM downloads |
 | --- | --- | --- | --- | --- |

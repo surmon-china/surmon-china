@@ -21,12 +21,14 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://www.instagram.com/surmon666">
-    <img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&labelColor=24292e&logo=instagram" />
+    <img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&labelColor=262626&logo=instagram" />
   </a>
 </p>
 
 <h5 align="center">
-  <img alt="total github stars" src="https://img.shields.io/badge/Total%20GitHub%20Stars-29,354-22272e?style=for-the-badge&labelColor=2d333b&logo=github" />
+  <a href="https://github.com/surmon-china?tab=repositories">
+    <img alt="total github stars" src="https://img.shields.io/badge/Total%20GitHub%20Stars-29,354-22272e?style=for-the-badge&labelColor=2d333b&logo=github" />
+  </a>
   <span>&nbsp;</span>
   <a href="https://www.npmjs.com/~surmon">
     <img alt="total npm downloads" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-11,390,579-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" />

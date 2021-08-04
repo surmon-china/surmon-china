@@ -13,6 +13,9 @@ I am passionate about open source software and giving back to others. My project
     <img alt="total npm downloads" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-11,390,579-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" />
   </a>
 </p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&text_color=586069&hide_border=true&hide_title=true&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854" />
+</p>
 
 #### Friend me
 
@@ -29,10 +32,6 @@ I am passionate about open source software and giving back to others. My project
     <img alt="paypal me" src="https://img.shields.io/badge/-sponsor%20me-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
   </a>
 </p>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&text_color=586069&hide_border=true&hide_title=true&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854" />
-</div>
 
 <br>
 

@@ -4,6 +4,7 @@
 
 I am passionate about open source software and giving back to others. My projects are trusted by thousands of developers all over the world.
 
+---
 
 #### Friend me
 
@@ -21,6 +22,8 @@ I am passionate about open source software and giving back to others. My project
   </a>
 </p>
 
+---
+
 #### Community contribution
 
 <p>
@@ -32,6 +35,8 @@ I am passionate about open source software and giving back to others. My project
 </p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&text_color=adbac7&hide_border=true&hide_title=true&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854)
+
+---
 
 #### Homepages | examples
 

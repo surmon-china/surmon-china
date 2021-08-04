@@ -34,11 +34,11 @@ I am passionate about open source software and giving back to others. My project
   </a>
 </div>
 
----
+<br>
 
 <details open>
   <summary>
-    <strong>Homepages and examples for GitHub repositories.<strong>
+    <strong>Homepages | examples<strong>
   </summary>
   <br>
 

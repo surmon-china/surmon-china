@@ -4,18 +4,6 @@
 
 I am passionate about open source software and giving back to others. My projects are trusted by thousands of developers all over the world.
 
-#### Community contribution
-
-<p>
-  <img alt="total github stars" src="https://img.shields.io/badge/Total%20GitHub%20Stars-29.4k-22272e?style=for-the-badge&labelColor=2d333b&logo=github" />
-  <span>&nbsp;</span>
-  <a href="https://www.npmjs.com/~surmon">
-    <img alt="total npm downloads" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-11,390,579-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" />
-  </a>
-</p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&text_color=586069&hide_border=true&hide_title=true&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854)
-
 
 #### Friend me
 
@@ -32,6 +20,18 @@ I am passionate about open source software and giving back to others. My project
     <img alt="paypal me" src="https://img.shields.io/badge/-sponsor%20me-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
   </a>
 </p>
+
+#### Community contribution
+
+<p>
+  <img alt="total github stars" src="https://img.shields.io/badge/Total%20GitHub%20Stars-29.4k-22272e?style=for-the-badge&labelColor=2d333b&logo=github" />
+  <span>&nbsp;</span>
+  <a href="https://www.npmjs.com/~surmon">
+    <img alt="total npm downloads" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-11,390,579-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" />
+  </a>
+</p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&text_color=586069&hide_border=true&hide_title=true&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854)
 
 <p></p>
 

@@ -16,7 +16,7 @@ I am passionate about open source software and giving back to others. My project
     <img alt="instagram" src="https://img.shields.io/badge/instagram-ed4956?style=for-the-badge&logo=instagram&logoColor=ed4956&labelColor=24292e" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://surmon.me/sponsor">
+  <a href="https://github.com/sponsors/surmon-china">
     <img alt="paypal me" src="https://img.shields.io/badge/-sponsor%20me-24292e?style=for-the-badge&labelColor=30363c&logo=github" />
   </a>
 </p>

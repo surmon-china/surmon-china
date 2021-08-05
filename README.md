@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi there, 👋 I'm Surmon! 😊</h2>
+<h2 align="center">☮️&nbsp;&nbsp;❤️&nbsp;&nbsp;🏳️‍🌈</h2>
 
 <p align="center"><strong><code>
 > I am passionate about open source software and giving back to others.
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/surmon-china">
-    <img alt="GitHub Sponsors" height="32px" src="https://img.shields.io/github/sponsors/surmon-china?color=EA4AAA&label=sponsor%20me&logo=githubsponsors&logoColor=EA4AAA&style=for-the-badge&labelColor=30363c">
+    <img alt="GitHub Sponsors" height="32px" src="https://img.shields.io/github/sponsors/surmon-china?color=EA4AAA&label=sponsor%20me&logo=githubsponsors&logoColor=EA4AAA&logoWidth=20&style=for-the-badge&labelColor=30363c">
   </a>
 </p>
 
@@ -22,12 +22,12 @@
     <img alt="blog" src="https://img.shields.io/badge/surmon.me-0088f5?style=for-the-badge&labelColor=f0f0f0&logo=rss&logoColor=0088f5" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://www.instagram.com/surmon666">
-    <img alt="instagram" src="https://img.shields.io/badge/IG-E4405F?style=for-the-badge&labelColor=262626&logo=instagram" />
-  </a>
-  <span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/surmon">
     <img alt="linkedin" src="https://img.shields.io/badge/LI-0a66c2?style=for-the-badge&logo=linkedin&labelColor=ffffff&logoColor=0a66c2" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://www.instagram.com/surmon666">
+    <img alt="instagram" src="https://img.shields.io/badge/IG-E4405F?style=for-the-badge&labelColor=262626&logo=instagram" />
   </a>
   <span>&nbsp;</span>
   <a href="https://t.me/joinchat/VO701Zxp7nzdZMBY">

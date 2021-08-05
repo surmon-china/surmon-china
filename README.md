@@ -27,7 +27,7 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://www.instagram.com/surmon666">
-    <img alt="instagram" src="https://img.shields.io/badge/IG-E4405F?style=for-the-badge&labelColor=262626&logo=instagram" />
+    <img alt="instagram" src="https://img.shields.io/badge/IG-E4405F?style=for-the-badge&labelColor=fafafa&logo=instagram" />
   </a>
   <span>&nbsp;</span>
   <a href="https://t.me/joinchat/VO701Zxp7nzdZMBY">

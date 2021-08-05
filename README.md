@@ -2,11 +2,11 @@
 <h2 align="center">☮️&nbsp;&nbsp;❤️&nbsp;&nbsp;🏳️‍🌈</h2>
 
 <h4 align="center"><code>
-> I am passionate about open source software and giving back to others.
+> I am passionate about open source software and giving back to others.&nbsp;
 </code></h4>
 
 <h4 align="center"><code>
-> My projects are trusted by thousands of developers all over the world.</code>
+> My projects are trusted by thousands of developers all over the world.
 </code></h4>
 
 <br>

@@ -1,0 +1,21 @@
+{
+  "name": "surmon-china",
+  "version": "0.0.1",
+  "main": "scripts/index.js",
+  "repository": "git@github.com:surmon-china/surmon-china.git",
+  "author": "surmon-china <surmon@foxmail.com>",
+  "config": {
+    "GITHUB_UID": "surmon-china",
+    "NPM_UID": "surmon"
+  },
+  "scripts": {
+    "generate": "node scripts/index.js",
+    "format": "prettier ./scripts --write"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}

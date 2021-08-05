@@ -9,13 +9,15 @@
 > My projects are trusted by thousands of developers all over the world.
 </code></h4>
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/sponsors/surmon-china">
-    <img alt="GitHub Sponsors" height="32px" src="https://img.shields.io/github/sponsors/surmon-china?color=EA4AAA&label=sponsor%20me&logo=githubsponsors&logoColor=EA4AAA&logoWidth=20&style=for-the-badge&labelColor=30363c">
+<h5 align="center">
+  <a href="https://github.com/surmon-china?tab=repositories">
+    <img alt="total github stars" src="https://img.shields.io/github/stars/surmon-china?style=for-the-badge&affiliations=OWNER%2CCOLLABORATOR&label=TOTAL%20GITHUB%20STARS&logo=github&labelColor=2d333b&color=22272e" />
   </a>
-</p>
+  <span>&nbsp;</span>
+  <a href="https://www.npmjs.com/~surmon">
+    <img alt="total npm downloads" src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsurmon-china%2Fsurmon-china%2Frelease%2Fnpm.json" />
+  </a>
+</h5>
 
 <p align="center">
   <a href="https://surmon.me">
@@ -35,15 +37,13 @@
   </a>
 </p>
 
-<h5 align="center">
-  <a href="https://github.com/surmon-china?tab=repositories">
-    <img alt="total github stars" src="https://img.shields.io/github/stars/surmon-china?style=for-the-badge&affiliations=OWNER%2CCOLLABORATOR&label=TOTAL%20GITHUB%20STARS&logo=github&labelColor=2d333b&color=22272e" />
+<p align="center">
+  <a href="https://github.com/sponsors/surmon-china">
+    <img alt="GitHub Sponsors" height="32px" src="https://img.shields.io/github/sponsors/surmon-china?color=EA4AAA&label=sponsor%20me&logo=githubsponsors&logoColor=EA4AAA&logoWidth=20&style=for-the-badge&labelColor=30363c">
   </a>
-  <span>&nbsp;</span>
-  <a href="https://www.npmjs.com/~surmon">
-    <img alt="total npm downloads" src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsurmon-china%2Fsurmon-china%2Frelease%2Fnpm.json" />
-  </a>
-</h5>
+</p>
+
+---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&text_color=adbac7&hide_border=true&hide_title=true&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854)
 

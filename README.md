@@ -23,13 +23,21 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://www.instagram.com/surmon666">
-    <img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&labelColor=262626&logo=instagram" />
+    <img alt="instagram" src="https://img.shields.io/badge/INS-E4405F?style=for-the-badge&labelColor=262626&logo=instagram" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://www.linkedin.com/in/surmon">
+    <img alt="instagram" src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://t.me/joinchat/VO701Zxp7nzdZMBY">
+    <img alt="instagram" src="https://img.shields.io/badge/TG-ffffff?style=for-the-badge&logo=telegram" />
   </a>
 </p>
 
 <h5 align="center">
   <a href="https://github.com/surmon-china?tab=repositories">
-    <img alt="total github stars" src="https://img.shields.io/badge/Total%20GitHub%20Stars-29,354-22272e?style=for-the-badge&labelColor=2d333b&logo=github" />
+    <img alt="total github stars" src="https://img.shields.io/github/stars/surmon-china?style=for-the-badge&affiliations=OWNER%2CCOLLABORATOR&label=TOTAL%20GITHUB%20STARS&logo=github&labelColor=2d333b&color=22272e" />
   </a>
   <span>&nbsp;</span>
   <a href="https://www.npmjs.com/~surmon">

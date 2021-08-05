@@ -41,10 +41,9 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://www.npmjs.com/~surmon">
-    <img alt="total npm downloads" src="https://img.shields.io/badge/Total%20NPM%20DOWNLOAD-11,390,579-231f20?style=for-the-badge&labelColor=bb161b&logo=npm" />
+    <img alt="total npm downloads" src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsurmon-china%2Fsurmon-china%2Frelease%2Fnpm.json" />
   </a>
 </h5>
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&text_color=adbac7&hide_border=true&hide_title=true&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854)
 

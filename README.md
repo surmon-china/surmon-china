@@ -23,11 +23,11 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://www.instagram.com/surmon666">
-    <img alt="instagram" src="https://img.shields.io/badge/INS-E4405F?style=for-the-badge&labelColor=262626&logo=instagram" />
+    <img alt="instagram" src="https://img.shields.io/badge/IG-E4405F?style=for-the-badge&labelColor=262626&logo=instagram" />
   </a>
   <span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/surmon">
-    <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&labelColor=ffffff&logoColor=0a66c2" />
+    <img alt="linkedin" src="https://img.shields.io/badge/LI-0a66c2?style=for-the-badge&logo=linkedin&labelColor=ffffff&logoColor=0a66c2" />
   </a>
   <span>&nbsp;</span>
   <a href="https://t.me/joinchat/VO701Zxp7nzdZMBY">

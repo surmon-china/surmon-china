@@ -27,11 +27,11 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/surmon">
-    <img alt="instagram" src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin" />
+    <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&labelColor=ffffff&logoColor=0a66c2" />
   </a>
   <span>&nbsp;</span>
   <a href="https://t.me/joinchat/VO701Zxp7nzdZMBY">
-    <img alt="instagram" src="https://img.shields.io/badge/TG-ffffff?style=for-the-badge&logo=telegram" />
+    <img alt="telegram" src="https://img.shields.io/badge/TG-54a5dd?style=for-the-badge&logo=telegram&labelColor=ffffff" />
   </a>
 </p>
 

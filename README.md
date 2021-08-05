@@ -1,15 +1,15 @@
 
 <h2 align="center">☮️&nbsp;&nbsp;❤️&nbsp;&nbsp;🏳️‍🌈</h2>
 
-<p align="center"><strong><code>
+<h4 align="center"><code>
 > I am passionate about open source software and giving back to others.
-</code></strong></p>
+</code></h4>
 
-<p align="center"><strong><code>
+<h4 align="center"><code>
 > My projects are trusted by thousands of developers all over the world.</code>
-</code></strong></p>
+</code></h4>
 
----
+<br>
 
 <p align="center">
   <a href="https://github.com/sponsors/surmon-china">

@@ -47,7 +47,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&text_color=adbac7&hide_border=true&hide_title=true&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854)
 
-| repositorie | homepage | stars | last commit | NPM downloads | top language
+| repository | homepage | stars | last commit | NPM downloads | top language
 | --- | --- | :--- | :--- | :--- | ---: |
 | [veact](https://github.com/veactjs/veact) 🔥 | - | [![GitHub stars](https://img.shields.io/github/stars/veactjs/veact?style=flat-square&label=✨)](https://github.com/veactjs/veact/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/veactjs/veact?style=flat-square&label=%20)](https://github.com/veactjs/veact/commits) | [![NPM downloads](https://img.shields.io/npm/dw/veact?style=flat-square&label=⚡️)](https://www.npmjs.com/package/veact) | ![GitHub top language](https://img.shields.io/github/languages/top/veactjs/veact?style=flat-square)
 | [libundler](https://github.com/surmon-china/libundler) | - | [![GitHub stars](https://img.shields.io/github/stars/surmon-china/libundler?style=flat-square&label=✨)](https://github.com/surmon-china/libundler/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/surmon-china/libundler?style=flat-square&label=%20)](https://github.com/surmon-china/libundler/commits) | [![NPM downloads](https://img.shields.io/npm/dw/libundler?style=flat-square&label=⚡️)](https://www.npmjs.com/package/libundler) | ![GitHub top language](https://img.shields.io/github/languages/top/surmon-china/libundler?style=flat-square)

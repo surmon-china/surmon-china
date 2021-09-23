@@ -1,11 +1,17 @@
 
 <h2 align="center">☮️&nbsp;&nbsp;❤️&nbsp;&nbsp;🏳️‍🌈</h2>
 
-<pre align="center">
-  > I am passionate about open source software and giving back to others.&nbsp;
+<h4 align="center">
+  <samp>
+    > I am passionate about open source software and giving back to others.&nbsp;
+  </samp>
+</h4>
 
-  > My projects are trusted by thousands of developers all over the world.
-</pre>
+<h4 align="center">
+  <samp>
+    > My projects are trusted by thousands of developers all over the world.
+  </samp>
+</h4>
 
 <h5 align="center">
   <a href="https://github.com/surmon-china?tab=repositories">

@@ -13,7 +13,7 @@
   </samp>
 </h4>
 
-<p align="center">~</p>
+<p align="center"><samp>_<samp></p>
 
 <h5 align="center">
   <a href="https://github.com/surmon-china?tab=repositories">

@@ -193,6 +193,7 @@ exports.renderTopLanguagesCard = (languages, customStyle = {}) => {
       width="${style.width}"
       fill="${style.cardBackground}"
       stroke="${style.cardBorderColor}"
+      stroke-width="2"
       opacity="${style.cardOpacity}"
     />
     <g data-testid="main-card-body" transform="translate(0, ${style.cardPadding})">

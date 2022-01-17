@@ -1,5 +1,5 @@
 
-<h2 align="center">☮️&nbsp;&nbsp;❤️‍🔥&nbsp;&nbsp;✌️</h2>
+<h2 align="center">:peace_symbol:&nbsp;&nbsp;:heart_on_fire:&nbsp;&nbsp;:v:</h2>
 
 <h3 align="center">
   <samp>

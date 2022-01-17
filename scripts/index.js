@@ -28,7 +28,7 @@ const OUTPUT_DIR = path.join(__dirname, '..', 'output')
   // total PRs
   // top languages
   const topLanguages = await getGitHubTopLanguages()
-  console.log(`GitHub top langiages:`, topLanguages)
+  console.log(`GitHub top languages:`, topLanguages)
   fs.writeFileSync(
     path.resolve(OUTPUT_DIR, 'github.json'),
     JSONStringify({
@@ -37,6 +37,6 @@ const OUTPUT_DIR = path.join(__dirname, '..', 'output')
   )
   // top languages svg card
   const svg = renderTopLanguagesCard(topLanguages)
-  console.log(`GitHub top langiages card svg:`, svg.length)
+  console.log(`GitHub top languages card svg:`, svg.length)
   fs.writeFileSync(path.resolve(OUTPUT_DIR, 'github-top-languages.svg'), svg)
 })()

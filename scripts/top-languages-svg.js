@@ -52,12 +52,16 @@ const style = {
   width: 850,
   height: 190,
   cardPadding: 25,
-  cardRadius: 4,
+  cardRadius: 0,
+  cardOpacity: 0.9,
+  cardBorderColor: '#444c56',
   cardBackground: '#22272e',
+  langNameColor: '#e3e3e3',
+  langPercentageColor: '#767f89',
   progressHeight: 14,
   progressRadius: 2,
   legendSize: 20,
-  legendLineMargin: 39,
+  legendLineMargin: 40,
   legendLineCount: 5,
 }
 
@@ -121,9 +125,19 @@ const renderLegend = (languages, line) => {
           }
           <foreignObject x="${style.legendSize + 5}" width="130" height="${style.legendSize}">
             <body xmlns="http://www.w3.org/1999/xhtml" style="margin: 0;">
-              <div style="width: 100%;font-size: 14px;color: #cfcfcf;font-family:${fontFamily};line-height: 1.5;">
+              <div style="${[
+                'width: 100%',
+                'font-size: 14px',
+                `color: ${style.langNameColor}`,
+                `font-family: ${fontFamily}`,
+                `line-height: 1.5`,
+              ].join(';')}">
                 ${language.name}
-                <span style="color:#767f89;margin-left:2px;font-size:13px;">${language.percentage}%</span>
+                <span
+                  style="${['margin-left: 2px', 'font-size: 13px', `color: ${style.langPercentageColor}`].join(';')}"
+                >
+                ${language.percentage}%
+                </span>
               </div>
             </body>
           </foreignObject>
@@ -173,6 +187,8 @@ exports.renderTopLanguagesCard = (languages) => {
       height="100%"
       width="${style.width}"
       fill="${style.cardBackground}"
+      stroke="${style.cardBorderColor}"
+      opacity="${style.cardOpacity}"
     />
     <g data-testid="main-card-body" transform="translate(0, ${style.cardPadding})">
       <svg data-testid="lang-items" x="${style.cardPadding}">

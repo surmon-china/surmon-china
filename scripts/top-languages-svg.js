@@ -53,7 +53,7 @@ const style = {
   height: 190,
   cardPadding: 25,
   cardRadius: 4,
-  cardBackground: '#2d333b',
+  cardBackground: '#22272e',
   progressHeight: 14,
   progressRadius: 2,
   legendSize: 20,

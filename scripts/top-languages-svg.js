@@ -48,24 +48,24 @@ const css = `
   }
 `
 
-const style = {
+const defaultStyle = {
   width: 850,
   height: 190,
   cardPadding: 25,
   cardRadius: 0,
-  cardOpacity: 0.9,
+  cardOpacity: 0.8,
   cardBorderColor: '#444c56',
   cardBackground: '#22272e',
-  langNameColor: '#e3e3e3',
+  langNameColor: '#dbdbdb',
   langPercentageColor: '#767f89',
-  progressHeight: 14,
+  progressHeight: 12,
   progressRadius: 2,
   legendSize: 20,
   legendLineMargin: 40,
   legendLineCount: 5,
 }
 
-const renderProgress = (languages) => {
+const renderProgress = (languages, style) => {
   const items = []
   const width = style.width - style.cardPadding * 2
   let leftWidth = 0
@@ -91,7 +91,7 @@ const renderProgress = (languages) => {
   return items.join('\n')
 }
 
-const renderLegend = (languages, line) => {
+const renderLegend = (languages, line, style) => {
   const width = style.width - style.cardPadding * 2
   const itemWidth = width / style.legendLineCount
 
@@ -153,7 +153,12 @@ const renderLegend = (languages, line) => {
   `
 }
 
-exports.renderTopLanguagesCard = (languages) => {
+exports.renderTopLanguagesCard = (languages, customStyle = {}) => {
+  const style = {
+    ...defaultStyle,
+    ...customStyle,
+  }
+
   // overwrite colors by simply icon
   languages = languages.map((language) => {
     const lowerCaseName = language.name.toLocaleLowerCase()
@@ -202,11 +207,11 @@ exports.renderTopLanguagesCard = (languages) => {
             fill="white"
           />
         </mask>
-        ${renderProgress(languages)}
+        ${renderProgress(languages, style)}
         <g transform="translate(0, ${style.cardPadding * 1.618})">
-          ${renderLegend(languages.slice(0, 5), 0)}
-          ${renderLegend(languages.slice(5, 10), 1)}
-          ${renderLegend(languages.slice(10, 15), 2)}
+          ${renderLegend(languages.slice(0, 5), 0, style)}
+          ${renderLegend(languages.slice(5, 10), 1, style)}
+          ${renderLegend(languages.slice(10, 15), 2, style)}
         </g>
       </svg>
     </g>

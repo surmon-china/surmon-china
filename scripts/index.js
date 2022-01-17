@@ -36,7 +36,12 @@ const OUTPUT_DIR = path.join(__dirname, '..', 'output')
     })
   )
   // top languages svg card
-  const svg = renderTopLanguagesCard(topLanguages)
-  console.log(`GitHub top languages card svg:`, svg.length)
-  fs.writeFileSync(path.resolve(OUTPUT_DIR, 'github-top-languages.svg'), svg)
+  const darkSvg = renderTopLanguagesCard(topLanguages)
+  const lightSvg = renderTopLanguagesCard(topLanguages, {
+    cardBorderColor: '#d0d7de',
+    cardBackground: '#fff',
+    langNameColor: '#27292a',
+  })
+  fs.writeFileSync(path.resolve(OUTPUT_DIR, 'github-top-languages-dark.svg'), darkSvg)
+  fs.writeFileSync(path.resolve(OUTPUT_DIR, 'github-top-languages-light.svg'), lightSvg)
 })()

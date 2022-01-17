@@ -27,10 +27,11 @@
       data-testid="card-bg"
       x="0"
       y="0"
-      rx="4"
+      rx="0"
       height="100%"
       width="850"
       fill="#22272e"
+      stroke="#444c56"
     />
     <g data-testid="main-card-body" transform="translate(0, 25)">
       <svg data-testid="lang-items" x="25">

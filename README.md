@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/surmon-china">
-    <img alt="GitHub Sponsors" height="34px" src="https://img.shields.io/github/sponsors/surmon-china?color=30363c&label=sponsor%20me&logo=githubsponsors&logoColor=FFF&logoWidth=20&style=for-the-badge&labelColor=EA4AAA">
+    <img alt="GitHub Sponsors" height="34px" src="https://img.shields.io/github/sponsors/surmon-china?color=EA4AAA&label=sponsor%20me&logo=githubsponsors&logoColor=EA4AAA&logoWidth=20&style=for-the-badge&labelColor=30363c">
   </a>
 </p>
 

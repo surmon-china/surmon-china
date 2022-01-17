@@ -22,6 +22,8 @@ jobs:
 
       - name: Generate
         run: yarn generate
+        env:
+          GH_DEV_TOKEN: ${{ secrets.GH_DEV_TOKEN }}
 
       - name: Release branch
         uses: peaceiris/actions-gh-pages@v3

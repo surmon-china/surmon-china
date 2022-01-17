@@ -1,6 +1,8 @@
 const fs = require('fs')
 const path = require('path')
 const { getNPMDownloadsMap } = require('./npm')
+const { getGitHubTopLanguages } = require('./github')
+const { renderTopLanguagesCard } = require('./top-languages-svg')
 const { JSONStringify, thousands } = require('./utils')
 const OUTPUT_DIR = path.join(__dirname, '..', 'output')
 
@@ -24,5 +26,17 @@ const OUTPUT_DIR = path.join(__dirname, '..', 'output')
   // total stars
   // total commits
   // total PRs
-  const GITHUB_FILE_NAME = 'github.json'
+  // top languages
+  const topLanguages = await getGitHubTopLanguages()
+  console.log(`GitHub top langiages:`, topLanguages)
+  fs.writeFileSync(
+    path.resolve(OUTPUT_DIR, 'github.json'),
+    JSONStringify({
+      topLanguages,
+    })
+  )
+  // top languages svg card
+  const svg = renderTopLanguagesCard(topLanguages)
+  console.log(`GitHub top langiages card svg:`, svg.length)
+  fs.writeFileSync(path.resolve(OUTPUT_DIR, 'github-top-languages.svg'), svg)
 })()

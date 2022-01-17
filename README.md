@@ -55,7 +55,11 @@
 
 ---
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=surmon-china&text_color=adbac7&hide_border=true&hide_title=true&langs_count=10&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=854)](https://github.com/surmon-china?tab=repositories)
+<a href="https://github.com/surmon-china?tab=repositories">
+    <img src="https://github.com/surmon-china/surmon-china/raw/release/github-top-languages.svg" width="100%" />
+</a>
+
+<p></p>
 
 | repository | homepage | stars | last commit | NPM DL | top language
 | --- | --- | :--- | :--- | :--- | ---: |

@@ -20,7 +20,7 @@
 </h4>
 
 <h5 align="center">
-  <a href="https://github.com/surmon-china?tab=repositories">
+  <a href="#">
     <img alt="total github stars" src="https://img.shields.io/github/stars/surmon-china?style=for-the-badge&affiliations=OWNER%2CCOLLABORATOR&label=TOTAL%20GITHUB%20STARS&logo=github&labelColor=2d333b&color=22272e" />
   </a>
   <span>&nbsp;</span>

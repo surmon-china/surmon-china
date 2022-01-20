@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <foreignObject width="120" height="50">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+          @keyframes test {
+            from {
+              color: red;
+            }
+            to {
+              color: blue;
+            }
+          }
+          .text {
+            color: red;
+          }
+          .transition {
+            transition: color 0.5s;
+            animation: test 1s infinite;
+          }
+        </style>
+        <p style="font-size: 12px; margin: 0">test word</p>
+        <p>svg icon</p>
+        <img
+          width="22px"
+          src="https://raw.githubusercontent.com/surmon-china/surmon-china/main/icons/bing.svg"
+        />
+        <p>image icon</p>
+        <img
+          width="22px"
+          src="https://raw.githubusercontent.com/surmon-china/surmon.me/main/presses/logo.png"
+        />
+        <p>css</p>
+        <p class=".text">red color</p>
+        <strong>strong string</strong>
+        <h1 class="transition">animation</h1>
+        <p>javascript</p>
+        <script>
+          console.log("test");
+        </script>
+      </body>
+  </foreignObject>
+</svg>

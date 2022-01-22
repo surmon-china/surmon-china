@@ -55,8 +55,19 @@
 
 <h4></h4>
 
-![](https://github.com/surmon-china/surmon-china/raw/release/github-top-languages-dark.svg#gh-dark-mode-only)
-![](https://github.com/surmon-china/surmon-china/raw/release/github-top-languages-light.svg#gh-light-mode-only)
+![](https://github.com/surmon-china/surmon-china/raw/release/github-top-languages-dark.svg?a=v&b=3#gh-dark-mode-only)
+![](https://github.com/surmon-china/surmon-china/raw/release/github-top-languages-light.svg?v=4&t=3#gh-light-mode-only)
+
+---
+
+<a href="https://github.com/surmon-china/surmon-china#gh-dark-mode-only">
+  <img width="100%" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=surmon-china&props.theme=dark&svg.width=830&svg.height=190">
+</a>
+
+<a href="https://github.com/surmon-china/surmon-china#gh-light-mode-only">
+  <img width="100%" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=surmon-china&svg.width=830&svg.height=190">
+</a>
+
 
 <p></p>
 

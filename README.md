@@ -55,10 +55,6 @@
 
 <h4></h4>
 
-<p align="center">
-  <img src="https://readme.app.surmon.me/api/render?template_id=github-contributions-calendar&props.username=surmon-china&props.size=10&svg.width=750&svg.height=100">
-</p>
-
 <a href="https://github.com/surmon-china/surmon-china#gh-dark-mode-only">
   <img width="100%" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=surmon-china&props.theme=dark&props.background=transparent&svg.width=830&svg.height=190">
 </a>

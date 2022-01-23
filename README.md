@@ -51,6 +51,10 @@
   <a href="https://t.me/joinchat/VO701Zxp7nzdZMBY">
     <img alt="telegram" height="22px" src="https://img.shields.io/badge/TG-54a5dd?style=for-the-badge&logo=telegram&labelColor=ffffff" />
   </a>
+  <span>&nbsp;</span>
+  <a href="#gh-dark-mode-only">
+    <img height="22px" src="https://readme.app.surmon.me/api/render?template_id=github-readme-views&props.username=surmon-china&props.border=0&props.background=white&props.fontSize=10&props.prefix=👁%20&svg.width=46&svg.height=22" />
+  </a>
 </p>
 
 <h4></h4>

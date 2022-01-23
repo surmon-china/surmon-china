@@ -53,7 +53,7 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://github.com/surmon-china/README.md/tree/main/templates/github-readme-views">
-    <img height="22px" src="https://readme.app.surmon.me/api/render?template_id=github-readme-views&props.username=surmon-china&props.border=0&props.background=%23efefef&props.fontSize=11&props.prefix=👁&svg.width=48&svg.height=22" />
+    <img height="22px" src="https://readme.app.surmon.me/api/render?template_id=github-readme-views&props.username=surmon-china&props.border=0&props.background=%23efefef&props.fontSize=12&props.prefix=👁&svg.width=48&svg.height=22" />
   </a>
 </p>
 

@@ -34,6 +34,7 @@ const npmScript = async () => {
     schemaVersion: 1,
     label: 'Total NPM Downloads',
     message: thousands(npmDownloadsTotal),
+    cacheSeconds: 3600,
   })
 }
 
@@ -79,6 +80,7 @@ const githubScript = async () => {
     schemaVersion: 1,
     label: 'Total GitHub Stars',
     message: thousands(statistics.stars),
+    cacheSeconds: 3600,
   })
 }
 

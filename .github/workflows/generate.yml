@@ -7,7 +7,7 @@ on:
   schedule:
     # https://crontab.guru/
     # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
-    - cron: '38 0/2 * * *'
+    - cron: '30 0/3 * * *'
 
 jobs:
   generate:

@@ -1,0 +1,800 @@
+{
+  "packages": [
+    {
+      "package": {
+        "name": "vue-awesome-swiper",
+        "scope": "unscoped",
+        "version": "4.1.1",
+        "description": "Swiper component for Vue",
+        "keywords": [
+          "vue swiper",
+          "vue awesome swiper",
+          "vue carrousel",
+          "carrousel",
+          "swiper"
+        ],
+        "date": "2020-04-20T16:54:40.366Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-awesome-swiper",
+          "homepage": "https://github.surmon.me/vue-awesome-swiper",
+          "repository": "https://github.com/surmon-china/vue-awesome-swiper",
+          "bugs": "https://github.com/surmon-china/vue-awesome-swiper/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "url": "https://github.com/surmon-china"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.3726385586093327,
+        "detail": {
+          "quality": 0.6320335610457268,
+          "popularity": 0.3344712704340853,
+          "maintenance": 0.18846727326767074
+        }
+      },
+      "searchScore": 0.000016789776
+    },
+    {
+      "package": {
+        "name": "vue-quill-editor",
+        "scope": "unscoped",
+        "version": "3.0.6",
+        "description": "Quill editor component for Vue",
+        "keywords": [
+          "vue-quill-editor",
+          "vue quill",
+          "vue text editor",
+          "vue rich text editor",
+          "vue web editor",
+          "vue editor"
+        ],
+        "date": "2018-04-09T09:45:01.816Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-quill-editor",
+          "homepage": "https://github.com/surmon-china/vue-quill-editor#readme",
+          "repository": "https://github.com/surmon-china/vue-quill-editor",
+          "bugs": "https://github.com/surmon-china/vue-quill-editor/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "https://surmon.me",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.28859722550229594,
+        "detail": {
+          "quality": 0.6452964835534395,
+          "popularity": 0.2714522298178975,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 6.477821e-7
+    },
+    {
+      "package": {
+        "name": "vue-codemirror",
+        "scope": "unscoped",
+        "version": "4.0.6",
+        "description": "CodeMirror component for Vue",
+        "keywords": [
+          "vue-codemirror",
+          "vue codemirror",
+          "codemirror",
+          "vue"
+        ],
+        "date": "2018-11-13T17:20:09.995Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-codemirror",
+          "homepage": "https://github.com/surmon-china/vue-codemirror#readme",
+          "repository": "https://github.com/surmon-china/vue-codemirror",
+          "bugs": "https://github.com/surmon-china/vue-codemirror/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "https://surmon.me",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.2736663145525127,
+        "detail": {
+          "quality": 0.6452964835534395,
+          "popularity": 0.2287924842470883,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 2.564117e-7
+    },
+    {
+      "package": {
+        "name": "vuniversal",
+        "scope": "unscoped",
+        "version": "0.0.13",
+        "description": "Create vue universal app",
+        "keywords": [
+          "vue",
+          "ssr",
+          "universal"
+        ],
+        "date": "2020-05-14T03:36:52.923Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vuniversal",
+          "homepage": "https://github.com/surmon-china/vuniversal#readme",
+          "repository": "https://github.com/surmon-china/vuniversal",
+          "bugs": "https://github.com/surmon-china/vuniversal/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "https://github.com/surmon-china",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.311966505939421,
+        "detail": {
+          "quality": 0.8172955807767747,
+          "popularity": 0.0023265316077252544,
+          "maintenance": 0.18846727326767074
+        }
+      },
+      "searchScore": 2.1637393e-7
+    },
+    {
+      "package": {
+        "name": "@surmon-china/libundler",
+        "scope": "surmon-china",
+        "version": "1.1.1",
+        "description": "Universal JavaScript library bundler",
+        "keywords": [
+          "JavaScript bundler",
+          "TypeScript bundler",
+          "zero config bundler",
+          "react component bundler",
+          "vue component bundler",
+          "vue SFC bundler",
+          "rollup",
+          "webpack"
+        ],
+        "date": "2021-12-05T05:57:16.539Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler",
+          "homepage": "https://github.com/surmon-china/libundler#readme",
+          "repository": "https://github.com/surmon-china/libundler",
+          "bugs": "https://github.com/surmon-china/libundler/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.28380244797227694,
+        "detail": {
+          "quality": 0.5480587733820306,
+          "popularity": 0.008130031772114427,
+          "maintenance": 0.33296944239265064
+        }
+      },
+      "searchScore": 5.4917145e-8
+    },
+    {
+      "package": {
+        "name": "vue-video-player",
+        "scope": "unscoped",
+        "version": "5.0.2",
+        "description": "video.js component for Vue",
+        "keywords": [
+          "vue-video-player",
+          "vue video player",
+          "video player",
+          "vue player",
+          "vue video"
+        ],
+        "date": "2018-02-01T08:02:38.799Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-video-player",
+          "homepage": "https://github.com/surmon-china/vue-video-player#readme",
+          "repository": "https://github.com/surmon-china/vue-video-player",
+          "bugs": "https://github.com/surmon-china/vue-video-player/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "https://surmon.me",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.2480058983163922,
+        "detail": {
+          "quality": 0.620780168925111,
+          "popularity": 0.17649099325388262,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 5.2664827e-8
+    },
+    {
+      "package": {
+        "name": "veact-use",
+        "scope": "unscoped",
+        "version": "0.1.3",
+        "description": "Collection of Veact Hooks",
+        "keywords": [
+          "React mutable state lib",
+          "React vue state",
+          "React composition API",
+          "Veact Hooks"
+        ],
+        "date": "2021-07-26T20:55:26.788Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/veact-use",
+          "homepage": "https://github.com/veactjs/veact-use#readme",
+          "repository": "https://github.com/veactjs/veact-use",
+          "bugs": "https://github.com/veactjs/veact-use/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.25684784433091357,
+        "detail": {
+          "quality": 0.46196427806719725,
+          "popularity": 0.004557259819121044,
+          "maintenance": 0.3333243427830344
+        }
+      },
+      "searchScore": 1.3482362e-8
+    },
+    {
+      "package": {
+        "name": "veact",
+        "scope": "unscoped",
+        "version": "0.1.4",
+        "description": "Mutable state enhancer library for @react by @vue/reactivity",
+        "keywords": [
+          "React mutable state lib",
+          "React vue state",
+          "React composition API",
+          "React state library"
+        ],
+        "date": "2022-01-17T08:42:19.200Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/veact",
+          "homepage": "https://github.com/veactjs/veact#readme",
+          "repository": "https://github.com/veactjs/veact",
+          "bugs": "https://github.com/veactjs/veact/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.256778784765027,
+        "detail": {
+          "quality": 0.46196427806719725,
+          "popularity": 0.004558953893101309,
+          "maintenance": 0.3331253356636641
+        }
+      },
+      "searchScore": 1.34353195e-8
+    },
+    {
+      "package": {
+        "name": "vue-touch-ripple",
+        "scope": "unscoped",
+        "version": "3.0.0",
+        "description": "Touch ripple component for Vue",
+        "keywords": [
+          "vue-touch-ripple",
+          "vue touch ripple",
+          "vue ripple",
+          "vue touch"
+        ],
+        "date": "2018-01-24T02:37:18.860Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-touch-ripple",
+          "homepage": "https://github.com/surmon-china/vue-touch-ripple#readme",
+          "repository": "https://github.com/surmon-china/vue-touch-ripple",
+          "bugs": "https://github.com/surmon-china/vue-touch-ripple/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "https://surmon.me",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.2254642874734317,
+        "detail": {
+          "quality": 0.6452964835534395,
+          "popularity": 0.09107240687828533,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 7.604396e-9
+    },
+    {
+      "package": {
+        "name": "wonderful-bing-wallpaper",
+        "scope": "unscoped",
+        "version": "0.3.4",
+        "description": "Simple bing daily wallpaper API lib for node.js",
+        "keywords": [
+          "bing",
+          "bing wallpaper",
+          "bing wallpaper api",
+          "daily-wallpaper",
+          "bing-daily-wallpaper",
+          "wonderful-bing-daily-wallpaper"
+        ],
+        "date": "2020-03-28T14:49:29.400Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/wonderful-bing-wallpaper",
+          "homepage": "https://github.com/surmon-china/wonderful-bing-wallpaper#readme",
+          "repository": "https://github.com/surmon-china/wonderful-bing-wallpaper",
+          "bugs": "https://github.com/surmon-china/wonderful-bing-wallpaper/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "https://github.com/surmon-china",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.20820559420249868,
+        "detail": {
+          "quality": 0.5241630510821409,
+          "popularity": 0.024612230618127617,
+          "maintenance": 0.1209782804614622
+        }
+      },
+      "searchScore": 1.1966901e-9
+    },
+    {
+      "package": {
+        "name": "vue-drag-zone",
+        "scope": "unscoped",
+        "version": "2.0.0-rc1",
+        "description": "Drag Zone component for Vue",
+        "keywords": [
+          "vue-drag-zone",
+          "vue drag dom",
+          "vue drag size",
+          "vue drag"
+        ],
+        "date": "2018-04-11T08:07:39.500Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-drag-zone",
+          "homepage": "https://github.com/surmon-china/vue-drag-zone#readme",
+          "repository": "https://github.com/surmon-china/vue-drag-zone",
+          "bugs": "https://github.com/surmon-china/vue-drag-zone/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "http://surmon.me",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.20187841903655096,
+        "detail": {
+          "quality": 0.6452964835534395,
+          "popularity": 0.02368421134434039,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 9.0783536e-10
+    },
+    {
+      "package": {
+        "name": "simple-netease-cloud-music",
+        "scope": "unscoped",
+        "version": "0.5.2",
+        "description": "网易云音乐 API for node.js",
+        "keywords": [
+          "网易云音乐",
+          "网易云 API",
+          "网易云 nodejs",
+          "Netease Cloud Music"
+        ],
+        "date": "2020-12-20T16:06:01.478Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/simple-netease-cloud-music",
+          "homepage": "https://github.com/surmon-china/simple-netease-cloud-music#readme",
+          "repository": "https://github.com/surmon-china/simple-netease-cloud-music",
+          "bugs": "https://github.com/surmon-china/simple-netease-cloud-music/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "https://github.com/surmon-china",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.1967800743136132,
+        "detail": {
+          "quality": 0.5241630510821409,
+          "popularity": 0.030829547234116086,
+          "maintenance": 0.0821166213058008
+        }
+      },
+      "searchScore": 6.3465977e-10
+    },
+    {
+      "package": {
+        "name": "emoji-233333",
+        "scope": "unscoped",
+        "version": "0.3.2",
+        "description": "233333",
+        "keywords": [
+          "emoji canvas",
+          "emoji rain",
+          "233333",
+          "emoji",
+          "表情雨"
+        ],
+        "date": "2020-10-17T14:40:46.264Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/emoji-233333",
+          "homepage": "https://github.com/surmon-china/emoji-233333#readme",
+          "repository": "https://github.com/surmon-china/emoji-233333",
+          "bugs": "https://github.com/surmon-china/emoji-233333/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "url": "https://github.com/surmon-china"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.18483658081308518,
+        "detail": {
+          "quality": 0.42157197957356274,
+          "popularity": 0.06490727916811831,
+          "maintenance": 0.10184982637764273
+        }
+      },
+      "searchScore": 4.0740614e-10
+    },
+    {
+      "package": {
+        "name": "@surmon-china/abc-factory",
+        "scope": "surmon-china",
+        "version": "0.3.3",
+        "description": "JavaScript base factory",
+        "keywords": [
+          "javascript bundler",
+          "typescript bundler",
+          "zero config bundler",
+          "vue component bundler",
+          "vue sfc bundler",
+          "rollup",
+          "webpack"
+        ],
+        "date": "2020-03-29T11:19:10.436Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40surmon-china%2Fabc-factory",
+          "homepage": "https://github.com/surmon-china/abc-factory#readme",
+          "repository": "https://github.com/surmon-china/abc-factory",
+          "bugs": "https://github.com/surmon-china/abc-factory/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "url": "https://github.com/surmon-china"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.16478848819375136,
+        "detail": {
+          "quality": 0.35828765433532067,
+          "popularity": 0.00692668771619875,
+          "maintenance": 0.15679386054995884
+        }
+      },
+      "searchScore": 3.8939584e-11
+    },
+    {
+      "package": {
+        "name": "naivebayes",
+        "scope": "unscoped",
+        "version": "0.5.0",
+        "description": "Naive Bayes Classifier for node.js.",
+        "date": "2017-04-24T03:24:49.812Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/naivebayes"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.15306379781021212,
+        "detail": {
+          "quality": 0.5071753293017616,
+          "popularity": 0.0026034257705246895,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 1.7203359e-11
+    },
+    {
+      "package": {
+        "name": "@fox-finder/base",
+        "scope": "fox-finder",
+        "version": "0.0.1",
+        "description": "Base modules for @fox-finder",
+        "date": "2019-09-01T17:35:39.471Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40fox-finder%2Fbase",
+          "homepage": "https://github.com/fox-finder/FoxBase#readme",
+          "repository": "https://github.com/fox-finder/FoxBase",
+          "bugs": "https://github.com/fox-finder/FoxBase/issues"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.11080392031717136,
+        "detail": {
+          "quality": 0.3679121958693208,
+          "popularity": 0.001229318732500355,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 2.1647706e-13
+    },
+    {
+      "package": {
+        "name": "mongodb-data-api",
+        "scope": "unscoped",
+        "version": "0.0.1",
+        "description": "MongoDB atlas data API SDK for Node.js",
+        "date": "2022-01-28T19:42:05.574Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/mongodb-data-api",
+          "homepage": "https://github.com/surmon-china/mongodb-data-api#readme",
+          "repository": "https://github.com/surmon-china/mongodb-data-api",
+          "bugs": "https://github.com/surmon-china/mongodb-data-api/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.10521432215817318,
+        "detail": {
+          "quality": 0.3507144071939106,
+          "popularity": 0,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 1.0490891e-13
+    }
+  ],
+  "downloads": {
+    "naivebayes": 484,
+    "vue-quill-editor": 3232836,
+    "vue-drag-zone": 5969,
+    "wonderful-bing-wallpaper": 1979,
+    "@surmon-china/abc-factory": 1956,
+    "simple-netease-cloud-music": 3169,
+    "veact": 591,
+    "vue-codemirror": 1987235,
+    "mongodb-data-api": 32,
+    "@surmon-china/libundler": 515,
+    "emoji-233333": 1895,
+    "vue-awesome-swiper": 7004423,
+    "veact-use": 350,
+    "@fox-finder/base": 145,
+    "vue-touch-ripple": 8969,
+    "vue-video-player": 1087953,
+    "vuniversal": 349
+  }
+}

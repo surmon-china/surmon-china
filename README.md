@@ -60,11 +60,11 @@
 <h4></h4>
 
 <a href="https://github.com/surmon-china/surmon-china#gh-dark-mode-only">
-  <img width="100%" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=surmon-china&props.theme=dark&props.background=transparent&svg.width=830&svg.height=190">
+  <img width="100%" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=surmon-china&props.theme=dark&props.background=transparent&props.count=10&svg.width=830&svg.height=143">
 </a>
 
 <a href="https://github.com/surmon-china/surmon-china#gh-light-mode-only">
-  <img width="100%" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=surmon-china&svg.width=830&svg.height=190">
+  <img width="100%" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=surmon-china&props.count=10&svg.width=830&svg.height=143">
 </a>
 
 

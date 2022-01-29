@@ -5,7 +5,9 @@ on:
     tags:
       - 'v*'
   schedule:
-    - cron: '0 0/2 * * *'
+    # https://crontab.guru/
+    # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
+    - cron: '38 0/2 * * *'
 
 jobs:
   generate:

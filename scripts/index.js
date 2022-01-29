@@ -4,7 +4,7 @@ const {
   fetchNPMPackageDownloads,
   fetchGitHubRepositories,
   fetchGitHubOriginations,
-} = require('./service')
+} = require('./fetchers')
 
 // NPM
 const npmScript = async () => {

@@ -85,6 +85,12 @@ const githubScript = async () => {
 }
 
 ;(async () => {
-  await npmScript()
-  await githubScript()
+  try {
+    await npmScript()
+    await githubScript()
+    process.exit(0)
+  } catch (error) {
+    console.error('Generate Error!', error)
+    process.exit(1)
+  }
 })()

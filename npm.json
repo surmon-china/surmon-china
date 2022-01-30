@@ -43,7 +43,7 @@
           "maintenance": 0.1883678222484164
         }
       },
-      "searchScore": 0.000016835864
+      "searchScore": 0.000016768246
     },
     {
       "package": {
@@ -91,7 +91,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 6.5033595e-7
+      "searchScore": 6.477241e-7
     },
     {
       "package": {
@@ -137,7 +137,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 2.5742273e-7
+      "searchScore": 2.563889e-7
     },
     {
       "package": {
@@ -185,7 +185,7 @@
           "maintenance": 0.1883678222484164
         }
       },
-      "searchScore": 2.1695104e-7
+      "searchScore": 2.1607971e-7
     },
     {
       "package": {
@@ -232,7 +232,7 @@
           "maintenance": 0.3329692129958503
         }
       },
-      "searchScore": 5.5062475e-8
+      "searchScore": 5.4841333e-8
     },
     {
       "package": {
@@ -279,7 +279,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 5.2877578e-8
+      "searchScore": 5.266521e-8
     },
     {
       "package": {
@@ -325,7 +325,7 @@
           "maintenance": 0.33332433752615626
         }
       },
-      "searchScore": 1.3507294e-8
+      "searchScore": 1.3453046e-8
     },
     {
       "package": {
@@ -371,7 +371,52 @@
           "maintenance": 0.33312520691327085
         }
       },
-      "searchScore": 1.3459038e-8
+      "searchScore": 1.3404984e-8
+    },
+    {
+      "package": {
+        "name": "mongodb-data-api",
+        "scope": "unscoped",
+        "version": "0.1.0",
+        "description": "MongoDB atlas data API SDK for Node.js",
+        "keywords": [
+          "MongoDB data API",
+          "MongoDB cloud data API",
+          "MongoDB Atlas data API SDK"
+        ],
+        "date": "2022-01-30T18:50:44.191Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/mongodb-data-api",
+          "homepage": "https://github.com/surmon-china/mongodb-data-api#readme",
+          "repository": "https://github.com/surmon-china/mongodb-data-api",
+          "bugs": "https://github.com/surmon-china/mongodb-data-api/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.256547020324541,
+        "detail": {
+          "quality": 0.46197231227534674,
+          "popularity": 0.00368188564362959,
+          "maintenance": 0.3333333333333333
+        }
+      },
+      "searchScore": 1.3158574e-8
     },
     {
       "package": {
@@ -417,7 +462,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 7.63433e-9
+      "searchScore": 7.603669e-9
     },
     {
       "package": {
@@ -468,7 +513,7 @@
           "maintenance": 0.12089515578063137
         }
       },
-      "searchScore": 1.1967439e-9
+      "searchScore": 1.1919375e-9
     },
     {
       "package": {
@@ -514,7 +559,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 9.1140184e-10
+      "searchScore": 9.0774144e-10
     },
     {
       "package": {
@@ -563,7 +608,7 @@
           "maintenance": 0.08205629370684778
         }
       },
-      "searchScore": 6.350359e-10
+      "searchScore": 6.324855e-10
     },
     {
       "package": {
@@ -611,7 +656,7 @@
           "maintenance": 0.10177710980288042
         }
       },
-      "searchScore": 4.0740775e-10
+      "searchScore": 4.0577153e-10
     },
     {
       "package": {
@@ -661,7 +706,7 @@
           "maintenance": 0.1566973002500848
         }
       },
-      "searchScore": 3.8879455e-11
+      "searchScore": 3.8723306e-11
     },
     {
       "package": {
@@ -698,7 +743,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 1.7275717e-11
+      "searchScore": 1.7206335e-11
     },
     {
       "package": {
@@ -735,66 +780,26 @@
           "maintenance": 0
         }
       },
-      "searchScore": 2.1743363e-13
-    },
-    {
-      "package": {
-        "name": "mongodb-data-api",
-        "scope": "unscoped",
-        "version": "0.0.1",
-        "description": "MongoDB atlas data API SDK for Node.js",
-        "date": "2022-01-28T19:42:05.574Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/mongodb-data-api",
-          "homepage": "https://github.com/surmon-china/mongodb-data-api#readme",
-          "repository": "https://github.com/surmon-china/mongodb-data-api",
-          "bugs": "https://github.com/surmon-china/mongodb-data-api/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.10521726999969441,
-        "detail": {
-          "quality": 0.3507242333323147,
-          "popularity": 0,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 1.05362117e-13
+      "searchScore": 2.1656037e-13
     }
   ],
   "downloads": {
-    "vue-awesome-swiper": 6996253,
-    "vue-drag-zone": 5919,
-    "vue-quill-editor": 3227700,
-    "simple-netease-cloud-music": 3172,
-    "veact-use": 350,
-    "veact": 591,
-    "vuniversal": 350,
     "vue-codemirror": 1984368,
+    "veact": 591,
+    "veact-use": 350,
+    "vue-quill-editor": 3227700,
+    "vuniversal": 350,
     "vue-touch-ripple": 8949,
-    "@fox-finder/base": 145,
-    "@surmon-china/libundler": 521,
-    "vue-video-player": 1086283,
-    "mongodb-data-api": 37,
     "wonderful-bing-wallpaper": 1969,
-    "naivebayes": 484,
+    "simple-netease-cloud-music": 3172,
+    "mongodb-data-api": 37,
+    "vue-video-player": 1086283,
+    "vue-drag-zone": 5919,
     "emoji-233333": 1895,
-    "@surmon-china/abc-factory": 1958
+    "naivebayes": 484,
+    "vue-awesome-swiper": 6996253,
+    "@surmon-china/libundler": 521,
+    "@surmon-china/abc-factory": 1958,
+    "@fox-finder/base": 145
   }
 }

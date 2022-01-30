@@ -87,7 +87,7 @@ const githubScript = async () => {
 ;(async () => {
   try {
     const now = new Date()
-    console.info('Generate run', now.toLocaleString(), now.toString())
+    console.info('Generate run', now.toLocaleString(), '|', now.toString())
     await npmScript()
     await githubScript()
     console.info('Generate done')

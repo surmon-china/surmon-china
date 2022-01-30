@@ -86,11 +86,14 @@ const githubScript = async () => {
 
 ;(async () => {
   try {
+    const now = new Date()
+    console.info('Generate run', now.toLocaleString(), now.toString())
     await npmScript()
     await githubScript()
+    console.info('Generate done')
     process.exit(0)
   } catch (error) {
-    console.error('Generate Error!', error)
+    console.error('Generate error!', error)
     process.exit(1)
   }
 })()

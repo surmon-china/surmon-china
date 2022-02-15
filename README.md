@@ -3,7 +3,7 @@
 
 <h3 align="center">
   <samp>
-    <ins>Hello World! I am <a target="_blank" href="https://surmon.me">Surmon</a></ins>.
+    Hello World! I am <a target="_blank" href="https://surmon.me"><ins>Surmon</ins></a>.
   </samp>
 </h3>
 

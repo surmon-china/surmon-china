@@ -7,17 +7,17 @@
   </samp>
 </h3>
 
-<h4 align="center">
+<h3 align="center">
   <samp>
     > I am passionate about open source software and giving back to others.&nbsp;
   </samp>
-</h4>
+</h3>
 
-<h4 align="center">
+<h3 align="center">
   <samp>
     > My projects are trusted by thousands of developers all over the world.
   </samp>
-</h4>
+</h3>
 
 <h5 align="center">
   <a href="#">

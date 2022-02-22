@@ -20,7 +20,7 @@ exports.fetchNPMPackageDownloads = async (packageName) => {
   return response.data
 }
 
-exports.fetchGitHubUserInfo = async (githubUID) => {
+exports.fetchGitHubUserinfo = async (githubUID) => {
   const response = await axios.get(`https://api.github.com/users/${githubUID}`)
   return response.data
 }

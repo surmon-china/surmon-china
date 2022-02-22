@@ -30,7 +30,7 @@ exports.fetchGitHubRepositories = async (githubUID) => {
   return response.data
 }
 
-exports.fetchGitHubOriginations = async (githubUID) => {
+exports.fetchGitHubOrganizations = async (githubUID) => {
   const response = await axios.get(`https://api.github.com/users/${githubUID}/orgs`)
   return response.data
 }

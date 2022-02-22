@@ -4,7 +4,7 @@ const {
   fetchNPMPackageDownloads,
   fetchGitHubUserinfo,
   fetchGitHubRepositories,
-  fetchGitHubOriginations,
+  fetchGitHubOrganizations,
 } = require('./fetchers')
 
 // NPM
@@ -41,12 +41,12 @@ const npmScript = async () => {
 
 // GitHub
 const githubScript = async () => {
-  const [userinfo, repositories, originations] = await Promise.all([
+  const [userinfo, repositories, organizations] = await Promise.all([
     fetchGitHubUserinfo(CONFIG.GITHUB_UID),
     fetchGitHubRepositories(CONFIG.GITHUB_UID),
-    fetchGitHubOriginations(CONFIG.GITHUB_UID),
+    fetchGitHubOrganizations(CONFIG.GITHUB_UID),
   ])
-  console.log(`GitHub data: repositories > ${repositories.length}, originations > ${originations.length}`)
+  console.log(`GitHub data: repositories > ${repositories.length}, organizations > ${organizations.length}`)
 
   // statistics
   const statistics = {
@@ -78,7 +78,7 @@ const githubScript = async () => {
   writeJSONToOutput('github.json', {
     userinfo,
     repositories,
-    originations,
+    organizations,
     statistics,
   })
   writeJSONToOutput('github.stars.shields.json', {

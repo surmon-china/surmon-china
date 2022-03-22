@@ -19,6 +19,12 @@
   </samp>
 </h3>
 
+<h3 align="center">
+  <samp>
+    💌 <ins>I’m looking for a new job, <a href="mailto:i@surmon.me">Email me</a> if there is a seat. </ins>
+  </samp>
+</h3>
+
 <h5 align="center">
   <a href="#">
     <img alt="total github stars" src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/surmon-china/surmon-china/release/github.stars.shields.json" />

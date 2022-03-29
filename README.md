@@ -47,7 +47,7 @@
   </a>
   <span>&nbsp;</span>
   <a href="https://leetcode.com/Surmon">
-    <img alt="telegram" height="22px" src="https://img.shields.io/badge/LC-FFA116?style=for-the-badge&logo=leetcode&labelColor=ffffff" />
+    <img alt="leetcode" height="22px" src="https://img.shields.io/badge/LC-FFA116?style=for-the-badge&logo=leetcode&labelColor=ffffff" />
   </a>
   <span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/surmon">

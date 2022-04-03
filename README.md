@@ -87,7 +87,7 @@
   </a>
 </p>
 
-| &nbsp; | project | homepage | stars | last commit | NPM downloads | version
+| &nbsp; | project | homepage | stars | last commit | downloads | version
 | :---: | :--- | --- | :--- | :--- | :--- | :--- |
 | <a href="#"><img src="/icons/typescript.svg" height="16px" /></a> | [README.md](https://github.com/surmon-china/README.md) 🔥🔥 | [`#homepage`](https://readme.app.surmon.me) | [![GitHub stars](https://img.shields.io/github/stars/surmon-china/README.md?style=flat-square)](https://github.com/surmon-china/README.md/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/surmon-china/README.md?style=flat-square&label=last)](https://github.com/surmon-china/README.md/commits) | - | ![GitHub package version](https://img.shields.io/github/package-json/v/surmon-china/README.md?label=%20&style=flat-square)
 | <a href="https://github.com/veactjs"><img src="/icons/veact.svg" height="14px" /></a> | [veact](https://github.com/veactjs/veact) &nbsp;\|&nbsp; [veact-use](https://github.com/veactjs/veact-use) 🔥 | [`#readme`](https://github.com/veactjs/veact#veact) | [![GitHub stars](https://img.shields.io/github/stars/veactjs/veact?style=flat-square)](https://github.com/veactjs/veact/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/veactjs/veact?style=flat-square&label=last)](https://github.com/veactjs/veact/commits) | [![NPM downloads](https://img.shields.io/npm/dm/veact?style=flat-square&label=&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/veact) | ![GitHub package version](https://img.shields.io/github/package-json/v/veactjs/veact?label=%20&style=flat-square)

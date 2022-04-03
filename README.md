@@ -26,41 +26,54 @@
 </h3>
 
 <h5 align="center">
-  <a href="#">
-    <img alt="total github stars" src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/surmon-china/surmon-china/release/github.stars.shields.json" />
-  </a>
+  <a href="#"><img
+    alt="total github stars"
+    src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/surmon-china/surmon-china/release/github.stars.shields.json"
+  /></a>
   <span>&nbsp;</span>
-  <a href="https://www.npmjs.com/~surmon">
-    <img alt="total npm downloads" src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/surmon-china/surmon-china/release/npm.downloads.shields.json" />
-  </a>
+  <a href="https://www.npmjs.com/~surmon"><img
+    alt="total npm downloads"
+    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/surmon-china/surmon-china/release/npm.downloads.shields.json"
+  /></a>
 </h5>
 
 <p align="center">
-  <a href="https://github.com/sponsors/surmon-china">
-    <img alt="GitHub Sponsors" src="https://readme.app.surmon.me/api/render?template_id=github-sponsor-button&props.username=surmon-china&svg.width=220&svg.height=50&props.lineStyle=true&props.uppercase=true&props.animation=true">
-  </a>
+  <a href="https://github.com/sponsors/surmon-china"><img
+    alt="GitHub Sponsors"
+    src="https://readme.app.surmon.me/api/render?template_id=github-sponsor-button&props.username=surmon-china&svg.width=220&svg.height=50&props.lineStyle=true&props.uppercase=true&props.animation=true"
+  /></a>
 </p>
 
 <p align="center">
-  <a href="https://surmon.me/about">
-    <img alt="blog" height="22px" src="https://img.shields.io/badge/surmon.me-0088f5?style=for-the-badge" />
-  </a>
+  <a href="https://surmon.me/about"><img
+    alt="blog"
+    height="22px"
+    src="https://img.shields.io/badge/surmon.me-0088f5?style=for-the-badge"
+  /></a>
   <span>&nbsp;</span>
-  <a href="https://leetcode.com/Surmon">
-    <img alt="leetcode" height="22px" src="https://img.shields.io/badge/LC-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=16" />
-  </a>
+  <a href="https://leetcode.com/Surmon"><img
+    alt="leetcode"
+    height="22px"
+    src="https://img.shields.io/badge/LC-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=16"
+  /></a>
   <span>&nbsp;</span>
-  <a href="https://www.linkedin.com/in/surmon">
-    <img alt="linkedin" height="22px" src="https://img.shields.io/badge/LI-0a66c2?style=for-the-badge&logo=linkedin&logoWidth=16" />
-  </a>
+  <a href="https://www.linkedin.com/in/surmon"><img
+    alt="linkedin"
+    height="22px"
+    src="https://img.shields.io/badge/LI-0a66c2?style=for-the-badge&logo=linkedin&logoWidth=16"
+  /></a>
   <span>&nbsp;</span>
-  <a href="https://www.instagram.com/surmon666">
-    <img alt="instagram" height="22px" src="https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=16" />
-  </a>
+  <a href="https://www.instagram.com/surmon666"><img
+    alt="instagram"
+    height="22px"
+    src="https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=16"
+  /></a>
   <span>&nbsp;</span>
-  <a href="https://t.me/joinchat/VO701Zxp7nzdZMBY">
-    <img alt="telegram" height="22px" src="https://img.shields.io/badge/TG-2CA5E0?style=for-the-badge&logo=telegram&logoWidth=16" />
-  </a>
+  <a href="https://t.me/joinchat/VO701Zxp7nzdZMBY"><img
+    alt="telegram"
+    height="22px"
+    src="https://img.shields.io/badge/TG-2CA5E0?style=for-the-badge&logo=telegram&logoWidth=16"
+  /></a>
 </p>
 
 <h4></h4>

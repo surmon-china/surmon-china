@@ -74,17 +74,19 @@
     height="22px"
     src="https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=16"
   /></a>
-  <span>&nbsp;</span>
+</p>
+
+<p align="center">
   <a href="https://t.me/joinchat/VO701Zxp7nzdZMBY"><img
     alt="telegram"
-    height="22px"
-    src="https://img.shields.io/badge/TG-2CA5E0?style=for-the-badge&logo=telegram&logoWidth=16"
+    height="32px"
+    src="https://img.shields.io/badge/telegram%20中文-2CA5E0?style=for-the-badge&logo=telegram"
   /></a>
   <span>&nbsp;</span>
   <a href="https://discord.gg/cXdGT7Gx86"><img
     alt="discord"
-    height="22px"
-    src="https://img.shields.io/badge/DC-5865f2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=16"
+    height="32px"
+    src="https://img.shields.io/badge/discord%20server-5865f2?style=for-the-badge&logo=discord&logoColor=white"
   /></a>
 </p>
 

@@ -47,14 +47,14 @@
 <p align="center">
   <a href="https://t.me/joinchat/VO701Zxp7nzdZMBY"><img
     alt="telegram"
-    height="26px"
-    src="https://img.shields.io/badge/telegram%20中文组-2CA5E0?style=for-the-badge&logo=telegram"
+    height="28px"
+    src="https://img.shields.io/badge/telegram%20中文-2CA5E0?style=for-the-badge&logo=telegram"
   /></a>
   <span>&nbsp;</span>
   <a href="https://discord.gg/cXdGT7Gx86"><img
     alt="discord"
-    height="26px"
-    src="https://img.shields.io/badge/discord%20server-5865f2?style=for-the-badge&logo=discord&logoColor=white"
+    height="28px"
+    src="https://img.shields.io/badge/join%20discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"
   /></a>
 </p>
 
@@ -77,16 +77,22 @@
     src="https://img.shields.io/badge/LI-0a66c2?style=for-the-badge&logo=linkedin&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
+  <a href="https://www.instagram.com/surmon666"><img
+    alt="instagram"
+    height="22px"
+    src="https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=16"
+  /></a>
+  <span>&nbsp;</span>
   <a href="https://twitter.com/surmon7788"><img
     alt="twitter"
     height="22px"
     src="https://img.shields.io/badge/TW-1b95e0?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://www.instagram.com/surmon666"><img
-    alt="instagram"
+  <a href="https://www.youtube.com/channel/UCoL-j6T28PLSJ2U6ZdONS0w"><img
+    alt="youtube"
     height="22px"
-    src="https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=16"
+    src="https://img.shields.io/badge/YT-ec3323?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=16"
   /></a>
 </p>
 

@@ -54,7 +54,7 @@
   <a href="https://discord.gg/cXdGT7Gx86"><img
     alt="discord"
     height="28px"
-    src="https://img.shields.io/badge/join%20discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"
+    src="https://img.shields.io/badge/join%20discord-5865f2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12"
   /></a>
 </p>
 

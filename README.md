@@ -63,6 +63,12 @@
     src="https://img.shields.io/badge/LI-0a66c2?style=for-the-badge&logo=linkedin&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
+  <a href="https://www.instagram.com/surmon666"><img
+    alt="instagram"
+    height="22px"
+    src="https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=16"
+  /></a>
+  <span>&nbsp;</span>
   <a href="https://t.me/joinchat/VO701Zxp7nzdZMBY"><img
     alt="telegram"
     height="22px"

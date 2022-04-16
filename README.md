@@ -63,6 +63,12 @@
     src="https://img.shields.io/badge/LI-0a66c2?style=for-the-badge&logo=linkedin&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
+  <a href="https://twitter.com/surmon7788"><img
+    alt="twitter"
+    height="22px"
+    src="https://img.shields.io/badge/TW-1b95e0?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=16"
+  /></a>
+  <span>&nbsp;</span>
   <a href="https://www.instagram.com/surmon666"><img
     alt="instagram"
     height="22px"

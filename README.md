@@ -30,7 +30,7 @@
     alt="total github stars"
     src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/surmon-china/surmon-china/release/github.stars.shields.json"
   /></a>
-  <span>&nbsp;</span>
+  <span>&nbsp;&nbsp;</span>
   <a href="https://www.npmjs.com/~surmon"><img
     alt="total npm downloads"
     src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/surmon-china/surmon-china/release/npm.downloads.shields.json"

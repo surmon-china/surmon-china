@@ -36,14 +36,14 @@
         ]
       },
       "score": {
-        "final": 0.41905379424877487,
+        "final": 0.4190538867218111,
         "detail": {
-          "quality": 0.619366084928936,
-          "popularity": 0.3330780060097927,
+          "quality": 0.6193663797170905,
+          "popularity": 0.3330780175429066,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.00006282304
+      "searchScore": 0.00006239965
     },
     {
       "package": {
@@ -84,14 +84,14 @@
         ]
       },
       "score": {
-        "final": 0.29567559045596303,
+        "final": 0.295675620335789,
         "detail": {
-          "quality": 0.6453218377466268,
-          "popularity": 0.2916543975199285,
+          "quality": 0.645321921088919,
+          "popularity": 0.29165441145460946,
           "maintenance": 0
         }
       },
-      "searchScore": 9.915982e-7
+      "searchScore": 9.849141e-7
     },
     {
       "package": {
@@ -130,14 +130,14 @@
         ]
       },
       "score": {
-        "final": 0.27987517672761797,
+        "final": 0.27987520833326773,
         "detail": {
-          "quality": 0.6453218377466268,
-          "popularity": 0.24651035829608559,
+          "quality": 0.645321921088919,
+          "popularity": 0.2465103771616917,
           "maintenance": 0
         }
       },
-      "searchScore": 3.8283548e-7
+      "searchScore": 3.8025496e-7
     },
     {
       "package": {
@@ -178,14 +178,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.30175803766562564,
+        "final": 0.3017436179595394,
         "detail": {
-          "quality": 0.8182632322603752,
-          "popularity": 0.0031663238370538867,
-          "maintenance": 0.15763101327012638
+          "quality": 0.8182655827245513,
+          "popularity": 0.0031663776353055492,
+          "maintenance": 0.15758774562804886
         }
       },
-      "searchScore": 1.4306158e-7
+      "searchScore": 1.4200985e-7
     },
     {
       "package": {
@@ -225,14 +225,14 @@
         ]
       },
       "score": {
-        "final": 0.25035921878586487,
+        "final": 0.2503595547651385,
         "detail": {
-          "quality": 0.6215652884491615,
-          "popularity": 0.18254180643176118,
+          "quality": 0.6215663650599544,
+          "popularity": 0.1825418435632919,
           "maintenance": 0
         }
       },
-      "searchScore": 6.250294e-8
+      "searchScore": 6.208256e-8
     },
     {
       "package": {
@@ -270,14 +270,14 @@
         ]
       },
       "score": {
-        "final": 0.2845632485395199,
+        "final": 0.28456331600129453,
         "detail": {
-          "quality": 0.5482150628801328,
-          "popularity": 0.009805894310895558,
+          "quality": 0.5482152585282165,
+          "popularity": 0.009805919360465548,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 5.8201657e-8
+      "searchScore": 5.7809462e-8
     },
     {
       "package": {
@@ -316,14 +316,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2561019960778702,
+        "final": 0.2561022265689388,
         "detail": {
-          "quality": 0.4621330801765003,
-          "popularity": 0.0031633151481947615,
-          "maintenance": 0.3324426049230056
+          "quality": 0.4621341823482588,
+          "popularity": 0.0031632878398455875,
+          "maintenance": 0.3324423460586148
         }
       },
-      "searchScore": 1.2899005e-8
+      "searchScore": 1.2812199e-8
     },
     {
       "package": {
@@ -361,14 +361,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2502477842184062,
+        "final": 0.2502484290145181,
         "detail": {
-          "quality": 0.43837653087903505,
-          "popularity": 0.0059090236800829875,
+          "quality": 0.43837862631929436,
+          "popularity": 0.005909069863037651,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 9.611108e-9
+      "searchScore": 9.546653e-9
     },
     {
       "package": {
@@ -407,14 +407,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2494319919312517,
+        "final": 0.24942977208181988,
         "detail": {
-          "quality": 0.4621330801765003,
-          "popularity": 0.0025858224351988823,
-          "maintenance": 0.3139629429313772
+          "quality": 0.4621341823482588,
+          "popularity": 0.002585790082688017,
+          "maintenance": 0.31395568813828983
         }
       },
-      "searchScore": 9.081283e-9
+      "searchScore": 9.019013e-9
     },
     {
       "package": {
@@ -453,14 +453,157 @@
         ]
       },
       "score": {
-        "final": 0.22600252884468086,
+        "final": 0.2260025811155063,
         "detail": {
-          "quality": 0.6453218377466268,
-          "popularity": 0.0925885072019795,
+          "quality": 0.645321921088919,
+          "popularity": 0.09258858511094464,
           "maintenance": 0
         }
       },
-      "searchScore": 8.013725e-9
+      "searchScore": 7.959725e-9
+    },
+    {
+      "package": {
+        "name": "vue-drag-zone",
+        "scope": "unscoped",
+        "version": "2.0.0-rc1",
+        "description": "Drag Zone component for Vue",
+        "keywords": [
+          "vue-drag-zone",
+          "vue drag dom",
+          "vue drag size",
+          "vue drag"
+        ],
+        "date": "2018-04-11T08:07:39.500Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-drag-zone",
+          "homepage": "https://github.com/surmon-china/vue-drag-zone#readme",
+          "repository": "https://github.com/surmon-china/vue-drag-zone",
+          "bugs": "https://github.com/surmon-china/vue-drag-zone/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "http://surmon.me",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.2016848311519397,
+        "detail": {
+          "quality": 0.645321921088919,
+          "popularity": 0.023109299500754365,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 8.915667e-10
+    },
+    {
+      "package": {
+        "name": "simple-netease-cloud-music",
+        "scope": "unscoped",
+        "version": "0.5.2",
+        "description": "网易云音乐 API for node.js",
+        "keywords": [
+          "网易云音乐",
+          "网易云 API",
+          "网易云 nodejs",
+          "Netease Cloud Music"
+        ],
+        "date": "2020-12-20T16:06:01.478Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/simple-netease-cloud-music",
+          "homepage": "https://github.com/surmon-china/simple-netease-cloud-music#readme",
+          "repository": "https://github.com/surmon-china/simple-netease-cloud-music",
+          "bugs": "https://github.com/surmon-china/simple-netease-cloud-music/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "https://github.com/surmon-china",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.1901353651951519,
+        "detail": {
+          "quality": 0.5244734743997291,
+          "popularity": 0.031379230530218696,
+          "maintenance": 0.06231597768473315
+        }
+      },
+      "searchScore": 4.162039e-10
+    },
+    {
+      "package": {
+        "name": "emoji-233333",
+        "scope": "unscoped",
+        "version": "0.3.2",
+        "description": "233333",
+        "keywords": [
+          "emoji canvas",
+          "emoji rain",
+          "233333",
+          "emoji",
+          "表情雨"
+        ],
+        "date": "2020-10-17T14:40:46.264Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/emoji-233333",
+          "homepage": "https://github.com/surmon-china/emoji-233333#readme",
+          "repository": "https://github.com/surmon-china/emoji-233333",
+          "bugs": "https://github.com/surmon-china/emoji-233333/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "url": "https://github.com/surmon-china"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.16377200952830862,
+        "detail": {
+          "quality": 0.4218001128362624,
+          "popularity": 0.06467673457892187,
+          "maintenance": 0.0417003387851636
+        }
+      },
+      "searchScore": 9.395866e-11
     },
     {
       "package": {
@@ -504,157 +647,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.20831043968022966,
+        "final": 0.1655918655690555,
         "detail": {
-          "quality": 0.5244717787251221,
-          "popularity": 0.0239253067993918,
-          "maintenance": 0.12170013909401696
-        }
-      },
-      "searchScore": 1.2040922e-9
-    },
-    {
-      "package": {
-        "name": "vue-drag-zone",
-        "scope": "unscoped",
-        "version": "2.0.0-rc1",
-        "description": "Drag Zone component for Vue",
-        "keywords": [
-          "vue-drag-zone",
-          "vue drag dom",
-          "vue drag size",
-          "vue drag"
-        ],
-        "date": "2018-04-11T08:07:39.500Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-drag-zone",
-          "homepage": "https://github.com/surmon-china/vue-drag-zone#readme",
-          "repository": "https://github.com/surmon-china/vue-drag-zone",
-          "bugs": "https://github.com/surmon-china/vue-drag-zone/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "email": "surmon@foxmail.com",
-          "url": "http://surmon.me",
-          "username": "surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.20168480772346314,
-        "detail": {
-          "quality": 0.6453218377466268,
-          "popularity": 0.023109303998500294,
+          "quality": 0.5244734743997291,
+          "popularity": 0.023570923568962128,
           "maintenance": 0
         }
       },
-      "searchScore": 8.9761715e-10
-    },
-    {
-      "package": {
-        "name": "simple-netease-cloud-music",
-        "scope": "unscoped",
-        "version": "0.5.2",
-        "description": "网易云音乐 API for node.js",
-        "keywords": [
-          "网易云音乐",
-          "网易云 API",
-          "网易云 nodejs",
-          "Netease Cloud Music"
-        ],
-        "date": "2020-12-20T16:06:01.478Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/simple-netease-cloud-music",
-          "homepage": "https://github.com/surmon-china/simple-netease-cloud-music#readme",
-          "repository": "https://github.com/surmon-china/simple-netease-cloud-music",
-          "bugs": "https://github.com/surmon-china/simple-netease-cloud-music/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "email": "surmon@foxmail.com",
-          "url": "https://github.com/surmon-china",
-          "username": "surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.19014216309693777,
-        "detail": {
-          "quality": 0.5244717787251221,
-          "popularity": 0.03137918712112572,
-          "maintenance": 0.06233689710573479
-        }
-      },
-      "searchScore": 4.192155e-10
-    },
-    {
-      "package": {
-        "name": "emoji-233333",
-        "scope": "unscoped",
-        "version": "0.3.2",
-        "description": "233333",
-        "keywords": [
-          "emoji canvas",
-          "emoji rain",
-          "233333",
-          "emoji",
-          "表情雨"
-        ],
-        "date": "2020-10-17T14:40:46.264Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/emoji-233333",
-          "homepage": "https://github.com/surmon-china/emoji-233333#readme",
-          "repository": "https://github.com/surmon-china/emoji-233333",
-          "bugs": "https://github.com/surmon-china/emoji-233333/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "url": "https://github.com/surmon-china"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.16360618499358545,
-        "detail": {
-          "quality": 0.42179863126782174,
-          "popularity": 0.06419003643105156,
-          "maintenance": 0.041714522463916805
-        }
-      },
-      "searchScore": 9.278345e-11
+      "searchScore": 6.627278e-11
     },
     {
       "package": {
@@ -684,14 +684,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.15388125875175912,
+        "final": 0.15388182069422174,
         "detail": {
-          "quality": 0.5075009236294243,
-          "popularity": 0.004659947608376612,
+          "quality": 0.5075027301971571,
+          "popularity": 0.0046600046716418105,
           "maintenance": 0
         }
       },
-      "searchScore": 1.9208905e-11
+      "searchScore": 1.908035e-11
     },
     {
       "package": {
@@ -721,32 +721,32 @@
         "unstable": true
       },
       "score": {
-        "final": 0.11106551623138583,
+        "final": 0.11106615819971015,
         "detail": {
-          "quality": 0.3688074407525512,
-          "popularity": 0.0012093828732014022,
+          "quality": 0.368809639970925,
+          "popularity": 0.0012093320240933192,
           "maintenance": 0
         }
       },
-      "searchScore": 2.251301e-13
+      "searchScore": 2.2362945e-13
     }
   ],
   "downloads": {
-    "vue-video-player": 1096947,
-    "vuniversal": 392,
-    "vue-quill-editor": 3400502,
-    "vue-drag-zone": 5786,
-    "mongodb-data-api": 219,
-    "vue-touch-ripple": 8928,
-    "naivebayes": 551,
-    "vue-codemirror": 2086107,
-    "wonderful-bing-wallpaper": 1948,
-    "emoji-233333": 2053,
-    "vue-awesome-swiper": 7423252,
     "simple-netease-cloud-music": 3507,
-    "veact": 643,
+    "vue-drag-zone": 5786,
     "veact-use": 448,
+    "vue-touch-ripple": 8928,
+    "emoji-233333": 2053,
+    "mongodb-data-api": 219,
+    "vue-quill-editor": 3400502,
+    "veact": 643,
+    "wonderful-bing-wallpaper": 1948,
+    "vuniversal": 392,
+    "vue-video-player": 1096947,
+    "naivebayes": 551,
     "@surmon-china/libundler": 1160,
+    "vue-awesome-swiper": 7423252,
+    "vue-codemirror": 2086107,
     "@fox-finder/base": 155
   }
 }

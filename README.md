@@ -19,12 +19,6 @@
   </samp>
 </h3>
 
-<h3 align="center">
-  <samp>
-    💌 <ins>I’m looking for a new job, <a href="mailto:i@surmon.me">Email me</a> if there is a seat. </ins>
-  </samp>
-</h3>
-
 <h5 align="center">
   <a href="#"><img
     alt="total github stars"

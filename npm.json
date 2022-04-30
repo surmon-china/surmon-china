@@ -36,14 +36,14 @@
         ]
       },
       "score": {
-        "final": 0.4187905142459818,
+        "final": 0.4187906387965739,
         "detail": {
-          "quality": 0.6193714371464785,
-          "popularity": 0.3323211898153476,
+          "quality": 0.6193712690427319,
+          "popularity": 0.3323216897631079,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.00006216247
+      "searchScore": 0.00006189398
     },
     {
       "package": {
@@ -84,14 +84,14 @@
         ]
       },
       "score": {
-        "final": 0.2953538394299959,
+        "final": 0.29535403246340486,
         "detail": {
-          "quality": 0.6453250011352583,
-          "popularity": 0.29073239739833834,
+          "quality": 0.6453250137881226,
+          "popularity": 0.2907329380770518,
           "maintenance": 0
         }
       },
-      "searchScore": 9.738835e-7
+      "searchScore": 9.696821e-7
     },
     {
       "package": {
@@ -130,14 +130,14 @@
         ]
       },
       "score": {
-        "final": 0.279850229923809,
+        "final": 0.2798504511190546,
         "detail": {
-          "quality": 0.6453250011352583,
-          "popularity": 0.24643637023780435,
+          "quality": 0.6453250137881226,
+          "popularity": 0.24643699137890823,
           "maintenance": 0
         }
       },
-      "searchScore": 3.8250687e-7
+      "searchScore": 3.8085767e-7
     },
     {
       "package": {
@@ -178,14 +178,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2949431463336525,
+        "final": 0.294040725395692,
         "detail": {
-          "quality": 0.8183103845258775,
-          "popularity": 0.003239688749260831,
-          "maintenance": 0.13804611403899414
+          "quality": 0.8183133889159921,
+          "popularity": 0.0032471808286059674,
+          "maintenance": 0.13545770123109221
         }
       },
-      "searchScore": 1.0673694e-7
+      "searchScore": 1.0217081e-7
     },
     {
       "package": {
@@ -223,14 +223,14 @@
         ]
       },
       "score": {
-        "final": 0.28455795299282666,
+        "final": 0.28455917121725505,
         "detail": {
-          "quality": 0.5482188600854885,
-          "popularity": 0.009787509430038574,
+          "quality": 0.5482196414563378,
+          "popularity": 0.009790320324820072,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 5.8219754e-8
+      "searchScore": 5.7972688e-8
     },
     {
       "package": {
@@ -270,14 +270,14 @@
         ]
       },
       "score": {
-        "final": 0.24803731357594003,
+        "final": 0.24804018508723003,
         "detail": {
-          "quality": 0.6215877495403794,
-          "popularity": 0.17588853918236058,
+          "quality": 0.6215917384249926,
+          "popularity": 0.17589332445637787,
           "maintenance": 0
         }
       },
-      "searchScore": 5.2932744e-8
+      "searchScore": 5.271324e-8
     },
     {
       "package": {
@@ -316,14 +316,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.25598205232927584,
+        "final": 0.25597351759058246,
         "detail": {
-          "quality": 0.46214995550937227,
-          "popularity": 0.002948387941290343,
-          "maintenance": 0.3323003711343217
+          "quality": 0.46214921259663594,
+          "popularity": 0.002948308252996093,
+          "maintenance": 0.3322767026372659
         }
       },
-      "searchScore": 1.2801493e-8
+      "searchScore": 1.274055e-8
     },
     {
       "package": {
@@ -361,14 +361,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.25027059317514194,
+        "final": 0.25027325598292555,
         "detail": {
-          "quality": 0.4384127039144935,
-          "popularity": 0.005943186668934964,
+          "quality": 0.438415937233506,
+          "popularity": 0.0059480232748773555,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 9.633197e-9
+      "searchScore": 9.593376e-9
     },
     {
       "package": {
@@ -407,14 +407,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2480569952444725,
+        "final": 0.24781599743433308,
         "detail": {
-          "quality": 0.46214995550937227,
-          "popularity": 0.0027031795151042917,
-          "maintenance": 0.30990255931821237
+          "quality": 0.46214921259663594,
+          "popularity": 0.002703093784585237,
+          "maintenance": 0.3092147166592499
         }
       },
-      "searchScore": 8.465055e-9
+      "searchScore": 8.322065e-9
     },
     {
       "package": {
@@ -453,14 +453,51 @@
         ]
       },
       "score": {
-        "final": 0.22510245802676088,
+        "final": 0.22510245037056345,
         "detail": {
-          "quality": 0.6453250011352583,
-          "popularity": 0.09001416481766686,
+          "quality": 0.6453250137881226,
+          "popularity": 0.09001413209750483,
           "maintenance": 0
         }
       },
-      "searchScore": 7.4397732e-9
+      "searchScore": 7.407589e-9
+    },
+    {
+      "package": {
+        "name": "@fox-finder/base",
+        "scope": "fox-finder",
+        "version": "0.0.1",
+        "description": "Base modules for @fox-finder",
+        "date": "2019-09-01T17:35:39.471Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40fox-finder%2Fbase",
+          "homepage": "https://github.com/fox-finder/FoxBase#readme",
+          "repository": "https://github.com/fox-finder/FoxBase",
+          "bugs": "https://github.com/fox-finder/FoxBase/issues"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.22768362592768332,
+        "detail": {
+          "quality": 0.3688477571629254,
+          "popularity": 0.001586571975234941,
+          "maintenance": 0.3327828531070671
+        }
+      },
+      "searchScore": 2.4875357e-9
     },
     {
       "package": {
@@ -499,14 +536,14 @@
         ]
       },
       "score": {
-        "final": 0.20164716241473352,
+        "final": 0.20164714784755325,
         "detail": {
-          "quality": 0.6453250011352583,
-          "popularity": 0.022999034497588736,
+          "quality": 0.6453250137881226,
+          "popularity": 0.022998982031761407,
           "maintenance": 0
         }
       },
-      "searchScore": 8.94935e-10
+      "searchScore": 8.9106283e-10
     },
     {
       "package": {
@@ -548,14 +585,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.18700796982780182,
+        "final": 0.18661705672964618,
         "detail": {
-          "quality": 0.5245051011728106,
-          "popularity": 0.03134701136526779,
-          "maintenance": 0.05338567285175703
+          "quality": 0.5245042264932754,
+          "popularity": 0.03135040436307293,
+          "maintenance": 0.05226613501310864
         }
       },
-      "searchScore": 3.4065845e-10
+      "searchScore": 3.304456e-10
     },
     {
       "package": {
@@ -596,14 +633,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1616767200621875,
+        "final": 0.1614144957928484,
         "detail": {
-          "quality": 0.4218213179207708,
-          "popularity": 0.06470423915712853,
-          "maintenance": 0.035668117088460786
+          "quality": 0.4218203190655092,
+          "popularity": 0.06470935422080636,
+          "maintenance": 0.03491464598832402
         }
       },
-      "searchScore": 8.112067e-11
+      "searchScore": 7.921579e-11
     },
     {
       "package": {
@@ -647,14 +684,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.16561129386175644,
+        "final": 0.16561318096420197,
         "detail": {
-          "quality": 0.5245051011728106,
-          "popularity": 0.023599324314037932,
+          "quality": 0.5245042264932754,
+          "popularity": 0.023605465760626707,
           "maintenance": 0
         }
       },
-      "searchScore": 6.68997e-11
+      "searchScore": 6.662592e-11
     },
     {
       "package": {
@@ -684,69 +721,32 @@
         "unstable": true
       },
       "score": {
-        "final": 0.153912181634804,
+        "final": 0.15391399056750468,
         "detail": {
-          "quality": 0.507535945048823,
-          "popularity": 0.00471828034330596,
+          "quality": 0.5075349955254119,
+          "popularity": 0.004724262599660382,
           "maintenance": 0
         }
       },
-      "searchScore": 1.9291428e-11
-    },
-    {
-      "package": {
-        "name": "@fox-finder/base",
-        "scope": "fox-finder",
-        "version": "0.0.1",
-        "description": "Base modules for @fox-finder",
-        "date": "2019-09-01T17:35:39.471Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40fox-finder%2Fbase",
-          "homepage": "https://github.com/fox-finder/FoxBase#readme",
-          "repository": "https://github.com/fox-finder/FoxBase",
-          "bugs": "https://github.com/fox-finder/FoxBase/issues"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.11107268466100649,
-        "detail": {
-          "quality": 0.3688449192842015,
-          "popularity": 0.0011977396449886976,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 2.2543327e-13
+      "searchScore": 1.9212736e-11
     }
   ],
   "downloads": {
-    "vue-awesome-swiper": 7455881,
-    "emoji-233333": 2067,
-    "naivebayes": 547,
-    "vue-quill-editor": 3420561,
     "veact-use": 453,
-    "veact": 653,
-    "wonderful-bing-wallpaper": 1950,
     "mongodb-data-api": 225,
-    "@surmon-china/libundler": 1211,
-    "vue-video-player": 1097865,
     "vuniversal": 391,
-    "vue-drag-zone": 5740,
-    "vue-touch-ripple": 8921,
     "simple-netease-cloud-music": 3555,
+    "vue-quill-editor": 3420561,
+    "wonderful-bing-wallpaper": 1950,
+    "vue-drag-zone": 5740,
+    "naivebayes": 547,
+    "vue-touch-ripple": 8921,
     "vue-codemirror": 2096382,
-    "@fox-finder/base": 156
+    "@fox-finder/base": 156,
+    "vue-awesome-swiper": 7455881,
+    "veact": 653,
+    "vue-video-player": 1097865,
+    "emoji-233333": 2067,
+    "@surmon-china/libundler": 1211
   }
 }

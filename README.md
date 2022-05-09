@@ -9,13 +9,13 @@
 
 <h3 align="center">
   <samp>
-    :heart_on_fire: I am passionate about open source software and giving back to others.&nbsp;
+    > I am passionate :heart_on_fire: about open source software and giving back to others.&nbsp;
   </samp>
 </h3>
 
 <h3 align="center">
   <samp>
-    :v: My projects are trusted by thousands of developers all over the world.
+    > My projects are trusted :v: by thousands of developers all over the world.
   </samp>
 </h3>
 

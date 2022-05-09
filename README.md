@@ -1,5 +1,7 @@
 
-<h2 align="center">:peace_symbol:&nbsp;&nbsp;:heart_on_fire:&nbsp;&nbsp;:v:</h2>
+<h2></h2>
+
+<h3 align="center">:peace_symbol:&nbsp;&nbsp;:heart_on_fire:&nbsp;&nbsp;:v:</h3>
 
 <h3 align="center">
   <samp>

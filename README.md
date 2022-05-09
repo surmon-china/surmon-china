@@ -3,21 +3,27 @@
 
 <h3 align="center">
   :wave: &nbsp;
-  <samp>
-    Hello World! I am <a target="_blank" href="https://surmon.me"><ins>Surmon</ins></a>.
-  </samp>
+  <i>
+    <samp>
+      Hello World! I am <a target="_blank" href="https://surmon.me"><ins>Surmon</ins></a>.
+    </samp>
+  </i>
 </h3>
 
 <h3 align="center">
-  <samp>
-    > I am passionate :heart_on_fire: about open source software and giving back to others.&nbsp;
-  </samp>
+  <i>
+    <samp>
+      > I am passionate :heart_on_fire: about open source software and giving back to others.&nbsp;
+    </samp>
+  </i>
 </h3>
 
 <h3 align="center">
-  <samp>
-    > My projects are trusted :v: by thousands of developers all over the world.
-  </samp>
+  <i>
+    <samp>
+      > My projects are trusted :v: by thousands of developers all over the world.
+    </samp>
+  </i>
 </h3>
 
 <h5 align="center">

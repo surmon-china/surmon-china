@@ -1,23 +1,21 @@
 
 <h2></h2>
 
-<h3 align="center">:peace_symbol:&nbsp;&nbsp;:heart_on_fire:&nbsp;&nbsp;:v:</h3>
-
-<h3 align="center">
+<h2 align="center">
   <samp>
     :wave: Hello World! I am <a target="_blank" href="https://surmon.me"><ins>Surmon</ins></a>.
   </samp>
-</h3>
+</h2>
 
 <h3 align="center">
   <samp>
-    > I am passionate about open source software and giving back to others.&nbsp;
+    :heart_on_fire: I am passionate about open source software and giving back to others.&nbsp;
   </samp>
 </h3>
 
 <h3 align="center">
   <samp>
-    > My projects are trusted by thousands of developers all over the world.
+    :v: My projects are trusted by thousands of developers all over the world.
   </samp>
 </h3>
 

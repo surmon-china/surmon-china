@@ -49,13 +49,13 @@
   <a href="https://t.me/joinchat/VO701Zxp7nzdZMBY"><img
     alt="telegram"
     height="28px"
-    src="https://img.shields.io/badge/telegram%20中文-2CA5E0?style=for-the-badge&logo=telegram"
+    src="https://img.shields.io/badge/telegram%20中文群-2CA5E0?style=for-the-badge&logo=telegram"
   /></a>
   <span>&nbsp;</span>
   <a href="https://discord.gg/cXdGT7Gx86"><img
     alt="discord"
     height="28px"
-    src="https://img.shields.io/badge/join%20discord-5865f2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12"
+    src="https://img.shields.io/badge/discord%20group-5865f2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12"
   /></a>
 </p>
 

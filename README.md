@@ -1,11 +1,11 @@
 
 <h2></h2>
 
-<h2 align="center">
+<h3 align="center">
   <samp>
     :wave: Hello World! I am <a target="_blank" href="https://surmon.me"><ins>Surmon</ins></a>.
   </samp>
-</h2>
+</h3>
 
 <h3 align="center">
   <samp>

@@ -3,7 +3,7 @@
 
 <h3 align="center">
   <samp>
-    :wave: Hello World! I am <a target="_blank" href="https://surmon.me"><ins>Surmon</ins></a>.
+    Hello, World! :wave: I am <a target="_blank" href="https://surmon.me"><ins>Surmon</ins></a>.
   </samp>
 </h3>
 

@@ -135,10 +135,10 @@
 | <a href="https://github.com/vitejs"><img src="https://cdn.jsdelivr.net/gh/surmon-china/surmon-china@main/icons/vite.svg" height="16px" /></a> | [github.surmon.me](https://github.com/surmon-china/surmon-china.github.io) | - | [![GitHub stars](https://img.shields.io/github/stars/surmon-china/surmon-china.github.io?style=flat)](https://github.com/surmon-china/surmon-china.github.io/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/surmon-china/surmon-china.github.io?style=flat&label=last)](https://github.com/surmon-china/surmon-china.github.io/commits) | - | ![GitHub package version](https://img.shields.io/github/package-json/v/surmon-china/surmon-china.github.io/source?style=flat&label=&labelColor=555&logo=github)
 | <a href="https://github.com/WordPress/WordPress#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/surmon-china/surmon-china@main/icons/wordpress.light.svg" height="15px" /></a><a href="https://github.com/WordPress/WordPress#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/surmon-china/surmon-china@main/icons/wordpress.dark.svg" height="15px" /></a> | [WordPress themes](https://github.com/stars/surmon-china/lists/wordpress) | - | - | - | - | -
 
-<div align="center">
+<h4 align="center">
   <samp>
     <i>
       <a target="_blank" href="https://github.com/surmon-china?tab=repositories">> More projects...</a>
     </i>
   </samp>
-</div>
+</h4>

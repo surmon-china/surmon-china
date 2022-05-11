@@ -136,9 +136,9 @@
 | <a href="https://github.com/WordPress/WordPress#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/surmon-china/surmon-china@main/icons/wordpress.light.svg" height="15px" /></a><a href="https://github.com/WordPress/WordPress#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/surmon-china/surmon-china@main/icons/wordpress.dark.svg" height="15px" /></a> | [WordPress themes](https://github.com/stars/surmon-china/lists/wordpress) | - | - | - | - | -
 
 <div align="center">
-  <i>
-    <samp>
-      <a target="_blank" href="https://github.com/surmon-china?tab=repositories">More projects...</a>
-    </samp>
-  </i>
+  <samp>
+    <i>
+      <a target="_blank" href="https://github.com/surmon-china?tab=repositories">> More projects...</a>
+    </i>
+  </samp>
 </div>

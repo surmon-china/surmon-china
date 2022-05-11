@@ -134,10 +134,11 @@
 | <a href="#"><img src="https://cdn.jsdelivr.net/gh/surmon-china/surmon-china@main/icons/vscode.svg" height="15px" /></a> | [better-itg-flat-dark-vscode-theme](https://github.com/surmon-china/better-itg-flat-dark-vscode-theme) | [`#install`](https://marketplace.visualstudio.com/items?itemName=surmon.theme-better-itg-flat-dark) | [![GitHub stars](https://img.shields.io/github/stars/surmon-china/better-itg-flat-dark-vscode-theme?style=flat)](https://github.com/surmon-china/better-itg-flat-dark-vscode-theme/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/surmon-china/better-itg-flat-dark-vscode-theme?style=flat&label=last)](https://github.com/surmon-china/better-itg-flat-dark-vscode-theme/commits) | - | -
 | <a href="https://github.com/vitejs"><img src="https://cdn.jsdelivr.net/gh/surmon-china/surmon-china@main/icons/vite.svg" height="16px" /></a> | [github.surmon.me](https://github.com/surmon-china/surmon-china.github.io) | - | [![GitHub stars](https://img.shields.io/github/stars/surmon-china/surmon-china.github.io?style=flat)](https://github.com/surmon-china/surmon-china.github.io/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/surmon-china/surmon-china.github.io?style=flat&label=last)](https://github.com/surmon-china/surmon-china.github.io/commits) | - | ![GitHub package version](https://img.shields.io/github/package-json/v/surmon-china/surmon-china.github.io/source?style=flat&label=&labelColor=555&logo=github)
 | <a href="https://github.com/WordPress/WordPress#gh-dark-mode-only"><img src="https://cdn.jsdelivr.net/gh/surmon-china/surmon-china@main/icons/wordpress.light.svg" height="15px" /></a><a href="https://github.com/WordPress/WordPress#gh-light-mode-only"><img src="https://cdn.jsdelivr.net/gh/surmon-china/surmon-china@main/icons/wordpress.dark.svg" height="15px" /></a> | [WordPress themes](https://github.com/stars/surmon-china/lists/wordpress) | - | - | - | - | -
+
 <div align="center">
   <i>
     <samp>
-      <a target="_blank" href="https://surmon.me"><ins>More repositories...</ins></a>
+      <a target="_blank" href="https://github.com/surmon-china?tab=repositories">More projects...</a>
     </samp>
   </i>
 </div>

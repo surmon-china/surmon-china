@@ -43,7 +43,51 @@
           "maintenance": 0.3306662715831606
         }
       },
-      "searchScore": 0.000053106207
+      "searchScore": 0.000052910695
+    },
+    {
+      "package": {
+        "name": "vue-codemirror",
+        "scope": "unscoped",
+        "version": "5.0.0",
+        "description": "CodeMirror component for Vue",
+        "keywords": [
+          "vue-codemirror",
+          "vue codemirror",
+          "vue code editor",
+          "vue web ide"
+        ],
+        "date": "2022-05-13T09:21:39.358Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-codemirror",
+          "homepage": "https://github.com/surmon-china/vue-codemirror#readme",
+          "repository": "https://github.com/surmon-china/vue-codemirror",
+          "bugs": "https://github.com/surmon-china/vue-codemirror/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "url": "https://github.com/surmon-china"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.3605305157603875,
+        "detail": {
+          "quality": 0.5263198365348667,
+          "popularity": 0.24658128858922448,
+          "maintenance": 0.33237461083914005
+        }
+      },
+      "searchScore": 0.0000063454227
     },
     {
       "package": {
@@ -85,7 +129,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.0000012999612
+      "searchScore": 0.0000012951754
     },
     {
       "package": {
@@ -133,51 +177,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 9.807177e-7
-    },
-    {
-      "package": {
-        "name": "vue-codemirror",
-        "scope": "unscoped",
-        "version": "5.0.0-beta.1",
-        "description": "CodeMirror component for Vue",
-        "keywords": [
-          "vue-codemirror",
-          "vue codemirror",
-          "vue code editor",
-          "vue web ide"
-        ],
-        "date": "2022-05-11T00:41:37.019Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-codemirror",
-          "homepage": "https://github.com/surmon-china/vue-codemirror#readme",
-          "repository": "https://github.com/surmon-china/vue-codemirror",
-          "bugs": "https://github.com/surmon-china/vue-codemirror/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "url": "https://github.com/surmon-china"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.24025850060671256,
-        "detail": {
-          "quality": 0.5157928844248431,
-          "popularity": 0.24434467222645617,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 6.397297e-8
+      "searchScore": 9.771071e-7
     },
     {
       "package": {
@@ -224,7 +224,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 5.3170652e-8
+      "searchScore": 5.2974904e-8
     },
     {
       "package": {
@@ -269,7 +269,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 4.8185242e-8
+      "searchScore": 4.800785e-8
     },
     {
       "package": {
@@ -317,7 +317,7 @@
           "maintenance": 0.04689860801390545
         }
       },
-      "searchScore": 2.5051207e-8
+      "searchScore": 2.495898e-8
     },
     {
       "package": {
@@ -363,7 +363,7 @@
           "maintenance": 0.33145862145925814
         }
       },
-      "searchScore": 1.2613147e-8
+      "searchScore": 1.2566711e-8
     },
     {
       "package": {
@@ -405,7 +405,7 @@
           "maintenance": 0.33270166471780627
         }
       },
-      "searchScore": 9.1956105e-9
+      "searchScore": 9.161757e-9
     },
     {
       "package": {
@@ -451,7 +451,7 @@
           "maintenance": 0.28543087743924517
         }
       },
-      "searchScore": 5.351306e-9
+      "searchScore": 5.3316054e-9
     },
     {
       "package": {
@@ -488,7 +488,7 @@
           "maintenance": 0.3323736445885806
         }
       },
-      "searchScore": 2.493334e-9
+      "searchScore": 2.4841549e-9
     },
     {
       "package": {
@@ -534,7 +534,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 8.944336e-10
+      "searchScore": 8.911407e-10
     },
     {
       "package": {
@@ -583,7 +583,7 @@
           "maintenance": 0.03519940889790043
         }
       },
-      "searchScore": 2.161509e-10
+      "searchScore": 2.1535514e-10
     },
     {
       "package": {
@@ -634,7 +634,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 6.760653e-11
+      "searchScore": 6.735763e-11
     },
     {
       "package": {
@@ -682,7 +682,7 @@
           "maintenance": 0.011742147300666977
         }
       },
-      "searchScore": 4.3389636e-11
+      "searchScore": 4.32299e-11
     },
     {
       "package": {
@@ -719,25 +719,25 @@
           "maintenance": 0
         }
       },
-      "searchScore": 1.8777134e-11
+      "searchScore": 1.8708006e-11
     }
   ],
   "downloads": {
-    "vuniversal": 402,
-    "vue-drag-zone": 5728,
-    "wonderful-bing-wallpaper": 1921,
-    "vue-quill-editor": 3433644,
-    "vue-touch-ripple": 9203,
     "vue-video-player": 1092296,
-    "vue-awesome-swiper": 7463727,
-    "simple-netease-cloud-music": 3541,
-    "emoji-233333": 2124,
-    "vue-codemirror": 2103470,
-    "mongodb-data-api": 245,
-    "naivebayes": 568,
-    "@surmon-china/libundler": 1280,
-    "veact-use": 469,
     "veact": 670,
+    "emoji-233333": 2124,
+    "vuniversal": 402,
+    "vue-codemirror": 2103470,
+    "vue-awesome-swiper": 7463727,
+    "mongodb-data-api": 245,
+    "vue-touch-ripple": 9203,
+    "vue-quill-editor": 3433644,
+    "veact-use": 469,
+    "wonderful-bing-wallpaper": 1921,
+    "naivebayes": 568,
+    "vue-drag-zone": 5728,
+    "simple-netease-cloud-music": 3541,
+    "@surmon-china/libundler": 1280,
     "@fox-finder/base": 135
   }
 }

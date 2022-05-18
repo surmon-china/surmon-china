@@ -41,21 +41,7 @@
 <p align="center">
   <a href="https://github.com/sponsors/surmon-china"><img
     alt="GitHub Sponsors"
-    src="https://readme.app.surmon.me/api/render?template_id=github-sponsor-button&props.username=surmon-china&svg.width=220&svg.height=48&props.lineStyle=true&props.uppercase=true&props.animation=true"
-  /></a>
-</p>
-
-<p align="center">
-  <a href="https://t.me/joinchat/VO701Zxp7nzdZMBY"><img
-    alt="telegram"
-    height="26px"
-    src="https://img.shields.io/badge/telegram%20中文群-2CA5E0?style=for-the-badge&logo=telegram"
-  /></a>
-  <span>&nbsp;</span>
-  <a href="https://discord.surmon.me"><img
-    alt="discord"
-    height="26px"
-    src="https://img.shields.io/badge/discord%20server-5865f2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12"
+    src="https://readme.app.surmon.me/api/render?template_id=github-sponsor-button&props.username=surmon-china&svg.width=260&svg.height=48&props.lineStyle=true&props.uppercase=true&props.animation=true"
   /></a>
 </p>
 
@@ -70,12 +56,6 @@
     alt="leetcode"
     height="22px"
     src="https://img.shields.io/badge/LC-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=16"
-  /></a>
-  <span>&nbsp;</span>
-  <a href="https://www.linkedin.com/in/surmon"><img
-    alt="linkedin"
-    height="22px"
-    src="https://img.shields.io/badge/LI-0a66c2?style=for-the-badge&logo=linkedin&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
   <a href="https://www.instagram.com/surmon666"><img
@@ -94,6 +74,18 @@
     alt="youtube"
     height="22px"
     src="https://img.shields.io/badge/YT-ec3323?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=16"
+  /></a>
+  <span>&nbsp;</span>
+  <a href="https://t.me/surmon"><img
+    alt="telegram"
+    height="22px"
+    src="https://img.shields.io/badge/tg-2CA5E0?style=for-the-badge&logo=telegram"
+  /></a>
+  <span>&nbsp;</span>
+  <a href="https://discord.surmon.me"><img
+    alt="discord"
+    height="22px"
+    src="https://img.shields.io/badge/ds-5865f2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12"
   /></a>
 </p>
 

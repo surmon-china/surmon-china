@@ -96,7 +96,7 @@
         <a target="_blank" href="https://github.com/sponsors/surmon-china"><ins>GitHub Sponsors</ins></a>
         or
         <a target="_blank" href="https://paypal.me/surmon"><ins>PayPal</ins></a>,
-        <a target="_blank" href="https://surmon.me/sponsor"><ins>BTC,WeChat</ins></a>.
+        <a target="_blank" href="https://surmon.me/sponsor#bitcoin"><ins>BTC,WeChat</ins></a>.
       </samp>
     </strong>
   </i>

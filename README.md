@@ -26,7 +26,7 @@
   </i>
 </h3>
 
-<h5 align="center">
+<h4 align="center">
   <a href="#"><img
     alt="total github stars"
     src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/surmon-china/surmon-china/release/github.stars.shields.json"
@@ -36,7 +36,7 @@
     alt="total npm downloads"
     src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/surmon-china/surmon-china/release/npm.downloads.shields.json"
   /></a>
-</h5>
+</h4>
 
 <p align="center">
   <a href="https://surmon.me"><img
@@ -87,6 +87,8 @@
     <samp>Become a sponsor to me on GitHub sponsor or Paypal.</samp>
   </i>
 </p>
+
+<h4></h4>
 
 <p align="center">
   <a href="https://github.com/surmon-china/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">

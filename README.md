@@ -39,13 +39,6 @@
 </h5>
 
 <p align="center">
-  <a href="https://github.com/sponsors/surmon-china"><img
-    alt="GitHub Sponsors"
-    src="https://readme.app.surmon.me/api/render?template_id=github-sponsor-button&props.username=surmon-china&svg.width=260&svg.height=48&props.lineStyle=true&props.uppercase=true&props.animation=true"
-  /></a>
-</p>
-
-<p align="center">
   <a href="https://surmon.me"><img
     alt="blog"
     height="22px"
@@ -89,7 +82,11 @@
   /></a>
 </p>
 
-<h4></h4>
+<p align="center">
+  <i>
+    <samp>Become a sponsor to me on GitHub sponsor or Paypal.</samp>
+  </i>
+</p>
 
 <p align="center">
   <a href="https://github.com/surmon-china/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">

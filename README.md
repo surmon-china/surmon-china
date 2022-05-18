@@ -95,8 +95,7 @@
         Become a sponsor to me on
         <a target="_blank" href="https://github.com/sponsors/surmon-china"><ins>GitHub Sponsors</ins></a>
         or
-        <a target="_blank" href="https://surmon.me/sponsor"><ins>Paypal,BTC,WeChat</ins></a>
-        .
+        <a target="_blank" href="https://surmon.me/sponsor"><ins>Paypal,BTC,WeChat</ins></a>.
       </samp>
     </strong>
   </i>

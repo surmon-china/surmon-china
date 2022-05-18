@@ -93,10 +93,10 @@
     <strong>
       <samp>
         Become a sponsor to me on
-        <a target="_blank" href="https://github.com/sponsors/surmon-china"><ins>GitHub Sponsors</ins></a>
+        <a target="_blank" href="https://github.com/sponsors/surmon-china">GitHub Sponsors</a>
         or
-        <a target="_blank" href="https://paypal.me/surmon"><ins>PayPal</ins></a>,
-        <a target="_blank" href="https://surmon.me/sponsor#bitcoin"><ins>BTC,WeChat</ins></a>.
+        <a target="_blank" href="https://paypal.me/surmon">PayPal</a>,
+        <a target="_blank" href="https://surmon.me/sponsor#bitcoin">BTC,WeChat</a>.
       </samp>
     </strong>
   </i>

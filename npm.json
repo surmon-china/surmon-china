@@ -36,14 +36,14 @@
         ]
       },
       "score": {
-        "final": 0.4069349108139744,
+        "final": 0.4068954660158766,
         "detail": {
-          "quality": 0.6193950464247036,
-          "popularity": 0.30970245974728805,
-          "maintenance": 0.3220586742143217
+          "quality": 0.6193941078383516,
+          "popularity": 0.3097024596791375,
+          "maintenance": 0.321946779361923
         }
       },
-      "searchScore": 0.0000395276
+      "searchScore": 0.000039481394
     },
     {
       "package": {
@@ -80,14 +80,14 @@
         ]
       },
       "score": {
-        "final": 0.36095105093396435,
+        "final": 0.36095126494027097,
         "detail": {
-          "quality": 0.5262432769378782,
-          "popularity": 0.2468897176740979,
+          "quality": 0.5262439183493124,
+          "popularity": 0.24688977933945894,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.0000064747715
+      "searchScore": 0.0000064744463
     },
     {
       "package": {
@@ -122,14 +122,14 @@
         ]
       },
       "score": {
-        "final": 0.3440899563859224,
+        "final": 0.34409005840802054,
         "detail": {
-          "quality": 0.6477024348423093,
-          "popularity": 0.09460731219017986,
+          "quality": 0.6477024501567228,
+          "popularity": 0.09460759055524874,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.0000013825212
+      "searchScore": 0.0000013824491
     },
     {
       "package": {
@@ -170,14 +170,14 @@
         ]
       },
       "score": {
-        "final": 0.2948535953692215,
+        "final": 0.2948536262595698,
         "detail": {
-          "quality": 0.6453363497319737,
-          "popularity": 0.28929340128465536,
+          "quality": 0.6453363841793162,
+          "popularity": 0.2892934600164998,
           "maintenance": 0
         }
       },
-      "searchScore": 9.4674175e-7
+      "searchScore": 9.466885e-7
     },
     {
       "package": {
@@ -217,14 +217,14 @@
         ]
       },
       "score": {
-        "final": 0.24747288556430985,
+        "final": 0.24747309010134222,
         "detail": {
-          "quality": 0.6215796266698519,
-          "popularity": 0.1742828501810122,
+          "quality": 0.6215803025286285,
+          "popularity": 0.17428285526501053,
           "maintenance": 0
         }
       },
-      "searchScore": 5.0866134e-8
+      "searchScore": 5.08637e-8
     },
     {
       "package": {
@@ -262,14 +262,14 @@
         ]
       },
       "score": {
-        "final": 0.2811072995341741,
+        "final": 0.28110756163300415,
         "detail": {
-          "quality": 0.5371223539429941,
-          "popularity": 0.009439790527454984,
+          "quality": 0.5371228669391535,
+          "popularity": 0.009440099670261307,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 4.9153016e-8
+      "searchScore": 4.915093e-8
     },
     {
       "package": {
@@ -310,60 +310,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.26584281352306727,
+        "final": 0.26583861018988064,
         "detail": {
-          "quality": 0.42192812562150006,
-          "popularity": 0.0654619239559879,
-          "maintenance": 0.3324362927200615
+          "quality": 0.4219226342574643,
+          "popularity": 0.06546235286318679,
+          "maintenance": 0.3324285611729314
         }
       },
-      "searchScore": 3.717164e-8
-    },
-    {
-      "package": {
-        "name": "veact",
-        "scope": "unscoped",
-        "version": "0.1.4",
-        "description": "Mutable state enhancer library for @react by @vue/reactivity",
-        "keywords": [
-          "React mutable state lib",
-          "React vue state",
-          "React composition API",
-          "React state library"
-        ],
-        "date": "2022-01-17T08:42:19.200Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/veact",
-          "homepage": "https://github.com/veactjs/veact#readme",
-          "repository": "https://github.com/veactjs/veact",
-          "bugs": "https://github.com/veactjs/veact/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.2534406731688127,
-        "detail": {
-          "quality": 0.4622293528320484,
-          "popularity": 0.003155640325809981,
-          "maintenance": 0.3247639805861848
-        }
-      },
-      "searchScore": 1.1271565e-8
+      "searchScore": 3.7162106e-8
     },
     {
       "package": {
@@ -404,14 +358,60 @@
         "unstable": true
       },
       "score": {
-        "final": 0.24717187596645154,
+        "final": 0.24717108025290221,
         "detail": {
-          "quality": 0.8184159103188559,
-          "popularity": 0.004706008202270855,
+          "quality": 0.8184125607046826,
+          "popularity": 0.004706605832849895,
           "maintenance": 0
         }
       },
-      "searchScore": 1.1258621e-8
+      "searchScore": 1.1257544e-8
+    },
+    {
+      "package": {
+        "name": "veact",
+        "scope": "unscoped",
+        "version": "0.1.4",
+        "description": "Mutable state enhancer library for @react by @vue/reactivity",
+        "keywords": [
+          "React mutable state lib",
+          "React vue state",
+          "React composition API",
+          "React state library"
+        ],
+        "date": "2022-01-17T08:42:19.200Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/veact",
+          "homepage": "https://github.com/veactjs/veact#readme",
+          "repository": "https://github.com/veactjs/veact",
+          "bugs": "https://github.com/veactjs/veact/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.25341013920458805,
+        "detail": {
+          "quality": 0.46222527278149655,
+          "popularity": 0.00315563387936729,
+          "maintenance": 0.3246802443210301
+        }
+      },
+      "searchScore": 1.1253138e-8
     },
     {
       "package": {
@@ -449,14 +449,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2499956009390788,
+        "final": 0.24999475984177116,
         "detail": {
-          "quality": 0.4384726297699266,
-          "popularity": 0.00510612954695483,
+          "quality": 0.4384691911308089,
+          "popularity": 0.0051066738167481664,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 9.422805e-9
+      "searchScore": 9.42187e-9
     },
     {
       "package": {
@@ -495,14 +495,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.23024064859401028,
+        "final": 0.23001948205561906,
         "detail": {
-          "quality": 0.4622293528320484,
-          "popularity": 0.002771474285690765,
-          "maintenance": 0.2588623621268686
+          "quality": 0.46222527278149655,
+          "popularity": 0.0027714670852386227,
+          "maintenance": 0.2582339621181045
         }
       },
-      "searchScore": 3.2062901e-9
+      "searchScore": 3.166187e-9
     },
     {
       "package": {
@@ -541,14 +541,14 @@
         ]
       },
       "score": {
-        "final": 0.20162839875319466,
+        "final": 0.2016283995627293,
         "detail": {
-          "quality": 0.6453363497319737,
-          "popularity": 0.02293569666743583,
+          "quality": 0.6453363841793162,
+          "popularity": 0.022935669454098456,
           "maintenance": 0
         }
       },
-      "searchScore": 8.9406005e-10
+      "searchScore": 8.9400815e-10
     },
     {
       "package": {
@@ -578,14 +578,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.19753910805549368,
+        "final": 0.19730043322946442,
         "detail": {
-          "quality": 0.3689187528801502,
-          "popularity": 0.0015882679681480378,
-          "maintenance": 0.24659310972170523
+          "quality": 0.36891462384539775,
+          "popularity": 0.001588257317854069,
+          "maintenance": 0.24591473147027476
         }
       },
-      "searchScore": 3.891371e-10
+      "searchScore": 3.8301176e-10
     },
     {
       "package": {
@@ -627,14 +627,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1763507227204518,
+        "final": 0.1763103513094468,
         "detail": {
-          "quality": 0.5246481161708147,
-          "popularity": 0.03039191426732127,
-          "maintenance": 0.023768908216128485
+          "quality": 0.5246431726638037,
+          "popularity": 0.0303923084294848,
+          "maintenance": 0.023657404457102956
         }
       },
-      "searchScore": 1.6188473e-10
+      "searchScore": 1.6141444e-10
     },
     {
       "package": {
@@ -678,14 +678,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.16624729954608042,
+        "final": 0.1662459336804295,
         "detail": {
-          "quality": 0.5246481161708147,
-          "popularity": 0.02529389912810291,
+          "quality": 0.5246431726638037,
+          "popularity": 0.025294233946538316,
           "maintenance": 0
         }
       },
-      "searchScore": 7.206994e-11
+      "searchScore": 7.205831e-11
     },
     {
       "package": {
@@ -715,32 +715,32 @@
         "unstable": true
       },
       "score": {
-        "final": 0.15417710448146274,
+        "final": 0.1541756857006933,
         "detail": {
-          "quality": 0.5076869849067571,
-          "popularity": 0.005345740026958843,
+          "quality": 0.507681627759899,
+          "popularity": 0.005346278207781694,
           "maintenance": 0
         }
       },
-      "searchScore": 1.9946789e-11
+      "searchScore": 1.9943332e-11
     }
   ],
   "downloads": {
-    "vue-awesome-swiper": 7552582,
-    "vue-touch-ripple": 9331,
+    "mongodb-data-api": 262,
+    "wonderful-bing-wallpaper": 2024,
+    "vue-touch-ripple": 9347,
+    "vue-video-player": 1092097,
+    "vue-quill-editor": 3487971,
+    "simple-netease-cloud-music": 3494,
     "naivebayes": 584,
-    "veact-use": 498,
-    "vue-quill-editor": 3480826,
     "vuniversal": 435,
-    "vue-video-player": 1090795,
-    "simple-netease-cloud-music": 3493,
-    "mongodb-data-api": 260,
-    "@surmon-china/libundler": 1451,
-    "vue-drag-zone": 5598,
+    "emoji-233333": 2141,
+    "veact-use": 498,
+    "vue-drag-zone": 5602,
+    "vue-codemirror": 2138755,
+    "vue-awesome-swiper": 7568570,
+    "@surmon-china/libundler": 1454,
     "veact": 707,
-    "wonderful-bing-wallpaper": 2023,
-    "vue-codemirror": 2133859,
-    "emoji-233333": 2140,
     "@fox-finder/base": 140
   }
 }

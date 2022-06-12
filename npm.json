@@ -36,14 +36,14 @@
         ]
       },
       "score": {
-        "final": 0.4093670040686199,
+        "final": 0.40928630998507093,
         "detail": {
-          "quality": 0.6193995296139649,
-          "popularity": 0.3296417217698976,
-          "maintenance": 0.3090644073284752
+          "quality": 0.6193995256777687,
+          "popularity": 0.32964169993318754,
+          "maintenance": 0.308833878014642
         }
       },
-      "searchScore": 0.000047319787
+      "searchScore": 0.000047210415
     },
     {
       "package": {
@@ -80,14 +80,14 @@
         ]
       },
       "score": {
-        "final": 0.36215914340562155,
+        "final": 0.36215918361127886,
         "detail": {
-          "quality": 0.5262073379143435,
-          "popularity": 0.2503722153275767,
+          "quality": 0.526207493597507,
+          "popularity": 0.25037219675817185,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.0000068851773
+      "searchScore": 0.0000068847007
     },
     {
       "package": {
@@ -122,14 +122,14 @@
         ]
       },
       "score": {
-        "final": 0.3434718153394142,
+        "final": 0.3434717396119904,
         "detail": {
-          "quality": 0.647703705689629,
-          "popularity": 0.09284010561673958,
+          "quality": 0.6477037131299135,
+          "popularity": 0.09283988287528495,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.0000013351458
+      "searchScore": 0.0000013350459
     },
     {
       "package": {
@@ -170,14 +170,14 @@
         ]
       },
       "score": {
-        "final": 0.29628243037881885,
+        "final": 0.2962824289572943,
         "detail": {
-          "quality": 0.6453392081982718,
-          "popularity": 0.29337333691239226,
+          "quality": 0.6453392249327934,
+          "popularity": 0.293373318507018,
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000010290739
+      "searchScore": 0.0000010290013
     },
     {
       "package": {
@@ -219,14 +219,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2830950860100163,
+        "final": 0.28308947313767757,
         "detail": {
-          "quality": 0.5246763539701356,
-          "popularity": 0.02750644490007803,
-          "maintenance": 0.3316140688684239
+          "quality": 0.5246763585936435,
+          "popularity": 0.02750644981106257,
+          "maintenance": 0.33159802321632187
         }
       },
-      "searchScore": 6.294983e-8
+      "searchScore": 6.292936e-8
     },
     {
       "package": {
@@ -264,14 +264,14 @@
         ]
       },
       "score": {
-        "final": 0.28441066043850227,
+        "final": 0.28441058669072156,
         "detail": {
-          "quality": 0.5482079346199604,
-          "popularity": 0.009386593974891501,
-          "maintenance": 0.33332277760372025
+          "quality": 0.5482079654127363,
+          "popularity": 0.009386444085936255,
+          "maintenance": 0.3333226903909228
         }
       },
-      "searchScore": 5.768841e-8
+      "searchScore": 5.7684073e-8
     },
     {
       "package": {
@@ -311,14 +311,14 @@
         ]
       },
       "score": {
-        "final": 0.24742402941052663,
+        "final": 0.24742408354798723,
         "detail": {
-          "quality": 0.6215465461126154,
-          "popularity": 0.17417161593354863,
+          "quality": 0.6215467185303003,
+          "popularity": 0.17417162282542042,
           "maintenance": 0
         }
       },
-      "searchScore": 5.0711726e-8
+      "searchScore": 5.070829e-8
     },
     {
       "package": {
@@ -359,14 +359,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2654827476464422,
+        "final": 0.26547676265417147,
         "detail": {
-          "quality": 0.4219466209015852,
-          "popularity": 0.06532169418812625,
-          "maintenance": 0.33153190974320706
+          "quality": 0.42194655539351744,
+          "popularity": 0.06532149453471328,
+          "maintenance": 0.331515065568476
         }
       },
-      "searchScore": 3.6506542e-8
+      "searchScore": 3.649357e-8
     },
     {
       "package": {
@@ -407,14 +407,59 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2471379806350223,
+        "final": 0.2471379264979681,
         "detail": {
-          "quality": 0.8184073950237344,
-          "popularity": 0.004616463222577144,
+          "quality": 0.8184075561412911,
+          "popularity": 0.004616170444516528,
           "maintenance": 0
         }
       },
-      "searchScore": 1.12314735e-8
+      "searchScore": 1.1230618e-8
+    },
+    {
+      "package": {
+        "name": "mongodb-data-api",
+        "scope": "unscoped",
+        "version": "0.2.0",
+        "description": "MongoDB atlas data API SDK for Node.js",
+        "keywords": [
+          "MongoDB data API",
+          "MongoDB cloud data API",
+          "MongoDB Atlas data API SDK"
+        ],
+        "date": "2022-03-21T04:42:40.649Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/mongodb-data-api",
+          "homepage": "https://github.com/surmon-china/mongodb-data-api#readme",
+          "repository": "https://github.com/surmon-china/mongodb-data-api",
+          "bugs": "https://github.com/surmon-china/mongodb-data-api/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.24995394351211314,
+        "detail": {
+          "quality": 0.4384505380175807,
+          "popularity": 0.005006044114777963,
+          "maintenance": 0.3333333333333333
+        }
+      },
+      "searchScore": 9.394128e-9
     },
     {
       "package": {
@@ -453,59 +498,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.24998169180034596,
+        "final": 0.24991885620969365,
         "detail": {
-          "quality": 0.46224309308195205,
-          "popularity": 0.0031355703326094372,
-          "maintenance": 0.3148894693124201
+          "quality": 0.4622430444200737,
+          "popularity": 0.0031355742957753885,
+          "maintenance": 0.31470997680042906
         }
       },
-      "searchScore": 9.4194705e-9
-    },
-    {
-      "package": {
-        "name": "mongodb-data-api",
-        "scope": "unscoped",
-        "version": "0.2.0",
-        "description": "MongoDB atlas data API SDK for Node.js",
-        "keywords": [
-          "MongoDB data API",
-          "MongoDB cloud data API",
-          "MongoDB Atlas data API SDK"
-        ],
-        "date": "2022-03-21T04:42:40.649Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/mongodb-data-api",
-          "homepage": "https://github.com/surmon-china/mongodb-data-api#readme",
-          "repository": "https://github.com/surmon-china/mongodb-data-api",
-          "bugs": "https://github.com/surmon-china/mongodb-data-api/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.2499540047168302,
-        "detail": {
-          "quality": 0.4384504309962956,
-          "popularity": 0.005006310717928243,
-          "maintenance": 0.3333333333333333
-        }
-      },
-      "searchScore": 9.394845e-9
+      "searchScore": 9.387923e-9
     },
     {
       "package": {
@@ -544,14 +544,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.21386609586771327,
+        "final": 0.2136818589922449,
         "detail": {
-          "quality": 0.46224309308195205,
-          "popularity": 0.002754553063213965,
-          "maintenance": 0.21208306963143655
+          "quality": 0.4622430444200737,
+          "popularity": 0.0027545574902503485,
+          "maintenance": 0.21155671584181482
         }
       },
-      "searchScore": 1.2274861e-9
+      "searchScore": 1.2137269e-9
     },
     {
       "package": {
@@ -590,14 +590,14 @@
         ]
       },
       "score": {
-        "final": 0.20158342923091482,
+        "final": 0.20158343625820208,
         "detail": {
-          "quality": 0.6453392081982718,
-          "popularity": 0.022804762204095105,
+          "quality": 0.6453392249327934,
+          "popularity": 0.022804767938183004,
           "maintenance": 0
         }
       },
-      "searchScore": 8.9034863e-10
+      "searchScore": 8.9028634e-10
     },
     {
       "package": {
@@ -627,14 +627,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.18079744763791866,
+        "final": 0.18061729942258245,
         "detail": {
-          "quality": 0.3689012745288313,
-          "popularity": 0.0015815878550567847,
-          "maintenance": 0.19878145579999829
+          "quality": 0.3689013627552955,
+          "popularity": 0.0015815944110104685,
+          "maintenance": 0.19826666443468613
         }
       },
-      "searchScore": 1.2249808e-10
+      "searchScore": 1.2090821e-10
     },
     {
       "package": {
@@ -678,14 +678,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.16619687559338758,
+        "final": 0.16619681673173534,
         "detail": {
-          "quality": 0.5246763539701356,
-          "popularity": 0.025125626863848352,
+          "quality": 0.5246763585936435,
+          "popularity": 0.025125454724692284,
           "maintenance": 0
         }
       },
-      "searchScore": 7.163845e-11
+      "searchScore": 7.163291e-11
     },
     {
       "package": {
@@ -715,32 +715,32 @@
         "unstable": true
       },
       "score": {
-        "final": 0.15415005667401455,
+        "final": 0.15414996429910602,
         "detail": {
-          "quality": 0.5077166167125705,
-          "popularity": 0.005243061886409721,
+          "quality": 0.5077166163963884,
+          "popularity": 0.005242798229112854,
           "maintenance": 0
         }
       },
-      "searchScore": 1.9874742e-11
+      "searchScore": 1.9873105e-11
     }
   ],
   "downloads": {
+    "vue-touch-ripple": 9369,
+    "vuniversal": 418,
+    "simple-netease-cloud-music": 3492,
+    "naivebayes": 577,
+    "vue-drag-zone": 5511,
+    "emoji-233333": 2127,
+    "veact": 714,
+    "vue-quill-editor": 3499578,
+    "@fox-finder/base": 139,
+    "vue-codemirror": 2144973,
     "vue-awesome-swiper": 7583892,
     "vue-video-player": 1090287,
-    "vue-drag-zone": 5511,
-    "vue-quill-editor": 3499578,
-    "emoji-233333": 2127,
-    "naivebayes": 577,
-    "veact": 714,
     "veact-use": 507,
-    "simple-netease-cloud-music": 3492,
-    "wonderful-bing-wallpaper": 2009,
     "mongodb-data-api": 263,
-    "vue-codemirror": 2144973,
-    "vuniversal": 418,
-    "@surmon-china/libundler": 1549,
-    "vue-touch-ripple": 9369,
-    "@fox-finder/base": 139
+    "wonderful-bing-wallpaper": 2009,
+    "@surmon-china/libundler": 1549
   }
 }

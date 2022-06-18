@@ -43,7 +43,7 @@
           "maintenance": 0.308450802702035
         }
       },
-      "searchScore": 0.000047012854
+      "searchScore": 0.00004707452
     },
     {
       "package": {
@@ -87,7 +87,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.0000066161174
+      "searchScore": 0.000006624796
     },
     {
       "package": {
@@ -135,7 +135,7 @@
           "maintenance": 0.33139957096596434
         }
       },
-      "searchScore": 0.0000015711322
+      "searchScore": 0.0000015731931
     },
     {
       "package": {
@@ -177,7 +177,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.0000013343177
+      "searchScore": 0.000001336068
     },
     {
       "package": {
@@ -225,7 +225,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 0.0000010283718
+      "searchScore": 0.0000010297207
     },
     {
       "package": {
@@ -274,7 +274,58 @@
           "maintenance": 0.3315712565370914
         }
       },
-      "searchScore": 6.2900476e-8
+      "searchScore": 6.2982984e-8
+    },
+    {
+      "package": {
+        "name": "wonderful-bing-wallpaper",
+        "scope": "unscoped",
+        "version": "0.3.4",
+        "description": "Simple bing daily wallpaper API lib for node.js",
+        "keywords": [
+          "bing",
+          "bing wallpaper",
+          "bing wallpaper api",
+          "daily-wallpaper",
+          "bing-daily-wallpaper",
+          "wonderful-bing-daily-wallpaper"
+        ],
+        "date": "2020-03-28T14:49:29.400Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/wonderful-bing-wallpaper",
+          "homepage": "https://github.com/surmon-china/wonderful-bing-wallpaper#readme",
+          "repository": "https://github.com/surmon-china/wonderful-bing-wallpaper",
+          "bugs": "https://github.com/surmon-china/wonderful-bing-wallpaper/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "https://github.com/surmon-china",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.2819102267194028,
+        "detail": {
+          "quality": 0.5246979674476213,
+          "popularity": 0.02431710470579685,
+          "maintenance": 0.33139957096596434
+        }
+      },
+      "searchScore": 5.802231e-8
     },
     {
       "package": {
@@ -319,7 +370,7 @@
           "maintenance": 0.3333225451264954
         }
       },
-      "searchScore": 5.769937e-8
+      "searchScore": 5.7775054e-8
     },
     {
       "package": {
@@ -366,7 +417,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 5.0593542e-8
+      "searchScore": 5.0659903e-8
     },
     {
       "package": {
@@ -414,7 +465,7 @@
           "maintenance": 0.33148696640058173
         }
       },
-      "searchScore": 3.6484018e-8
+      "searchScore": 3.6531873e-8
     },
     {
       "package": {
@@ -460,7 +511,7 @@
           "maintenance": 0.3332782306247757
         }
       },
-      "searchScore": 1.3124317e-8
+      "searchScore": 1.3141532e-8
     },
     {
       "package": {
@@ -506,7 +557,7 @@
           "maintenance": 0.3328266426287634
         }
       },
-      "searchScore": 1.2895939e-8
+      "searchScore": 1.2912855e-8
     },
     {
       "package": {
@@ -551,7 +602,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 9.3920285e-9
+      "searchScore": 9.404348e-9
     },
     {
       "package": {
@@ -597,7 +648,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 8.899671e-10
+      "searchScore": 8.9113444e-10
     },
     {
       "package": {
@@ -634,58 +685,7 @@
           "maintenance": 0.19742544497320016
         }
       },
-      "searchScore": 1.1837674e-10
-    },
-    {
-      "package": {
-        "name": "wonderful-bing-wallpaper",
-        "scope": "unscoped",
-        "version": "0.3.4",
-        "description": "Simple bing daily wallpaper API lib for node.js",
-        "keywords": [
-          "bing",
-          "bing wallpaper",
-          "bing wallpaper api",
-          "daily-wallpaper",
-          "bing-daily-wallpaper",
-          "wonderful-bing-daily-wallpaper"
-        ],
-        "date": "2020-03-28T14:49:29.400Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/wonderful-bing-wallpaper",
-          "homepage": "https://github.com/surmon-china/wonderful-bing-wallpaper#readme",
-          "repository": "https://github.com/surmon-china/wonderful-bing-wallpaper",
-          "bugs": "https://github.com/surmon-china/wonderful-bing-wallpaper/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "email": "surmon@foxmail.com",
-          "url": "https://github.com/surmon-china",
-          "username": "surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.16619661220082496,
-        "detail": {
-          "quality": 0.5246979674476213,
-          "popularity": 0.025106348475824547,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 7.163066e-11
+      "searchScore": 1.1853202e-10
     },
     {
       "package": {
@@ -722,25 +722,25 @@
           "maintenance": 0
         }
       },
-      "searchScore": 1.9880615e-11
+      "searchScore": 1.9906693e-11
     }
   ],
   "downloads": {
-    "vuniversal": 419,
     "vue-touch-ripple": 9442,
-    "veact": 715,
-    "vue-video-player": 1091676,
-    "vue-codemirror": 2159554,
-    "naivebayes": 577,
-    "@surmon-china/libundler": 1600,
-    "wonderful-bing-wallpaper": 2015,
-    "emoji-233333": 2140,
-    "veact-use": 509,
-    "simple-netease-cloud-music": 3489,
-    "vue-quill-editor": 3518590,
-    "vue-awesome-swiper": 7618115,
-    "mongodb-data-api": 268,
     "vue-drag-zone": 5433,
+    "wonderful-bing-wallpaper": 2015,
+    "simple-netease-cloud-music": 3489,
+    "emoji-233333": 2140,
+    "veact": 715,
+    "@surmon-china/libundler": 1600,
+    "mongodb-data-api": 268,
+    "naivebayes": 577,
+    "vue-quill-editor": 3518590,
+    "vue-codemirror": 2159554,
+    "vue-awesome-swiper": 7618115,
+    "vuniversal": 419,
+    "veact-use": 509,
+    "vue-video-player": 1091676,
     "@fox-finder/base": 140
   }
 }

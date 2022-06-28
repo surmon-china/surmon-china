@@ -125,6 +125,7 @@
       "license": null,
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
       "forks": 0,
@@ -229,6 +230,7 @@
       },
       "allow_forking": true,
       "is_template": true,
+      "web_commit_signoff_required": false,
       "topics": [
         "admin-dashboard",
         "admin-template",
@@ -354,6 +356,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "ide-theme",
         "itg-dark",
@@ -468,6 +471,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
       "forks": 0,
@@ -566,6 +570,7 @@
       "license": null,
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
       "forks": 0,
@@ -670,6 +675,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "chrome",
         "chrome-extension",
@@ -774,6 +780,7 @@
       "license": null,
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "psd",
         "psd-parser",
@@ -878,6 +885,7 @@
       "license": null,
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "docs",
         "html",
@@ -986,6 +994,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "emoji",
         "emoji-animation",
@@ -1089,6 +1098,7 @@
       "license": null,
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
       "forks": 0,
@@ -1193,6 +1203,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "canvas",
         "gobang",
@@ -1301,6 +1312,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "drag-and-drop",
         "drag-drop",
@@ -1410,6 +1422,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "bundler",
         "bundlers",
@@ -1526,6 +1539,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "mongodb",
         "mongodb-api",
@@ -1641,6 +1655,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
       "forks": 7,
@@ -1745,6 +1760,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
       "forks": 0,
@@ -1849,6 +1865,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "bayes",
         "classifier",
@@ -1967,6 +1984,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "angular",
         "angular-components",
@@ -2086,6 +2104,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "blog",
         "blog-api",
@@ -2203,6 +2222,7 @@
       "license": null,
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "functionnal",
         "surprise"
@@ -2304,6 +2324,7 @@
       "license": null,
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
       "forks": 3,
@@ -2408,6 +2429,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
       "forks": 0,
@@ -2512,6 +2534,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
       "forks": 1,
@@ -2616,6 +2639,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "music-library",
         "netease",
@@ -2728,6 +2752,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "autodeploy",
         "backup-database",
@@ -2818,13 +2843,13 @@
       "deployments_url": "https://api.github.com/repos/surmon-china/surmon-china/deployments",
       "created_at": "2020-07-21T07:26:32Z",
       "updated_at": "2022-02-27T14:50:28Z",
-      "pushed_at": "2022-06-28T09:35:59Z",
+      "pushed_at": "2022-06-28T12:47:30Z",
       "git_url": "git://github.com/surmon-china/surmon-china.git",
       "ssh_url": "git@github.com:surmon-china/surmon-china.git",
       "clone_url": "https://github.com/surmon-china/surmon-china.git",
       "svn_url": "https://github.com/surmon-china/surmon-china",
       "homepage": "",
-      "size": 3038,
+      "size": 3039,
       "stargazers_count": 7,
       "watchers_count": 7,
       "language": "JavaScript",
@@ -2841,6 +2866,7 @@
       "license": null,
       "allow_forking": true,
       "is_template": true,
+      "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
       "forks": 30,
@@ -2939,6 +2965,7 @@
       "license": null,
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "example-project",
         "surmon-china",
@@ -3053,6 +3080,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "blog",
         "blogger",
@@ -3178,6 +3206,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "app",
         "application",
@@ -3291,6 +3320,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "android",
         "blog",
@@ -3416,6 +3446,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "less",
         "less-css",
@@ -3525,6 +3556,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "admin-dashboard",
         "blog-admin",
@@ -3637,6 +3669,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
       "forks": 0,
@@ -3741,6 +3774,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "carousel",
         "carrousel",
@@ -3862,6 +3896,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "code-editor",
         "code-editor-component",
@@ -3983,6 +4018,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "drag-and-drop",
         "drag-zone-component",
@@ -4105,6 +4141,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [],
       "visibility": "public",
       "forks": 0,
@@ -4199,7 +4236,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 248,
+      "open_issues_count": 249,
       "license": {
         "key": "mit",
         "name": "MIT License",
@@ -4209,6 +4246,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "editor",
         "editor-plugin",
@@ -4232,7 +4270,7 @@
       ],
       "visibility": "public",
       "forks": 1018,
-      "open_issues": 248,
+      "open_issues": 249,
       "watchers": 7082,
       "default_branch": "main"
     },
@@ -4333,6 +4371,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "ripple",
         "rippleview",
@@ -4448,6 +4487,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "hls",
         "player",
@@ -4573,6 +4613,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "ast",
         "ejs",
@@ -4690,6 +4731,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "surmon-china",
         "vue",
@@ -4805,6 +4847,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "bing",
         "bing-api",
@@ -4917,6 +4960,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "cms",
         "theme",
@@ -5027,6 +5071,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "blog",
         "blog-engine",
@@ -5139,6 +5184,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "blog",
         "blog-theme",
@@ -5249,6 +5295,7 @@
       },
       "allow_forking": true,
       "is_template": false,
+      "web_commit_signoff_required": false,
       "topics": [
         "cms",
         "theme",
@@ -5322,10 +5369,10 @@
     }
   ],
   "statistics": {
-    "size": 901769,
+    "size": 901770,
     "stars": 31592,
     "forks": 6090,
-    "open_issues": 945,
+    "open_issues": 946,
     "languages": [
       "TypeScript",
       "JavaScript",

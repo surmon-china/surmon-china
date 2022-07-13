@@ -36,14 +36,14 @@
         ]
       },
       "score": {
-        "final": 0.40851654217741673,
+        "final": 0.40835403853546126,
         "detail": {
-          "quality": 0.6194217544635611,
-          "popularity": 0.3212782287406878,
-          "maintenance": 0.31497895936887915
+          "quality": 0.6194218418794676,
+          "popularity": 0.3212808228591454,
+          "maintenance": 0.314511994202629
         }
       },
-      "searchScore": 0.000044220782
+      "searchScore": 0.000043998338
     },
     {
       "package": {
@@ -80,14 +80,14 @@
         ]
       },
       "score": {
-        "final": 0.36238878577611183,
+        "final": 0.3623895883469099,
         "detail": {
-          "quality": 0.5262182327684404,
-          "popularity": 0.2510189979397517,
+          "quality": 0.5262192933697134,
+          "popularity": 0.2510203819123691,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.000006982906
+      "searchScore": 0.0000069795515
     },
     {
       "package": {
@@ -122,14 +122,14 @@
         ]
       },
       "score": {
-        "final": 0.34386583346407223,
+        "final": 0.3438689762581338,
         "detail": {
-          "quality": 0.6477090139699443,
-          "popularity": 0.09396132173263518,
+          "quality": 0.6477090452692303,
+          "popularity": 0.09397027431628013,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.0000013688808
+      "searchScore": 0.0000013684191
     },
     {
       "package": {
@@ -170,14 +170,14 @@
         ]
       },
       "score": {
-        "final": 0.29563861500170974,
+        "final": 0.29563913904299977,
         "detail": {
-          "quality": 0.6453511456443668,
-          "popularity": 0.2915236323097134,
+          "quality": 0.6453512160204786,
+          "popularity": 0.2915250692481605,
           "maintenance": 0
         }
       },
-      "searchScore": 9.937936e-7
+      "searchScore": 9.933112e-7
     },
     {
       "package": {
@@ -218,14 +218,292 @@
         "unstable": true
       },
       "score": {
-        "final": 0.3216285828711758,
+        "final": 0.3211004991156795,
         "detail": {
-          "quality": 0.8185363688283411,
-          "popularity": 0.0025251305826309244,
-          "maintenance": 0.21481107576786462
+          "quality": 0.8185378681596401,
+          "popularity": 0.0025252898546233534,
+          "maintenance": 0.21330082062476943
         }
       },
-      "searchScore": 3.2572012e-7
+      "searchScore": 3.187084e-7
+    },
+    {
+      "package": {
+        "name": "@surmon-china/libundler",
+        "scope": "surmon-china",
+        "version": "2.3.0",
+        "description": "Universal JavaScript library bundler",
+        "keywords": [
+          "JavaScript bundler",
+          "TypeScript bundler",
+          "zero config bundler",
+          "react component bundler",
+          "rollup",
+          "webpack"
+        ],
+        "date": "2022-06-11T19:33:30.966Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler",
+          "homepage": "https://github.com/surmon-china/libundler#readme",
+          "repository": "https://github.com/surmon-china/libundler",
+          "bugs": "https://github.com/surmon-china/libundler/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.2840588765657779,
+        "detail": {
+          "quality": 0.5482102977245287,
+          "popularity": 0.008368915947864724,
+          "maintenance": 0.3333333333333333
+        }
+      },
+      "searchScore": 5.6357976e-8
+    },
+    {
+      "package": {
+        "name": "vue-video-player",
+        "scope": "unscoped",
+        "version": "5.0.2",
+        "description": "video.js component for Vue",
+        "keywords": [
+          "vue-video-player",
+          "vue video player",
+          "video player",
+          "vue player",
+          "vue video"
+        ],
+        "date": "2018-02-01T08:02:38.799Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-video-player",
+          "homepage": "https://github.com/surmon-china/vue-video-player#readme",
+          "repository": "https://github.com/surmon-china/vue-video-player",
+          "bugs": "https://github.com/surmon-china/vue-video-player/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "https://surmon.me",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.2473304956178169,
+        "detail": {
+          "quality": 0.6215705093901921,
+          "popularity": 0.17388383657359796,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 5.0464454e-8
+    },
+    {
+      "package": {
+        "name": "veact",
+        "scope": "unscoped",
+        "version": "0.1.4",
+        "description": "Mutable state enhancer library for @react by @vue/reactivity",
+        "keywords": [
+          "React mutable state lib",
+          "React vue state",
+          "React composition API",
+          "React state library"
+        ],
+        "date": "2022-01-17T08:42:19.200Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/veact",
+          "homepage": "https://github.com/veactjs/veact#readme",
+          "repository": "https://github.com/veactjs/veact",
+          "bugs": "https://github.com/veactjs/veact/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.25537632842542846,
+        "detail": {
+          "quality": 0.46231569934819833,
+          "popularity": 0.002977460058552766,
+          "maintenance": 0.3303985931442157
+        }
+      },
+      "searchScore": 1.2457463e-8
+    },
+    {
+      "package": {
+        "name": "simple-netease-cloud-music",
+        "scope": "unscoped",
+        "version": "0.5.2",
+        "description": "网易云音乐 API for node.js",
+        "keywords": [
+          "网易云音乐",
+          "网易云 API",
+          "网易云 nodejs",
+          "Netease Cloud Music"
+        ],
+        "date": "2020-12-20T16:06:01.478Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/simple-netease-cloud-music",
+          "homepage": "https://github.com/surmon-china/simple-netease-cloud-music#readme",
+          "repository": "https://github.com/surmon-china/simple-netease-cloud-music",
+          "bugs": "https://github.com/surmon-china/simple-netease-cloud-music/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "https://github.com/surmon-china",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.24683342142093445,
+        "detail": {
+          "quality": 0.5248135129793907,
+          "popularity": 0.0267723672723303,
+          "maintenance": 0.22862582566229042
+        }
+      },
+      "searchScore": 1.0817681e-8
+    },
+    {
+      "package": {
+        "name": "veact-use",
+        "scope": "unscoped",
+        "version": "0.1.3",
+        "description": "Collection of Veact Hooks",
+        "keywords": [
+          "React mutable state lib",
+          "React vue state",
+          "React composition API",
+          "Veact Hooks"
+        ],
+        "date": "2021-07-26T20:55:26.788Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/veact-use",
+          "homepage": "https://github.com/veactjs/veact-use#readme",
+          "repository": "https://github.com/veactjs/veact-use",
+          "bugs": "https://github.com/veactjs/veact-use/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.25032711783011996,
+        "detail": {
+          "quality": 0.46231569934819833,
+          "popularity": 0.0026296947161165195,
+          "maintenance": 0.31632004250005635
+        }
+      },
+      "searchScore": 9.560758e-9
+    },
+    {
+      "package": {
+        "name": "mongodb-data-api",
+        "scope": "unscoped",
+        "version": "0.2.0",
+        "description": "MongoDB atlas data API SDK for Node.js",
+        "keywords": [
+          "MongoDB data API",
+          "MongoDB cloud data API",
+          "MongoDB Atlas data API SDK"
+        ],
+        "date": "2022-03-21T04:42:40.649Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/mongodb-data-api",
+          "homepage": "https://github.com/surmon-china/mongodb-data-api#readme",
+          "repository": "https://github.com/surmon-china/mongodb-data-api",
+          "bugs": "https://github.com/surmon-china/mongodb-data-api/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.24957042936122573,
+        "detail": {
+          "quality": 0.4385349927179118,
+          "popularity": 0.004081101447240858,
+          "maintenance": 0.3330901315409083
+        }
+      },
+      "searchScore": 9.138947e-9
     },
     {
       "package": {
@@ -269,292 +547,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.28193254502583154,
+        "final": 0.2397589398205507,
         "detail": {
-          "quality": 0.5248129400179132,
-          "popularity": 0.023795987792153316,
-          "maintenance": 0.3318859065520113
+          "quality": 0.5248135129793907,
+          "popularity": 0.021884567737326267,
+          "maintenance": 0.21330082062476943
         }
       },
-      "searchScore": 5.7874143e-8
-    },
-    {
-      "package": {
-        "name": "@surmon-china/libundler",
-        "scope": "surmon-china",
-        "version": "2.3.0",
-        "description": "Universal JavaScript library bundler",
-        "keywords": [
-          "JavaScript bundler",
-          "TypeScript bundler",
-          "zero config bundler",
-          "react component bundler",
-          "rollup",
-          "webpack"
-        ],
-        "date": "2022-06-11T19:33:30.966Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler",
-          "homepage": "https://github.com/surmon-china/libundler#readme",
-          "repository": "https://github.com/surmon-china/libundler",
-          "bugs": "https://github.com/surmon-china/libundler/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.2840554965887008,
-        "detail": {
-          "quality": 0.5482100882164431,
-          "popularity": 0.008359438448860475,
-          "maintenance": 0.3333333333333333
-        }
-      },
-      "searchScore": 5.637342e-8
-    },
-    {
-      "package": {
-        "name": "vue-video-player",
-        "scope": "unscoped",
-        "version": "5.0.2",
-        "description": "video.js component for Vue",
-        "keywords": [
-          "vue-video-player",
-          "vue video player",
-          "video player",
-          "vue player",
-          "vue video"
-        ],
-        "date": "2018-02-01T08:02:38.799Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-video-player",
-          "homepage": "https://github.com/surmon-china/vue-video-player#readme",
-          "repository": "https://github.com/surmon-china/vue-video-player",
-          "bugs": "https://github.com/surmon-china/vue-video-player/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "email": "surmon@foxmail.com",
-          "url": "https://surmon.me",
-          "username": "surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.24733014596535946,
-        "detail": {
-          "quality": 0.6215693784128071,
-          "popularity": 0.17388380697576386,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 5.048961e-8
-    },
-    {
-      "package": {
-        "name": "veact",
-        "scope": "unscoped",
-        "version": "0.1.4",
-        "description": "Mutable state enhancer library for @react by @vue/reactivity",
-        "keywords": [
-          "React mutable state lib",
-          "React vue state",
-          "React composition API",
-          "React state library"
-        ],
-        "date": "2022-01-17T08:42:19.200Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/veact",
-          "homepage": "https://github.com/veactjs/veact#readme",
-          "repository": "https://github.com/veactjs/veact",
-          "bugs": "https://github.com/veactjs/veact/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.2554004407426577,
-        "detail": {
-          "quality": 0.4623154592674884,
-          "popularity": 0.0029773212639140133,
-          "maintenance": 0.33046783005726094
-        }
-      },
-      "searchScore": 1.2479264e-8
-    },
-    {
-      "package": {
-        "name": "simple-netease-cloud-music",
-        "scope": "unscoped",
-        "version": "0.5.2",
-        "description": "网易云音乐 API for node.js",
-        "keywords": [
-          "网易云音乐",
-          "网易云 API",
-          "网易云 nodejs",
-          "Netease Cloud Music"
-        ],
-        "date": "2020-12-20T16:06:01.478Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/simple-netease-cloud-music",
-          "homepage": "https://github.com/surmon-china/simple-netease-cloud-music#readme",
-          "repository": "https://github.com/surmon-china/simple-netease-cloud-music",
-          "bugs": "https://github.com/surmon-china/simple-netease-cloud-music/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "email": "surmon@foxmail.com",
-          "url": "https://github.com/surmon-china",
-          "username": "surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.24735954599565557,
-        "detail": {
-          "quality": 0.5248129400179132,
-          "popularity": 0.026772288486293774,
-          "maintenance": 0.23012960862879653
-        }
-      },
-      "searchScore": 1.1121599e-8
-    },
-    {
-      "package": {
-        "name": "veact-use",
-        "scope": "unscoped",
-        "version": "0.1.3",
-        "description": "Collection of Veact Hooks",
-        "keywords": [
-          "React mutable state lib",
-          "React vue state",
-          "React composition API",
-          "Veact Hooks"
-        ],
-        "date": "2021-07-26T20:55:26.788Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/veact-use",
-          "homepage": "https://github.com/veactjs/veact-use#readme",
-          "repository": "https://github.com/veactjs/veact-use",
-          "bugs": "https://github.com/veactjs/veact-use/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.2504750918846979,
-        "detail": {
-          "quality": 0.4623154592674884,
-          "popularity": 0.002629540611407784,
-          "maintenance": 0.31674318540131047
-        }
-      },
-      "searchScore": 9.639844e-9
-    },
-    {
-      "package": {
-        "name": "mongodb-data-api",
-        "scope": "unscoped",
-        "version": "0.2.0",
-        "description": "MongoDB atlas data API SDK for Node.js",
-        "keywords": [
-          "MongoDB data API",
-          "MongoDB cloud data API",
-          "MongoDB Atlas data API SDK"
-        ],
-        "date": "2022-03-21T04:42:40.649Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/mongodb-data-api",
-          "homepage": "https://github.com/surmon-china/mongodb-data-api#readme",
-          "repository": "https://github.com/surmon-china/mongodb-data-api",
-          "bugs": "https://github.com/surmon-china/mongodb-data-api/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.24956702668093336,
-        "detail": {
-          "quality": 0.43853369203592885,
-          "popularity": 0.004067271809222958,
-          "maintenance": 0.3330953541055048
-        }
-      },
-      "searchScore": 9.140697e-9
+      "searchScore": 7.0853545e-9
     },
     {
       "package": {
@@ -595,14 +595,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.22664476473865056,
+        "final": 0.2261194998307037,
         "detail": {
-          "quality": 0.4220440864869588,
-          "popularity": 0.06321215912979025,
-          "maintenance": 0.22259223742038958
+          "quality": 0.4220444099935438,
+          "popularity": 0.06322271009414952,
+          "maintenance": 0.22108065228482357
         }
       },
-      "searchScore": 4.9710955e-9
+      "searchScore": 4.8279505e-9
     },
     {
       "package": {
@@ -641,14 +641,14 @@
         ]
       },
       "score": {
-        "final": 0.2014897476296672,
+        "final": 0.2014897941363509,
         "detail": {
-          "quality": 0.6453511456443668,
-          "popularity": 0.022526868389591954,
+          "quality": 0.6453512160204786,
+          "popularity": 0.02252694094344955,
           "maintenance": 0
         }
       },
-      "searchScore": 8.844039e-10
+      "searchScore": 8.8395136e-10
     },
     {
       "package": {
@@ -678,14 +678,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.18639933507493006,
+        "final": 0.18587120476890806,
         "detail": {
-          "quality": 0.3689952237485253,
-          "popularity": 0.0014768326617711097,
-          "maintenance": 0.21481107576786462
+          "quality": 0.3689964871871072,
+          "popularity": 0.0014770611260189407,
+          "maintenance": 0.21330082062476943
         }
       },
-      "searchScore": 1.8259044e-10
+      "searchScore": 1.7586425e-10
     },
     {
       "package": {
@@ -715,32 +715,32 @@
         "unstable": true
       },
       "score": {
-        "final": 0.15346540835496011,
+        "final": 0.1534672158278808,
         "detail": {
-          "quality": 0.5078605702319733,
-          "popularity": 0.0031635351010518204,
+          "quality": 0.5078611677073767,
+          "popularity": 0.003168187187622357,
           "maintenance": 0
         }
       },
-      "searchScore": 1.8194907e-11
+      "searchScore": 1.8189677e-11
     }
   ],
   "downloads": {
-    "vue-awesome-swiper": 7771426,
-    "naivebayes": 650,
-    "vue-drag-zone": 5265,
     "vue-video-player": 1097667,
-    "vue-touch-ripple": 9755,
-    "wonderful-bing-wallpaper": 1949,
-    "vue-quill-editor": 3590457,
-    "@surmon-china/libundler": 1717,
-    "vue-codemirror": 2221365,
     "veact-use": 526,
-    "emoji-233333": 2079,
+    "vue-quill-editor": 3590457,
+    "simple-netease-cloud-music": 3323,
+    "vue-drag-zone": 5265,
+    "vue-awesome-swiper": 7771426,
     "vuniversal": 421,
     "mongodb-data-api": 348,
-    "simple-netease-cloud-music": 3323,
+    "emoji-233333": 2079,
+    "veact": 736,
+    "vue-codemirror": 2221365,
+    "vue-touch-ripple": 9755,
+    "naivebayes": 650,
     "@fox-finder/base": 143,
-    "veact": 736
+    "@surmon-china/libundler": 1717,
+    "wonderful-bing-wallpaper": 1949
   }
 }

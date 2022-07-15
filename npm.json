@@ -36,14 +36,14 @@
         ]
       },
       "score": {
-        "final": 0.40680599499563447,
+        "final": 0.4067609100135665,
         "detail": {
-          "quality": 0.619425710550228,
-          "popularity": 0.3212921983554031,
-          "maintenance": 0.3100743211605
+          "quality": 0.6194256870312547,
+          "popularity": 0.32129284691810467,
+          "maintenance": 0.30994487852243857
         }
       },
-      "searchScore": 0.00004214052
+      "searchScore": 0.000041908497
     },
     {
       "package": {
@@ -80,14 +80,14 @@
         ]
       },
       "score": {
-        "final": 0.3623936855853151,
+        "final": 0.3623937447348447,
         "detail": {
-          "quality": 0.5262257598088638,
-          "popularity": 0.2510265456456838,
+          "quality": 0.5262255470705098,
+          "popularity": 0.2510268969915003,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.000006981717
+      "searchScore": 0.000006952064
     },
     {
       "package": {
@@ -122,14 +122,14 @@
         ]
       },
       "score": {
-        "final": 0.34388294473850545,
+        "final": 0.3438837496035346,
         "detail": {
-          "quality": 0.6477094068710726,
-          "popularity": 0.09400987431576292,
+          "quality": 0.6477094761110089,
+          "popularity": 0.09401211458161517,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.0000013696889
+      "searchScore": 0.0000013639277
     },
     {
       "package": {
@@ -170,14 +170,14 @@
         ]
       },
       "score": {
-        "final": 0.2956416093051517,
+        "final": 0.29564178280461606,
         "detail": {
-          "quality": 0.6453520290691742,
-          "popularity": 0.29153143024114125,
+          "quality": 0.6453521847507401,
+          "popularity": 0.2915317925125544,
           "maintenance": 0
         }
       },
-      "searchScore": 9.935844e-7
+      "searchScore": 9.893696e-7
     },
     {
       "package": {
@@ -218,14 +218,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.3168439994176559,
+        "final": 0.3167365954231326,
         "detail": {
-          "quality": 0.8185620453892665,
-          "popularity": 0.0025270600035671867,
-          "maintenance": 0.20111689942750702
+          "quality": 0.8185620568879227,
+          "popularity": 0.002527108800680494,
+          "maintenance": 0.20080997221862174
         }
       },
-      "searchScore": 2.6825614e-7
+      "searchScore": 2.6594807e-7
     },
     {
       "package": {
@@ -263,14 +263,14 @@
         ]
       },
       "score": {
-        "final": 0.2840739430797046,
+        "final": 0.28407476244306423,
         "detail": {
-          "quality": 0.5482115745413417,
-          "popularity": 0.00841086871610127,
+          "quality": 0.548211532550434,
+          "popularity": 0.008413245746478303,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 5.6426263e-8
+      "searchScore": 5.618971e-8
     },
     {
       "package": {
@@ -310,14 +310,51 @@
         ]
       },
       "score": {
-        "final": 0.24733279374311856,
+        "final": 0.24733278271052253,
         "detail": {
-          "quality": 0.6215777888780382,
-          "popularity": 0.17388416308487747,
+          "quality": 0.6215777318212499,
+          "popularity": 0.17388418046899312,
           "maintenance": 0
         }
       },
-      "searchScore": 5.047711e-8
+      "searchScore": 5.0262496e-8
+    },
+    {
+      "package": {
+        "name": "naivebayes",
+        "scope": "unscoped",
+        "version": "0.5.0",
+        "description": "Naive Bayes Classifier for node.js.",
+        "date": "2017-04-24T03:24:49.812Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/naivebayes"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.2703618639079577,
+        "detail": {
+          "quality": 0.5078846242731727,
+          "popularity": 0.005619016266694223,
+          "maintenance": 0.3315137740933225
+        }
+      },
+      "searchScore": 2.7845578e-8
     },
     {
       "package": {
@@ -356,14 +393,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.255145997119422,
+        "final": 0.2551388602018052,
         "detail": {
-          "quality": 0.462330703757663,
-          "popularity": 0.0029790025683854283,
-          "maintenance": 0.32972610026625193
+          "quality": 0.46233030689640126,
+          "popularity": 0.0029790450888526167,
+          "maintenance": 0.32970600671938977
         }
       },
-      "searchScore": 1.2313382e-8
+      "searchScore": 1.2256552e-8
     },
     {
       "package": {
@@ -401,14 +438,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.24958118928577927,
+        "final": 0.24958174109199216,
         "detail": {
-          "quality": 0.438556463566527,
-          "popularity": 0.00414368109221462,
-          "maintenance": 0.33303989095298875
+          "quality": 0.4385558539669111,
+          "popularity": 0.004147269803051537,
+          "maintenance": 0.333038401345288
         }
       },
-      "searchScore": 9.151514e-9
+      "searchScore": 9.11321e-9
     },
     {
       "package": {
@@ -447,14 +484,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2489193745721346,
+        "final": 0.24887790095600348,
         "detail": {
-          "quality": 0.462330703757663,
-          "popularity": 0.0026314074178299465,
-          "maintenance": 0.3122833452817006
+          "quality": 0.46233030689640126,
+          "popularity": 0.002631454630847078,
+          "maintenance": 0.31216514218939045
         }
       },
-      "searchScore": 8.882931e-9
+      "searchScore": 8.825928e-9
     },
     {
       "package": {
@@ -496,14 +533,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.24253693604718451,
+        "final": 0.24242734923956433,
         "detail": {
-          "quality": 0.5248353653972596,
-          "popularity": 0.026773314776939817,
-          "maintenance": 0.21633047501736483
+          "quality": 0.5248354771183619,
+          "popularity": 0.026773322423626664,
+          "maintenance": 0.2160172664451042
         }
       },
-      "searchScore": 8.646971e-9
+      "searchScore": 8.56071e-9
     },
     {
       "package": {
@@ -547,14 +584,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.23550148227166692,
+        "final": 0.23539409288142077,
         "detail": {
-          "quality": 0.5248353653972596,
-          "popularity": 0.021885593865318874,
-          "maintenance": 0.20111689942750702
+          "quality": 0.5248354771183619,
+          "popularity": 0.02188559848398468,
+          "maintenance": 0.20080997221862174
         }
       },
-      "searchScore": 5.634903e-9
+      "searchScore": 5.5783187e-9
     },
     {
       "package": {
@@ -595,14 +632,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.22154089609241912,
+        "final": 0.22143196333982684,
         "detail": {
-          "quality": 0.42206463035526254,
-          "popularity": 0.062396752199006235,
-          "maintenance": 0.20880755347482338
+          "quality": 0.4220640954818247,
+          "popularity": 0.062396799644460446,
+          "maintenance": 0.20849672805633793
         }
       },
-      "searchScore": 3.711685e-9
+      "searchScore": 3.6734218e-9
     },
     {
       "package": {
@@ -641,14 +678,14 @@
         ]
       },
       "score": {
-        "final": 0.2014903525182292,
+        "final": 0.2014903996076717,
         "detail": {
-          "quality": 0.6453520290691742,
-          "popularity": 0.022527839421362675,
+          "quality": 0.6453521847507401,
+          "popularity": 0.022527840521284828,
           "maintenance": 0
         }
       },
-      "searchScore": 8.84113e-10
+      "searchScore": 8.803571e-10
     },
     {
       "package": {
@@ -678,69 +715,32 @@
         "unstable": true
       },
       "score": {
-        "final": 0.18151982184301974,
+        "final": 0.18141222680174462,
         "detail": {
-          "quality": 0.36901987961522864,
-          "popularity": 0.0012084090252105493,
-          "maintenance": 0.20111689942750702
+          "quality": 0.3690192221185231,
+          "popularity": 0.00120848539905742,
+          "maintenance": 0.20080997221862174
         }
       },
-      "searchScore": 1.2864482e-10
-    },
-    {
-      "package": {
-        "name": "naivebayes",
-        "scope": "unscoped",
-        "version": "0.5.0",
-        "description": "Naive Bayes Classifier for node.js.",
-        "date": "2017-04-24T03:24:49.812Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/naivebayes"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.1534825320879159,
-        "detail": {
-          "quality": 0.5078845531232081,
-          "popularity": 0.0031919032884385233,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 1.822307e-11
+      "searchScore": 1.2711131e-10
     }
   ],
   "downloads": {
-    "veact-use": 527,
-    "vue-touch-ripple": 9739,
-    "vue-codemirror": 2225439,
-    "vuniversal": 427,
-    "vue-quill-editor": 3595857,
-    "@fox-finder/base": 142,
-    "simple-netease-cloud-music": 3318,
-    "veact": 737,
-    "vue-drag-zone": 5248,
-    "wonderful-bing-wallpaper": 1951,
-    "vue-video-player": 1097990,
-    "vue-awesome-swiper": 7782658,
-    "emoji-233333": 2092,
     "mongodb-data-api": 360,
+    "vue-codemirror": 2225439,
+    "simple-netease-cloud-music": 3318,
+    "vue-quill-editor": 3595857,
+    "veact": 737,
+    "vue-video-player": 1097990,
+    "@surmon-china/libundler": 1724,
+    "vue-touch-ripple": 9739,
+    "vuniversal": 427,
+    "veact-use": 527,
+    "vue-awesome-swiper": 7782658,
+    "wonderful-bing-wallpaper": 1951,
+    "vue-drag-zone": 5248,
     "naivebayes": 645,
-    "@surmon-china/libundler": 1724
+    "emoji-233333": 2092,
+    "@fox-finder/base": 142
   }
 }

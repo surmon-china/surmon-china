@@ -36,100 +36,14 @@
         ]
       },
       "score": {
-        "final": 0.4040068858954943,
+        "final": 0.4157007848883274,
         "detail": {
-          "quality": 0.619435235496165,
-          "popularity": 0.3210894634315646,
-          "maintenance": 0.30227143727313505
+          "quality": 0.6194351378746445,
+          "popularity": 0.32357922340775475,
+          "maintenance": 0.33319290095205684
         }
       },
-      "searchScore": 0.00003885867
-    },
-    {
-      "package": {
-        "name": "vue-codemirror",
-        "scope": "unscoped",
-        "version": "6.0.1",
-        "description": "CodeMirror code editor component for Vue",
-        "keywords": [
-          "vue-codemirror",
-          "vue codemirror",
-          "vue code editor",
-          "web IDE vue"
-        ],
-        "date": "2022-07-21T20:46:10.034Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-codemirror",
-          "homepage": "https://github.com/surmon-china/vue-codemirror#readme",
-          "repository": "https://github.com/surmon-china/vue-codemirror",
-          "bugs": "https://github.com/surmon-china/vue-codemirror/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "url": "https://github.com/surmon-china"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.3669980272958316,
-        "detail": {
-          "quality": 0.5394889313891499,
-          "popularity": 0.25281337489262856,
-          "maintenance": 0.3333333333333333
-        }
-      },
-      "searchScore": 0.000008224497
-    },
-    {
-      "package": {
-        "name": "vue-touch-ripple",
-        "scope": "unscoped",
-        "version": "4.1.0",
-        "description": "Touch ripple component for Vue",
-        "keywords": [
-          "vue touch ripple",
-          "vue ripple",
-          "vue touch"
-        ],
-        "date": "2022-07-22T17:29:07.631Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-touch-ripple",
-          "homepage": "https://github.surmon.me/vue-touch-ripple",
-          "repository": "https://github.com/surmon-china/vue-touch-ripple",
-          "bugs": "https://github.com/surmon-china/vue-touch-ripple/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.34092085868169175,
-        "detail": {
-          "quality": 0.6371993265710315,
-          "popularity": 0.09455541155347338,
-          "maintenance": 0.3333333333333333
-        }
-      },
-      "searchScore": 0.0000012256463
+      "searchScore": 0.00005419992
     },
     {
       "package": {
@@ -170,14 +84,193 @@
         ]
       },
       "score": {
-        "final": 0.29556292897912223,
+        "final": 0.4110212635970959,
         "detail": {
-          "quality": 0.6453542511639306,
-          "popularity": 0.2913047246569802,
-          "maintenance": 0
+          "quality": 0.6453546447391573,
+          "popularity": 0.2909060081288791,
+          "maintenance": 0.3302793352292602
         }
       },
-      "searchScore": 9.87836e-7
+      "searchScore": 0.00004015556
+    },
+    {
+      "package": {
+        "name": "vue-codemirror",
+        "scope": "unscoped",
+        "version": "6.0.1",
+        "description": "CodeMirror code editor component for Vue",
+        "keywords": [
+          "vue-codemirror",
+          "vue codemirror",
+          "vue code editor",
+          "web IDE vue"
+        ],
+        "date": "2022-07-21T20:46:10.034Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-codemirror",
+          "homepage": "https://github.com/surmon-china/vue-codemirror#readme",
+          "repository": "https://github.com/surmon-china/vue-codemirror",
+          "bugs": "https://github.com/surmon-china/vue-codemirror/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "url": "https://github.com/surmon-china"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.3668921191799254,
+        "detail": {
+          "quality": 0.5394888343951773,
+          "popularity": 0.2525108634134446,
+          "maintenance": 0.3333333333333333
+        }
+      },
+      "searchScore": 0.000008125197
+    },
+    {
+      "package": {
+        "name": "vue-video-player",
+        "scope": "unscoped",
+        "version": "5.0.2",
+        "description": "video.js component for Vue",
+        "keywords": [
+          "vue-video-player",
+          "vue video player",
+          "video player",
+          "vue player",
+          "vue video"
+        ],
+        "date": "2018-02-01T08:02:38.799Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-video-player",
+          "homepage": "https://github.com/surmon-china/vue-video-player#readme",
+          "repository": "https://github.com/surmon-china/vue-video-player",
+          "bugs": "https://github.com/surmon-china/vue-video-player/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "https://surmon.me",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.36290850985591805,
+        "detail": {
+          "quality": 0.6215722417651679,
+          "popularity": 0.1738259142746476,
+          "maintenance": 0.3302793352292602
+        }
+      },
+      "searchScore": 0.0000044862877
+    },
+    {
+      "package": {
+        "name": "vue-touch-ripple",
+        "scope": "unscoped",
+        "version": "4.1.0",
+        "description": "Touch ripple component for Vue",
+        "keywords": [
+          "vue touch ripple",
+          "vue ripple",
+          "vue touch"
+        ],
+        "date": "2022-07-22T17:29:07.631Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-touch-ripple",
+          "homepage": "https://github.surmon.me/vue-touch-ripple",
+          "repository": "https://github.com/surmon-china/vue-touch-ripple",
+          "bugs": "https://github.com/surmon-china/vue-touch-ripple/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.3409088941372648,
+        "detail": {
+          "quality": 0.6371994046315624,
+          "popularity": 0.0945211602317983,
+          "maintenance": 0.3333333333333333
+        }
+      },
+      "searchScore": 0.0000012164094
+    },
+    {
+      "package": {
+        "name": "vue-drag-zone",
+        "scope": "unscoped",
+        "version": "2.0.0-rc1",
+        "description": "Drag Zone component for Vue",
+        "keywords": [
+          "vue-drag-zone",
+          "vue drag dom",
+          "vue drag size",
+          "vue drag"
+        ],
+        "date": "2018-04-11T08:07:39.500Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-drag-zone",
+          "homepage": "https://github.com/surmon-china/vue-drag-zone#readme",
+          "repository": "https://github.com/surmon-china/vue-drag-zone",
+          "bugs": "https://github.com/surmon-china/vue-drag-zone/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "http://surmon.me",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.3169573807865451,
+        "detail": {
+          "quality": 0.6453546447391573,
+          "popularity": 0.022152057241591236,
+          "maintenance": 0.3302793352292602
+        }
+      },
+      "searchScore": 2.7886801e-7
     },
     {
       "package": {
@@ -218,14 +311,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.31150657570280277,
+        "final": 0.30806108731299764,
         "detail": {
-          "quality": 0.8185940462776337,
-          "popularity": 0.0025282188090274688,
-          "maintenance": 0.1858385292467231
+          "quality": 0.8186000014121175,
+          "popularity": 0.0025126764559194564,
+          "maintenance": 0.17600471465654452
         }
       },
-      "searchScore": 2.1514083e-7
+      "searchScore": 1.8506262e-7
     },
     {
       "package": {
@@ -263,61 +356,14 @@
         ]
       },
       "score": {
-        "final": 0.28411720519385636,
+        "final": 0.2841134367232093,
         "detail": {
-          "quality": 0.5482087732931192,
-          "popularity": 0.00853687582643982,
+          "quality": 0.5482099626216624,
+          "popularity": 0.008525089342982723,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 5.6534677e-8
-    },
-    {
-      "package": {
-        "name": "vue-video-player",
-        "scope": "unscoped",
-        "version": "5.0.2",
-        "description": "video.js component for Vue",
-        "keywords": [
-          "vue-video-player",
-          "vue video player",
-          "video player",
-          "vue player",
-          "vue video"
-        ],
-        "date": "2018-02-01T08:02:38.799Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-video-player",
-          "homepage": "https://github.com/surmon-china/vue-video-player#readme",
-          "repository": "https://github.com/surmon-china/vue-video-player",
-          "bugs": "https://github.com/surmon-china/vue-video-player/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "email": "surmon@foxmail.com",
-          "url": "https://surmon.me",
-          "username": "surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.2472645999472289,
-        "detail": {
-          "quality": 0.6215658302523299,
-          "popularity": 0.17369957391865698,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 5.0171437e-8
+      "searchScore": 5.6131405e-8
     },
     {
       "package": {
@@ -347,14 +393,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.27022135674608294,
+        "final": 0.270007083136884,
         "detail": {
-          "quality": 0.5079424417047116,
-          "popularity": 0.005781537337261569,
-          "maintenance": 0.3309002461903656
+          "quality": 0.5079424003337939,
+          "popularity": 0.005790273447156496,
+          "maintenance": 0.3302793352292602
         }
       },
-      "searchScore": 2.7786758e-8
+      "searchScore": 2.7314666e-8
     },
     {
       "package": {
@@ -393,14 +439,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2547095874077926,
+        "final": 0.2542579360716807,
         "detail": {
-          "quality": 0.4623672288336758,
-          "popularity": 0.00298001229960464,
-          "maintenance": 0.32844689843665215
+          "quality": 0.4623660620999681,
+          "popularity": 0.002961109860183932,
+          "maintenance": 0.32717636854464544
         }
       },
-      "searchScore": 1.2026762e-8
+      "searchScore": 1.16680825e-8
     },
     {
       "package": {
@@ -438,14 +484,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.24962390178804997,
+        "final": 0.25017879324188236,
         "detail": {
-          "quality": 0.43857880792207515,
-          "popularity": 0.0043405397987831655,
-          "maintenance": 0.3329459156624381
+          "quality": 0.4385836591259788,
+          "popularity": 0.006014334765815304,
+          "maintenance": 0.33285336667443827
         }
       },
-      "searchScore": 9.1799865e-9
+      "searchScore": 9.551114e-9
     },
     {
       "package": {
@@ -484,14 +530,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.24641853204011305,
+        "final": 0.24418321742206392,
         "detail": {
-          "quality": 0.4623672288336758,
-          "popularity": 0.002632528598356421,
-          "maintenance": 0.30510565251595884
+          "quality": 0.4623660620999681,
+          "popularity": 0.002616204809648627,
+          "maintenance": 0.2987363631677042
         }
       },
-      "searchScore": 7.775913e-9
+      "searchScore": 6.854809e-9
     },
     {
       "package": {
@@ -533,14 +579,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.23701651590986877,
+        "final": 0.23339734353272223,
         "detail": {
-          "quality": 0.5248895144580833,
-          "popularity": 0.026719984403416067,
-          "maintenance": 0.2005647629464233
+          "quality": 0.5248895927102244,
+          "popularity": 0.02668599654412913,
+          "maintenance": 0.1902581912263135
         }
       },
-      "searchScore": 6.4360313e-9
+      "searchScore": 5.252341e-9
     },
     {
       "package": {
@@ -584,14 +630,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.23015550354737868,
+        "final": 0.22670290062998175,
         "detail": {
-          "quality": 0.5248895144580833,
-          "popularity": 0.021843325638858963,
-          "maintenance": 0.1858385292467231
+          "quality": 0.5248895927102244,
+          "popularity": 0.02181249339178247,
+          "maintenance": 0.17600471465654452
         }
       },
-      "searchScore": 4.195045e-9
+      "searchScore": 3.433941e-9
     },
     {
       "package": {
@@ -632,60 +678,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.21611212378517794,
+        "final": 0.21257154120732624,
         "detail": {
-          "quality": 0.4221138694894052,
-          "popularity": 0.062398131822569196,
-          "maintenance": 0.19325319085844905
+          "quality": 0.42211229625494967,
+          "popularity": 0.062368981487840765,
+          "maintenance": 0.18316773945742024
         }
       },
-      "searchScore": 2.725981e-9
-    },
-    {
-      "package": {
-        "name": "vue-drag-zone",
-        "scope": "unscoped",
-        "version": "2.0.0-rc1",
-        "description": "Drag Zone component for Vue",
-        "keywords": [
-          "vue-drag-zone",
-          "vue drag dom",
-          "vue drag size",
-          "vue drag"
-        ],
-        "date": "2018-04-11T08:07:39.500Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-drag-zone",
-          "homepage": "https://github.com/surmon-china/vue-drag-zone#readme",
-          "repository": "https://github.com/surmon-china/vue-drag-zone",
-          "bugs": "https://github.com/surmon-china/vue-drag-zone/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "email": "surmon@foxmail.com",
-          "url": "http://surmon.me",
-          "username": "surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.20147619602174535,
-        "detail": {
-          "quality": 0.6453542511639306,
-          "popularity": 0.022485487635903374,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 8.8180035e-10
+      "searchScore": 2.2060749e-9
     },
     {
       "package": {
@@ -715,14 +715,51 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17618177251484501,
+        "final": 0.17273933676348913,
         "detail": {
-          "quality": 0.3690490301914763,
-          "popularity": 0.0012102234887116253,
-          "maintenance": 0.1858385292467231
+          "quality": 0.3690532681109151,
+          "popularity": 0.0012048748583543742,
+          "maintenance": 0.17600471465654452
         }
       },
-      "searchScore": 8.708252e-11
+      "searchScore": 6.688197e-11
+    },
+    {
+      "package": {
+        "name": "@videojs-player/react",
+        "scope": "videojs-player",
+        "version": "0.0.1",
+        "description": "Video.js component for React",
+        "date": "2022-07-23T00:38:03.588Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40videojs-player%2Freact"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.09142590055430812,
+        "detail": {
+          "quality": 0.3047530018476937,
+          "popularity": 0,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 1.5809824e-14
     },
     {
       "package": {
@@ -757,33 +794,34 @@
         "unstable": true
       },
       "score": {
-        "final": 0.09117542405587163,
+        "final": 0.09117510654063377,
         "detail": {
-          "quality": 0.3039180801862388,
+          "quality": 0.30391702180211255,
           "popularity": 0,
           "maintenance": 0
         }
       },
-      "searchScore": 1.5340165e-14
+      "searchScore": 1.523428e-14
     }
   ],
   "downloads": {
-    "wonderful-bing-wallpaper": 1945,
-    "vue-awesome-swiper": 7808316,
-    "simple-netease-cloud-music": 3309,
-    "veact": 738,
-    "vue-touch-ripple": 9753,
-    "vue-quill-editor": 3610394,
-    "@surmon-china/libundler": 1757,
-    "naivebayes": 657,
-    "emoji-233333": 2075,
-    "veact-use": 529,
-    "vue-stacks-editor": 36,
-    "vue-drag-zone": 5182,
-    "vuniversal": 419,
-    "vue-video-player": 1098531,
-    "mongodb-data-api": 388,
-    "vue-codemirror": 2235591,
-    "@fox-finder/base": 142
+    "wonderful-bing-wallpaper": 1942,
+    "vue-touch-ripple": 9744,
+    "simple-netease-cloud-music": 3303,
+    "vue-stacks-editor": 40,
+    "vue-drag-zone": 5175,
+    "emoji-233333": 2070,
+    "vue-codemirror": 2232295,
+    "veact": 737,
+    "vue-awesome-swiper": 7797094,
+    "veact-use": 530,
+    "mongodb-data-api": 389,
+    "vue-quill-editor": 3604865,
+    "vue-video-player": 1096410,
+    "vuniversal": 418,
+    "naivebayes": 656,
+    "@surmon-china/libundler": 1763,
+    "@fox-finder/base": 142,
+    "@videojs-player/react": 36
   }
 }

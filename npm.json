@@ -46,7 +46,7 @@
           "maintenance": 0.3311893865586213
         }
       },
-      "searchScore": 0.000040339455
+      "searchScore": 0.000040255927
     },
     {
       "package": {
@@ -91,7 +91,7 @@
           "maintenance": 0.3057766993056615
         }
       },
-      "searchScore": 0.000032966585
+      "searchScore": 0.000032898322
     },
     {
       "package": {
@@ -135,7 +135,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.000007922858
+      "searchScore": 0.000007906452
     },
     {
       "package": {
@@ -182,7 +182,7 @@
           "maintenance": 0.3311893865586213
         }
       },
-      "searchScore": 0.0000044840053
+      "searchScore": 0.0000044747203
     },
     {
       "package": {
@@ -224,7 +224,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.0000011994402
+      "searchScore": 0.0000011969566
     },
     {
       "package": {
@@ -270,7 +270,7 @@
           "maintenance": 0.3311893865586213
         }
       },
-      "searchScore": 2.806206e-7
+      "searchScore": 2.8003956e-7
     },
     {
       "package": {
@@ -318,7 +318,7 @@
           "maintenance": 0.1919968929504862
         }
       },
-      "searchScore": 2.3181435e-7
+      "searchScore": 2.3133434e-7
     },
     {
       "package": {
@@ -363,7 +363,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 5.4058024e-8
+      "searchScore": 5.394609e-8
     },
     {
       "package": {
@@ -400,7 +400,7 @@
           "maintenance": 0.3311893865586213
         }
       },
-      "searchScore": 2.789863e-8
+      "searchScore": 2.7840862e-8
     },
     {
       "package": {
@@ -447,7 +447,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.3828118e-8
+      "searchScore": 1.3799485e-8
     },
     {
       "package": {
@@ -494,7 +494,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.3466084e-8
+      "searchScore": 1.3438201e-8
     },
     {
       "package": {
@@ -542,7 +542,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.03535e-8
+      "searchScore": 1.0332061e-8
     },
     {
       "package": {
@@ -587,7 +587,7 @@
           "maintenance": 0.3329893287081431
         }
       },
-      "searchScore": 9.560865e-9
+      "searchScore": 9.5410675e-9
     },
     {
       "package": {
@@ -633,7 +633,7 @@
           "maintenance": 0.20695996712102296
         }
       },
-      "searchScore": 7.0582735e-9
+      "searchScore": 7.0436585e-9
     },
     {
       "package": {
@@ -679,7 +679,7 @@
           "maintenance": 0.2943814822976966
         }
       },
-      "searchScore": 6.3110543e-9
+      "searchScore": 6.297986e-9
     },
     {
       "package": {
@@ -730,7 +730,7 @@
           "maintenance": 0.1919968929504862
         }
       },
-      "searchScore": 4.6605337e-9
+      "searchScore": 4.6508837e-9
     },
     {
       "package": {
@@ -778,7 +778,7 @@
           "maintenance": 0.19954168728037067
         }
       },
-      "searchScore": 3.072199e-9
+      "searchScore": 3.0658376e-9
     },
     {
       "package": {
@@ -824,7 +824,7 @@
           "maintenance": 0.2283296037464133
         }
       },
-      "searchScore": 1.700314e-9
+      "searchScore": 1.6967933e-9
     },
     {
       "package": {
@@ -860,7 +860,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 7.085328e-10
+      "searchScore": 7.0706563e-10
     },
     {
       "package": {
@@ -870,10 +870,7 @@
         "description": "Base modules for @fox-finder",
         "date": "2019-09-01T17:35:39.471Z",
         "links": {
-          "npm": "https://www.npmjs.com/package/%40fox-finder%2Fbase",
-          "homepage": "https://github.com/fox-finder/FoxBase#readme",
-          "repository": "https://github.com/fox-finder/FoxBase",
-          "bugs": "https://github.com/fox-finder/FoxBase/issues"
+          "npm": "https://www.npmjs.com/package/%40fox-finder%2Fbase"
         },
         "publisher": {
           "username": "surmon",
@@ -890,36 +887,36 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17836681717218028,
+        "final": 0.17879700227254347,
         "detail": {
-          "quality": 0.36914002259306167,
-          "popularity": 0.001216851033118935,
-          "maintenance": 0.1919968929504862
+          "quality": 0.36914071379213964,
+          "popularity": 0.001428093046398585,
+          "maintenance": 0.19301415876760594
         }
       },
-      "searchScore": 1.0091684e-10
+      "searchScore": 1.0424042e-10
     }
   ],
   "downloads": {
-    "vuniversal": 421,
-    "vue-quill-editor": 3632312,
     "vue-drag-zone": 5092,
     "veact-use": 543,
-    "mongodb-data-api": 431,
-    "emoji-233333": 2058,
     "@videojs-player/react": 442,
     "naivebayes": 683,
     "vue-video-player": 1095735,
+    "vue-quill-editor": 3632312,
+    "emoji-233333": 2058,
+    "mongodb-data-api": 431,
+    "@fox-finder/base": 143,
+    "@surmon-china/libundler": 1862,
+    "@videojs-player/vue": 687,
+    "veact": 747,
+    "vue-touch-ripple": 9902,
+    "wonderful-bing-wallpaper": 1933,
+    "player.ts": 50,
+    "@surmon/libundler": 47,
+    "simple-netease-cloud-music": 3261,
     "vue-codemirror": 2254920,
     "vue-awesome-swiper": 7818645,
-    "vue-touch-ripple": 9902,
-    "@surmon-china/libundler": 1862,
-    "player.ts": 50,
-    "veact": 747,
-    "@surmon/libundler": 47,
-    "wonderful-bing-wallpaper": 1933,
-    "@videojs-player/vue": 687,
-    "@fox-finder/base": 143,
-    "simple-netease-cloud-music": 3261
+    "vuniversal": 421
   }
 }

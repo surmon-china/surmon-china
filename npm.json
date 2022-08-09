@@ -46,7 +46,7 @@
           "maintenance": 0.3313602833293372
         }
       },
-      "searchScore": 0.000040385916
+      "searchScore": 0.000040282568
     },
     {
       "package": {
@@ -91,7 +91,7 @@
           "maintenance": 0.307943300840592
         }
       },
-      "searchScore": 0.00003367018
+      "searchScore": 0.000033584016
     },
     {
       "package": {
@@ -135,7 +135,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.000007918728
+      "searchScore": 0.000007898464
     },
     {
       "package": {
@@ -182,7 +182,7 @@
           "maintenance": 0.3313602833293372
         }
       },
-      "searchScore": 0.0000044920675
+      "searchScore": 0.0000044805724
     },
     {
       "package": {
@@ -224,7 +224,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.000001199916
+      "searchScore": 0.0000011968453
     },
     {
       "package": {
@@ -270,7 +270,7 @@
           "maintenance": 0.3313602833293372
         }
       },
-      "searchScore": 2.8125746e-7
+      "searchScore": 2.805377e-7
     },
     {
       "package": {
@@ -318,7 +318,7 @@
           "maintenance": 0.19633730377777003
         }
       },
-      "searchScore": 2.469825e-7
+      "searchScore": 2.4635045e-7
     },
     {
       "package": {
@@ -363,44 +363,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 5.411661e-8
-    },
-    {
-      "package": {
-        "name": "naivebayes",
-        "scope": "unscoped",
-        "version": "0.5.0",
-        "description": "Naive Bayes Classifier for node.js.",
-        "date": "2017-04-24T03:24:49.812Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/naivebayes"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.2706269695673184,
-        "detail": {
-          "quality": 0.5084940744153108,
-          "popularity": 0.0060075659355919905,
-          "maintenance": 0.3313602833293372
-        }
-      },
-      "searchScore": 2.803141e-8
+      "searchScore": 5.3978123e-8
     },
     {
       "package": {
@@ -447,7 +410,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.3846595e-8
+      "searchScore": 1.3811161e-8
     },
     {
       "package": {
@@ -494,7 +457,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.34853675e-8
+      "searchScore": 1.3450858e-8
     },
     {
       "package": {
@@ -542,7 +505,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.0376001e-8
+      "searchScore": 1.0349448e-8
     },
     {
       "package": {
@@ -587,7 +550,7 @@
           "maintenance": 0.3330151256204495
         }
       },
-      "searchScore": 9.5858415e-9
+      "searchScore": 9.561311e-9
     },
     {
       "package": {
@@ -633,7 +596,7 @@
           "maintenance": 0.2114356031959662
         }
       },
-      "searchScore": 7.676578e-9
+      "searchScore": 7.656933e-9
     },
     {
       "package": {
@@ -679,7 +642,7 @@
           "maintenance": 0.2972446290092978
         }
       },
-      "searchScore": 6.664424e-9
+      "searchScore": 6.6473693e-9
     },
     {
       "package": {
@@ -730,7 +693,7 @@
           "maintenance": 0.19633730377777003
         }
       },
-      "searchScore": 5.0691837e-9
+      "searchScore": 5.056211e-9
     },
     {
       "package": {
@@ -778,7 +741,44 @@
           "maintenance": 0.20395902762136245
         }
       },
-      "searchScore": 3.3242424e-9
+      "searchScore": 3.3157355e-9
+    },
+    {
+      "package": {
+        "name": "naivebayes",
+        "scope": "unscoped",
+        "version": "0.5.0",
+        "description": "Naive Bayes Classifier for node.js.",
+        "date": "2017-04-24T03:24:49.812Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/naivebayes"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.22312608652202362,
+        "detail": {
+          "quality": 0.5084940744153108,
+          "popularity": 0.005313736786316819,
+          "maintenance": 0.19633730377777003
+        }
+      },
+      "searchScore": 2.2614497e-9
     },
     {
       "package": {
@@ -824,7 +824,7 @@
           "maintenance": 0.23285590953542937
         }
       },
-      "searchScore": 1.8685273e-9
+      "searchScore": 1.8637458e-9
     },
     {
       "package": {
@@ -860,7 +860,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 7.101318e-10
+      "searchScore": 7.083145e-10
     },
     {
       "package": {
@@ -894,29 +894,29 @@
           "maintenance": 0.19633730377777003
         }
       },
-      "searchScore": 1.1405622e-10
+      "searchScore": 1.13764345e-10
     }
   ],
   "downloads": {
-    "vue-drag-zone": 5089,
-    "vuniversal": 429,
-    "vue-quill-editor": 3635997,
     "emoji-233333": 2035,
-    "simple-netease-cloud-music": 3250,
-    "veact": 747,
     "vue-touch-ripple": 9902,
-    "vue-awesome-swiper": 7823040,
-    "naivebayes": 683,
-    "vue-video-player": 1096368,
-    "vue-codemirror": 2256716,
     "mongodb-data-api": 438,
-    "player.ts": 51,
-    "veact-use": 543,
+    "wonderful-bing-wallpaper": 1927,
+    "vuniversal": 429,
+    "vue-codemirror": 2256716,
+    "veact": 747,
+    "vue-drag-zone": 5089,
     "@videojs-player/vue": 712,
-    "@videojs-player/react": 452,
     "@surmon-china/libundler": 1865,
-    "@surmon/libundler": 47,
+    "veact-use": 543,
+    "simple-netease-cloud-music": 3250,
+    "vue-awesome-swiper": 7823040,
     "@fox-finder/base": 144,
-    "wonderful-bing-wallpaper": 1927
+    "vue-quill-editor": 3635997,
+    "vue-video-player": 1096368,
+    "@videojs-player/react": 452,
+    "naivebayes": 683,
+    "player.ts": 51,
+    "@surmon/libundler": 47
   }
 }

@@ -2,6 +2,51 @@
   "packages": [
     {
       "package": {
+        "name": "vue-awesome-swiper",
+        "scope": "unscoped",
+        "version": "5.0.1",
+        "description": "Swiper component for Vue",
+        "keywords": [
+          "vue swiper",
+          "vue awesome swiper",
+          "vue carrousel",
+          "carrousel",
+          "swiper"
+        ],
+        "date": "2022-03-19T04:09:09.961Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-awesome-swiper",
+          "homepage": "https://github.surmon.me/vue-awesome-swiper",
+          "repository": "https://github.com/surmon-china/vue-awesome-swiper",
+          "bugs": "https://github.com/surmon-china/vue-awesome-swiper/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "url": "https://github.com/surmon-china"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.404139332284418,
+        "detail": {
+          "quality": 0.6195740053864301,
+          "popularity": 0.308768986060068,
+          "maintenance": 0.314851387278472
+        }
+      },
+      "searchScore": 0.00003557585
+    },
+    {
+      "package": {
         "name": "vue-quill-editor",
         "scope": "unscoped",
         "version": "3.0.6",
@@ -39,59 +84,14 @@
         ]
       },
       "score": {
-        "final": 0.41174336075889784,
+        "final": 0.3708112063322406,
         "detail": {
-          "quality": 0.6453827322075841,
-          "popularity": 0.2913523791578,
-          "maintenance": 0.33187202397540744
+          "quality": 0.6453827056662939,
+          "popularity": 0.291882108418408,
+          "maintenance": 0.21439330481688465
         }
       },
-      "searchScore": 0.00004071602
-    },
-    {
-      "package": {
-        "name": "vue-awesome-swiper",
-        "scope": "unscoped",
-        "version": "5.0.1",
-        "description": "Swiper component for Vue",
-        "keywords": [
-          "vue swiper",
-          "vue awesome swiper",
-          "vue carrousel",
-          "carrousel",
-          "swiper"
-        ],
-        "date": "2022-03-19T04:09:09.961Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-awesome-swiper",
-          "homepage": "https://github.surmon.me/vue-awesome-swiper",
-          "repository": "https://github.com/surmon-china/vue-awesome-swiper",
-          "bugs": "https://github.com/surmon-china/vue-awesome-swiper/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "url": "https://github.com/surmon-china"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.4041166521411265,
-        "detail": {
-          "quality": 0.6195729151064998,
-          "popularity": 0.3087689808338088,
-          "maintenance": 0.31478752662098153
-        }
-      },
-      "searchScore": 0.000035786896
+      "searchScore": 0.000012207453
     },
     {
       "package": {
@@ -128,14 +128,14 @@
         ]
       },
       "score": {
-        "final": 0.36666061693399227,
+        "final": 0.36666074446264196,
         "detail": {
-          "quality": 0.5395334079955084,
-          "popularity": 0.25181122248192317,
+          "quality": 0.539533800201711,
+          "popularity": 0.25181125067274857,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.000007958762
+      "searchScore": 0.000007906772
     },
     {
       "package": {
@@ -170,14 +170,14 @@
         ]
       },
       "score": {
-        "final": 0.3408268668367032,
+        "final": 0.34082703067945924,
         "detail": {
-          "quality": 0.6372564755595952,
-          "popularity": 0.09423787857759432,
+          "quality": 0.6372568559521596,
+          "popularity": 0.09423802064898486,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.0000011995279
+      "searchScore": 0.0000011916954
     },
     {
       "package": {
@@ -218,14 +218,147 @@
         "unstable": true
       },
       "score": {
-        "final": 0.32144789145870184,
+        "final": 0.32152166835047546,
         "detail": {
-          "quality": 0.8187900357116749,
-          "popularity": 0.0024168626960325186,
-          "maintenance": 0.21418565371882292
+          "quality": 0.8187936554569076,
+          "popularity": 0.002416900078552945,
+          "maintenance": 0.21439330481688465
         }
       },
-      "searchScore": 3.1755297e-7
+      "searchScore": 3.1641568e-7
+    },
+    {
+      "package": {
+        "name": "@videojs-player/vue",
+        "scope": "videojs-player",
+        "version": "1.0.0",
+        "description": "Video.js component for Vue",
+        "keywords": [
+          "vue-video-player",
+          "vue video player",
+          "video player",
+          "vue player",
+          "vue video"
+        ],
+        "date": "2022-08-14T16:14:41.126Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40videojs-player%2Fvue",
+          "homepage": "https://github.surmon.me/videojs-player",
+          "repository": "https://github.com/surmon-china/videojs-player",
+          "bugs": "https://github.com/surmon-china/videojs-player/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.3052903031581366,
+        "detail": {
+          "quality": 0.5946307996919085,
+          "popularity": 0.029241133096849815,
+          "maintenance": 0.3333333333333333
+        }
+      },
+      "searchScore": 1.7356962e-7
+    },
+    {
+      "package": {
+        "name": "@videojs-player/react",
+        "scope": "videojs-player",
+        "version": "1.0.0",
+        "description": "Video.js component for React",
+        "keywords": [
+          "react-video-player",
+          "react video player",
+          "video player",
+          "react player",
+          "react video"
+        ],
+        "date": "2022-08-14T16:20:24.497Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40videojs-player%2Freact",
+          "homepage": "https://github.surmon.me/videojs-player",
+          "repository": "https://github.com/surmon-china/videojs-player",
+          "bugs": "https://github.com/surmon-china/videojs-player/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.29885351451801645,
+        "detail": {
+          "quality": 0.595363645890351,
+          "popularity": 0.010222154526412827,
+          "maintenance": 0.3333333333333333
+        }
+      },
+      "searchScore": 1.1210983e-7
+    },
+    {
+      "package": {
+        "name": "@surmon-china/libundler",
+        "scope": "surmon-china",
+        "version": "2.3.0",
+        "description": "Universal JavaScript library bundler",
+        "keywords": [
+          "JavaScript bundler",
+          "TypeScript bundler",
+          "zero config bundler",
+          "react component bundler",
+          "rollup",
+          "webpack"
+        ],
+        "date": "2022-06-11T19:33:30.966Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler",
+          "homepage": "https://github.com/surmon-china/libundler#readme",
+          "repository": "https://github.com/surmon-china/libundler",
+          "bugs": "https://github.com/surmon-china/libundler/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.28370770030892023,
+        "detail": {
+          "quality": 0.5481094934653334,
+          "popularity": 0.007451958864724348,
+          "maintenance": 0.3333333333333333
+        }
+      },
+      "searchScore": 5.3714434e-8
     },
     {
       "package": {
@@ -264,147 +397,14 @@
         ]
       },
       "score": {
-        "final": 0.3175050248058567,
+        "final": 0.2762380548338262,
         "detail": {
-          "quality": 0.6453827322075841,
-          "popularity": 0.022099990720539586,
-          "maintenance": 0.33187202397540744
+          "quality": 0.6453827056662939,
+          "popularity": 0.02167310413722401,
+          "maintenance": 0.21439330481688465
         }
       },
-      "searchScore": 2.8248368e-7
-    },
-    {
-      "package": {
-        "name": "@videojs-player/vue",
-        "scope": "videojs-player",
-        "version": "1.0.0",
-        "description": "Video.js component for Vue",
-        "keywords": [
-          "vue-video-player",
-          "vue video player",
-          "video player",
-          "vue player",
-          "vue video"
-        ],
-        "date": "2022-08-14T16:14:41.126Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40videojs-player%2Fvue",
-          "homepage": "https://github.surmon.me/videojs-player",
-          "repository": "https://github.com/surmon-china/videojs-player",
-          "bugs": "https://github.com/surmon-china/videojs-player/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.30528954924921126,
-        "detail": {
-          "quality": 0.5946283779022047,
-          "popularity": 0.02924105489109491,
-          "maintenance": 0.3333333333333333
-        }
-      },
-      "searchScore": 1.7470573e-7
-    },
-    {
-      "package": {
-        "name": "@videojs-player/react",
-        "scope": "videojs-player",
-        "version": "1.0.0",
-        "description": "Video.js component for React",
-        "keywords": [
-          "react-video-player",
-          "react video player",
-          "video player",
-          "react player",
-          "react video"
-        ],
-        "date": "2022-08-14T16:20:24.497Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40videojs-player%2Freact",
-          "homepage": "https://github.surmon.me/videojs-player",
-          "repository": "https://github.com/surmon-china/videojs-player",
-          "bugs": "https://github.com/surmon-china/videojs-player/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.2988527685397848,
-        "detail": {
-          "quality": 0.5953612705312294,
-          "popularity": 0.01022205918214101,
-          "maintenance": 0.3333333333333333
-        }
-      },
-      "searchScore": 1.1284355e-7
-    },
-    {
-      "package": {
-        "name": "@surmon-china/libundler",
-        "scope": "surmon-china",
-        "version": "2.3.0",
-        "description": "Universal JavaScript library bundler",
-        "keywords": [
-          "JavaScript bundler",
-          "TypeScript bundler",
-          "zero config bundler",
-          "react component bundler",
-          "rollup",
-          "webpack"
-        ],
-        "date": "2022-06-11T19:33:30.966Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler",
-          "homepage": "https://github.com/surmon-china/libundler#readme",
-          "repository": "https://github.com/surmon-china/libundler",
-          "bugs": "https://github.com/surmon-china/libundler/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.283707704377415,
-        "detail": {
-          "quality": 0.5481097208259802,
-          "popularity": 0.007451775608440791,
-          "maintenance": 0.3333333333333333
-        }
-      },
-      "searchScore": 5.4067794e-8
+      "searchScore": 4.67672e-8
     },
     {
       "package": {
@@ -441,14 +441,14 @@
         ]
       },
       "score": {
-        "final": 0.22071109912871,
+        "final": 0.22071130013353008,
         "detail": {
-          "quality": 0.532892907785615,
-          "popularity": 0.17383779083721573,
+          "quality": 0.5328935551673708,
+          "popularity": 0.17383781023805384,
           "maintenance": 0
         }
       },
-      "searchScore": 1.2683976e-8
+      "searchScore": 1.2601202e-8
     },
     {
       "package": {
@@ -487,14 +487,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.24710638500412777,
+        "final": 0.24718046452610926,
         "detail": {
-          "quality": 0.5256685325179686,
-          "popularity": 0.02593776702236802,
-          "maintenance": 0.22950744797402398
+          "quality": 0.5256743372379655,
+          "popularity": 0.025937787467000685,
+          "maintenance": 0.22971410783219826
         }
       },
-      "searchScore": 1.0702675e-8
+      "searchScore": 1.0673574e-8
     },
     {
       "package": {
@@ -535,14 +535,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.25226738202016163,
+        "final": 0.25226903996056543,
         "detail": {
-          "quality": 0.44738153655273005,
-          "popularity": 0.003960726821931367,
+          "quality": 0.44738679461676306,
+          "popularity": 0.003960956882485415,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.0408069e-8
+      "searchScore": 1.0340994e-8
     },
     {
       "package": {
@@ -587,7 +587,7 @@
           "maintenance": 0.3259875565346925
         }
       },
-      "searchScore": 8.419216e-9
+      "searchScore": 8.364181e-9
     },
     {
       "package": {
@@ -626,14 +626,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.24710811042817693,
+        "final": 0.24714102544090683,
         "detail": {
-          "quality": 0.4629024800183454,
-          "popularity": 0.0026174941479695686,
-          "maintenance": 0.3066321242025256
+          "quality": 0.462907202059817,
+          "popularity": 0.0026175291561722227,
+          "maintenance": 0.3067220846237184
         }
       },
-      "searchScore": 7.940824e-9
+      "searchScore": 7.902691e-9
     },
     {
       "package": {
@@ -677,14 +677,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.24020162627232855,
+        "final": 0.24027605239757094,
         "detail": {
-          "quality": 0.5256685325179686,
-          "popularity": 0.0215316791867141,
-          "maintenance": 0.21418565371882292
+          "quality": 0.5256743372379655,
+          "popularity": 0.021531698686490432,
+          "maintenance": 0.21439330481688465
         }
       },
-      "searchScore": 7.1116144e-9
+      "searchScore": 7.093245e-9
     },
     {
       "package": {
@@ -725,14 +725,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.22626617752819295,
+        "final": 0.22634084059198914,
         "detail": {
-          "quality": 0.4228381982455347,
-          "popularity": 0.062075506110711484,
-          "maintenance": 0.2219665454736671
+          "quality": 0.4228446114353635,
+          "popularity": 0.06207554711712859,
+          "maintenance": 0.2221743304868146
         }
       },
-      "searchScore": 4.7288977e-9
+      "searchScore": 4.717323e-9
     },
     {
       "package": {
@@ -762,14 +762,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.22948776398621606,
+        "final": 0.22956241696898705,
         "detail": {
-          "quality": 0.5087775313737278,
-          "popularity": 0.0053986450643134,
-          "maintenance": 0.21418565371882292
+          "quality": 0.5087838414338286,
+          "popularity": 0.005398879579796616,
+          "maintenance": 0.21439330481688465
         }
       },
-      "searchScore": 3.2593857e-9
+      "searchScore": 3.2517857e-9
     },
     {
       "package": {
@@ -808,14 +808,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2273957065857633,
+        "final": 0.22746566710853958,
         "detail": {
-          "quality": 0.4629024800183454,
-          "popularity": 0.0024040891123463847,
-          "maintenance": 0.2505243754026813
+          "quality": 0.462907202059817,
+          "popularity": 0.0024041266551547346,
+          "maintenance": 0.2507201776036866
         }
       },
-      "searchScore": 2.6777176e-9
+      "searchScore": 2.6709115e-9
     },
     {
       "package": {
@@ -850,14 +850,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.20958825496591038,
+        "final": 0.209589632900694,
         "detail": {
-          "quality": 0.304407636566552,
-          "popularity": 0.004569420940794627,
+          "quality": 0.3044119915069329,
+          "popularity": 0.004569625091278499,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 8.0761237e-10
+      "searchScore": 8.024081e-10
     },
     {
       "package": {
@@ -886,36 +886,36 @@
         "unstable": true
       },
       "score": {
-        "final": 0.20780514917252774,
+        "final": 0.20780647378385897,
         "detail": {
-          "quality": 0.2990801531747044,
-          "popularity": 0.004041247295570806,
+          "quality": 0.2990843045086913,
+          "popularity": 0.004041473613099803,
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 7.131356e-10
+      "searchScore": 7.0853845e-10
     }
   ],
   "downloads": {
-    "vue-touch-ripple": 9877,
-    "wonderful-bing-wallpaper": 1943,
-    "vue-video-player": 1101861,
-    "vue-awesome-swiper": 7864369,
-    "veact": 751,
-    "emoji-233333": 2052,
     "vuniversal": 428,
-    "vue-drag-zone": 5050,
-    "vue-codemirror": 2269856,
+    "vue-touch-ripple": 9877,
     "naivebayes": 692,
-    "veact-use": 548,
-    "@videojs-player/react": 753,
-    "player.ts": 53,
-    "vue-quill-editor": 3670337,
-    "simple-netease-cloud-music": 3267,
-    "@surmon/libundler": 51,
+    "vue-awesome-swiper": 7864369,
     "vue-stacks-editor": 57,
-    "mongodb-data-api": 465,
+    "simple-netease-cloud-music": 3267,
     "@videojs-player/vue": 1382,
+    "veact": 751,
+    "vue-drag-zone": 5050,
+    "emoji-233333": 2052,
+    "player.ts": 53,
+    "wonderful-bing-wallpaper": 1943,
+    "vue-quill-editor": 3670337,
+    "veact-use": 548,
+    "vue-video-player": 1101861,
+    "vue-codemirror": 2269856,
+    "mongodb-data-api": 465,
+    "@surmon/libundler": 51,
+    "@videojs-player/react": 753,
     "@surmon-china/libundler": 2116
   }
 }

@@ -43,7 +43,50 @@
           "maintenance": 0.31562536830082527
         }
       },
-      "searchScore": 0.000036111964
+      "searchScore": 0.00003601161
+    },
+    {
+      "package": {
+        "name": "vue-codemirror",
+        "scope": "unscoped",
+        "version": "6.1.0",
+        "description": "CodeMirror code editor component for Vue",
+        "keywords": [
+          "vue-codemirror",
+          "vue codemirror",
+          "vue code editor",
+          "web IDE vue"
+        ],
+        "date": "2022-08-27T12:54:50.483Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-codemirror",
+          "homepage": "https://github.surmon.me/vue-codemirror",
+          "repository": "https://github.com/surmon-china/vue-codemirror",
+          "bugs": "https://github.com/surmon-china/vue-codemirror/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.39968981654607244,
+        "detail": {
+          "quality": 0.6477243466768616,
+          "popularity": 0.2534452739324209,
+          "maintenance": 0.3333333333333333
+        }
+      },
+      "searchScore": 0.000023192864
     },
     {
       "package": {
@@ -91,51 +134,7 @@
           "maintenance": 0.21699059682238428
         }
       },
-      "searchScore": 0.000012528337
-    },
-    {
-      "package": {
-        "name": "vue-codemirror",
-        "scope": "unscoped",
-        "version": "6.0.2",
-        "description": "CodeMirror code editor component for Vue",
-        "keywords": [
-          "vue-codemirror",
-          "vue codemirror",
-          "vue code editor",
-          "web IDE vue"
-        ],
-        "date": "2022-07-27T14:11:24.508Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-codemirror",
-          "homepage": "https://github.com/surmon-china/vue-codemirror#readme",
-          "repository": "https://github.com/surmon-china/vue-codemirror",
-          "bugs": "https://github.com/surmon-china/vue-codemirror/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "url": "https://github.com/surmon-china"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.3663755076330997,
-        "detail": {
-          "quality": 0.5395366000254982,
-          "popularity": 0.2509938884536674,
-          "maintenance": 0.3333333333333333
-        }
-      },
-      "searchScore": 0.000007860418
+      "searchScore": 0.00001249352
     },
     {
       "package": {
@@ -177,7 +176,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.0000012787251
+      "searchScore": 0.0000012751715
     },
     {
       "package": {
@@ -225,7 +224,7 @@
           "maintenance": 0.21699059682238428
         }
       },
-      "searchScore": 3.3083077e-7
+      "searchScore": 3.2991142e-7
     },
     {
       "package": {
@@ -269,7 +268,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.7435374e-7
+      "searchScore": 1.7386922e-7
     },
     {
       "package": {
@@ -313,52 +312,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.1269894e-7
-    },
-    {
-      "package": {
-        "name": "@surmon-china/libundler",
-        "scope": "surmon-china",
-        "version": "2.3.0",
-        "description": "Universal JavaScript library bundler",
-        "keywords": [
-          "JavaScript bundler",
-          "TypeScript bundler",
-          "zero config bundler",
-          "react component bundler",
-          "rollup",
-          "webpack"
-        ],
-        "date": "2022-06-11T19:33:30.966Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler",
-          "homepage": "https://github.com/surmon-china/libundler#readme",
-          "repository": "https://github.com/surmon-china/libundler",
-          "bugs": "https://github.com/surmon-china/libundler/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.2836806765741383,
-        "detail": {
-          "quality": 0.548093005147783,
-          "popularity": 0.007388881037533613,
-          "maintenance": 0.3333333333333333
-        }
-      },
-      "searchScore": 5.40655e-8
+      "searchScore": 1.12385756e-7
     },
     {
       "package": {
@@ -404,7 +358,52 @@
           "maintenance": 0.21699059682238428
         }
       },
-      "searchScore": 4.9172034e-8
+      "searchScore": 4.9035386e-8
+    },
+    {
+      "package": {
+        "name": "@surmon-china/libundler",
+        "scope": "surmon-china",
+        "version": "2.3.0",
+        "description": "Universal JavaScript library bundler",
+        "keywords": [
+          "JavaScript bundler",
+          "TypeScript bundler",
+          "zero config bundler",
+          "react component bundler",
+          "rollup",
+          "webpack"
+        ],
+        "date": "2022-06-11T19:33:30.966Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler",
+          "homepage": "https://github.com/surmon-china/libundler#readme",
+          "repository": "https://github.com/surmon-china/libundler",
+          "bugs": "https://github.com/surmon-china/libundler/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.28121942198971167,
+        "detail": {
+          "quality": 0.5366528579839054,
+          "popularity": 0.010162565508209785,
+          "maintenance": 0.3333333333333333
+        }
+      },
+      "searchScore": 4.8953243e-8
     },
     {
       "package": {
@@ -448,7 +447,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 1.2687427e-8
+      "searchScore": 1.2652169e-8
     },
     {
       "package": {
@@ -464,7 +463,10 @@
         ],
         "date": "2020-12-20T16:06:01.478Z",
         "links": {
-          "npm": "https://www.npmjs.com/package/simple-netease-cloud-music"
+          "npm": "https://www.npmjs.com/package/simple-netease-cloud-music",
+          "homepage": "https://github.com/surmon-china/simple-netease-cloud-music#readme",
+          "repository": "https://github.com/surmon-china/simple-netease-cloud-music",
+          "bugs": "https://github.com/surmon-china/simple-netease-cloud-music/issues"
         },
         "author": {
           "name": "Surmon",
@@ -487,14 +489,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.24809308279206083,
+        "final": 0.24806406225497152,
         "detail": {
           "quality": 0.5257277868932383,
-          "popularity": 0.02592233599130245,
+          "popularity": 0.025839420171047255,
           "maintenance": 0.23229122607752428
         }
       },
-      "searchScore": 1.1280796e-8
+      "searchScore": 1.1223046e-8
     },
     {
       "package": {
@@ -542,7 +544,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 8.746033e-9
+      "searchScore": 8.721728e-9
     },
     {
       "package": {
@@ -587,7 +589,7 @@
           "maintenance": 0.3262911186077651
         }
       },
-      "searchScore": 8.457772e-9
+      "searchScore": 8.434268e-9
     },
     {
       "package": {
@@ -633,7 +635,7 @@
           "maintenance": 0.30781562973378196
         }
       },
-      "searchScore": 8.136613e-9
+      "searchScore": 8.114002e-9
     },
     {
       "package": {
@@ -684,7 +686,7 @@
           "maintenance": 0.21699059682238428
         }
       },
-      "searchScore": 7.51118e-9
+      "searchScore": 7.490306e-9
     },
     {
       "package": {
@@ -732,7 +734,7 @@
           "maintenance": 0.22476953087440366
         }
       },
-      "searchScore": 5.0039772e-9
+      "searchScore": 4.9900715e-9
     },
     {
       "package": {
@@ -769,7 +771,7 @@
           "maintenance": 0.21699059682238428
         }
       },
-      "searchScore": 3.4498342e-9
+      "searchScore": 3.4402472e-9
     },
     {
       "package": {
@@ -815,7 +817,7 @@
           "maintenance": 0.2531490863596067
         }
       },
-      "searchScore": 2.829324e-9
+      "searchScore": 2.8214615e-9
     },
     {
       "package": {
@@ -857,7 +859,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 8.078881e-10
+      "searchScore": 8.05643e-10
     },
     {
       "package": {
@@ -893,29 +895,29 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 7.241555e-10
+      "searchScore": 7.221431e-10
     }
   ],
   "downloads": {
-    "naivebayes": 702,
-    "vue-quill-editor": 3696531,
-    "simple-netease-cloud-music": 3263,
-    "@surmon/libundler": 53,
-    "mongodb-data-api": 472,
+    "veact": 757,
     "player.ts": 53,
     "vue-codemirror": 2284735,
-    "vuniversal": 428,
-    "wonderful-bing-wallpaper": 1957,
-    "veact-use": 553,
-    "veact": 757,
-    "vue-awesome-swiper": 7898207,
-    "@videojs-player/vue": 2847,
-    "vue-video-player": 1105910,
-    "vue-touch-ripple": 9906,
-    "vue-stacks-editor": 58,
     "emoji-233333": 2079,
+    "vue-stacks-editor": 58,
+    "@videojs-player/react": 892,
     "vue-drag-zone": 4965,
+    "vue-awesome-swiper": 7898207,
+    "vue-quill-editor": 3696531,
+    "vue-touch-ripple": 9906,
+    "mongodb-data-api": 472,
+    "naivebayes": 702,
+    "simple-netease-cloud-music": 3263,
+    "wonderful-bing-wallpaper": 1957,
     "@surmon-china/libundler": 2203,
-    "@videojs-player/react": 892
+    "vue-video-player": 1105910,
+    "veact-use": 553,
+    "vuniversal": 428,
+    "@videojs-player/vue": 2847,
+    "@surmon/libundler": 53
   }
 }

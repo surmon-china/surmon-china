@@ -43,7 +43,7 @@
           "maintenance": 0.33326372818189004
         }
       },
-      "searchScore": 0.00005183071
+      "searchScore": 0.000051703235
     },
     {
       "package": {
@@ -86,7 +86,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.000022831207
+      "searchScore": 0.000022775055
     },
     {
       "package": {
@@ -134,7 +134,7 @@
           "maintenance": 0.216327633316685
         }
       },
-      "searchScore": 0.000012199085
+      "searchScore": 0.000012169082
     },
     {
       "package": {
@@ -176,7 +176,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.0000012748975
+      "searchScore": 0.0000012717619
     },
     {
       "package": {
@@ -224,7 +224,7 @@
           "maintenance": 0.216327633316685
         }
       },
-      "searchScore": 3.2658062e-7
+      "searchScore": 3.257774e-7
     },
     {
       "package": {
@@ -268,7 +268,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.7355242e-7
+      "searchScore": 1.7312557e-7
     },
     {
       "package": {
@@ -312,7 +312,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.1232261e-7
+      "searchScore": 1.12046365e-7
     },
     {
       "package": {
@@ -357,7 +357,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 4.8909126e-8
+      "searchScore": 4.8788838e-8
     },
     {
       "package": {
@@ -403,7 +403,7 @@
           "maintenance": 0.216327633316685
         }
       },
-      "searchScore": 4.87076e-8
+      "searchScore": 4.858781e-8
     },
     {
       "package": {
@@ -447,7 +447,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 1.2598212e-8
+      "searchScore": 1.2567228e-8
     },
     {
       "package": {
@@ -496,7 +496,7 @@
           "maintenance": 0.23163479491352645
         }
       },
-      "searchScore": 1.114445e-8
+      "searchScore": 1.1117041e-8
     },
     {
       "package": {
@@ -544,7 +544,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 8.742244e-9
+      "searchScore": 8.720743e-9
     },
     {
       "package": {
@@ -589,7 +589,7 @@
           "maintenance": 0.32621545426465226
         }
       },
-      "searchScore": 8.435898e-9
+      "searchScore": 8.41515e-9
     },
     {
       "package": {
@@ -640,7 +640,7 @@
           "maintenance": 0.216327633316685
         }
       },
-      "searchScore": 7.3370177e-9
+      "searchScore": 7.3189725e-9
     },
     {
       "package": {
@@ -688,7 +688,7 @@
           "maintenance": 0.22410777223396594
         }
       },
-      "searchScore": 4.9357207e-9
+      "searchScore": 4.9235815e-9
     },
     {
       "package": {
@@ -734,7 +734,7 @@
           "maintenance": 0.2760082921832905
         }
       },
-      "searchScore": 4.4316826e-9
+      "searchScore": 4.4207833e-9
     },
     {
       "package": {
@@ -771,7 +771,7 @@
           "maintenance": 0.216327633316685
         }
       },
-      "searchScore": 3.372714e-9
+      "searchScore": 3.364419e-9
     },
     {
       "package": {
@@ -817,49 +817,7 @@
           "maintenance": 0.2525326726362239
         }
       },
-      "searchScore": 2.7805678e-9
-    },
-    {
-      "package": {
-        "name": "vue-stacks-editor",
-        "scope": "unscoped",
-        "version": "0.0.1",
-        "description": "Stacks editor for Vue.",
-        "keywords": [
-          "vue markdown editor",
-          "StackOverflow editor",
-          "StackOverflow markdown editor"
-        ],
-        "date": "2022-07-20T14:57:21.450Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-stacks-editor"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.2095408472150421,
-        "detail": {
-          "quality": 0.3044842827240629,
-          "popularity": 0.004368273517590178,
-          "maintenance": 0.3333333333333333
-        }
-      },
-      "searchScore": 8.0678453e-10
+      "searchScore": 2.7737292e-9
     },
     {
       "package": {
@@ -895,29 +853,71 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 7.2316253e-10
+      "searchScore": 7.2138395e-10
+    },
+    {
+      "package": {
+        "name": "vue-stacks-editor",
+        "scope": "unscoped",
+        "version": "0.0.1",
+        "description": "Stacks editor for Vue.",
+        "keywords": [
+          "vue markdown editor",
+          "StackOverflow editor",
+          "StackOverflow markdown editor"
+        ],
+        "date": "2022-07-20T14:57:21.450Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-stacks-editor"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.20779243166743772,
+        "detail": {
+          "quality": 0.3044859600975904,
+          "popularity": 0.003385693147796638,
+          "maintenance": 0.3293190029612337
+        }
+      },
+      "searchScore": 7.120844e-10
     }
   ],
   "downloads": {
-    "veact": 767,
-    "vue-codemirror": 2311304,
-    "vue-awesome-swiper": 7978505,
-    "vue-touch-ripple": 10112,
-    "vuniversal": 429,
-    "simple-netease-cloud-music": 3238,
-    "veact-use": 563,
-    "emoji-233333": 2090,
-    "naivebayes": 705,
-    "vue-video-player": 1115666,
-    "@surmon-china/libundler": 2275,
-    "mongodb-data-api": 619,
-    "vue-stacks-editor": 59,
-    "@videojs-player/react": 1037,
-    "wonderful-bing-wallpaper": 1965,
     "vue-quill-editor": 3737122,
-    "player.ts": 56,
+    "mongodb-data-api": 619,
+    "vue-awesome-swiper": 7978505,
     "vue-drag-zone": 4916,
+    "veact-use": 563,
+    "vue-codemirror": 2311304,
+    "wonderful-bing-wallpaper": 1965,
+    "vue-video-player": 1115666,
+    "vue-touch-ripple": 10112,
+    "emoji-233333": 2090,
+    "player.ts": 56,
+    "@videojs-player/react": 1037,
+    "veact": 767,
     "@surmon/libundler": 58,
-    "@videojs-player/vue": 5015
+    "simple-netease-cloud-music": 3238,
+    "@videojs-player/vue": 5015,
+    "naivebayes": 705,
+    "vuniversal": 429,
+    "vue-stacks-editor": 59,
+    "@surmon-china/libundler": 2275
   }
 }

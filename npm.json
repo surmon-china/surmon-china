@@ -43,7 +43,7 @@
           "maintenance": 0.3332621275274195
         }
       },
-      "searchScore": 0.000051939063
+      "searchScore": 0.00005172717
     },
     {
       "package": {
@@ -86,7 +86,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.000022924898
+      "searchScore": 0.000022831371
     },
     {
       "package": {
@@ -134,7 +134,7 @@
           "maintenance": 0.21467956882390737
         }
       },
-      "searchScore": 0.0000116898955
+      "searchScore": 0.000011642204
     },
     {
       "package": {
@@ -178,7 +178,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.000001961128
+      "searchScore": 0.0000019531271
     },
     {
       "package": {
@@ -220,7 +220,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.0000012255342
+      "searchScore": 0.0000012205344
     },
     {
       "package": {
@@ -268,7 +268,7 @@
           "maintenance": 0.21467956882390737
         }
       },
-      "searchScore": 3.1974002e-7
+      "searchScore": 3.1843558e-7
     },
     {
       "package": {
@@ -312,7 +312,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 2.3675416e-7
+      "searchScore": 2.3578828e-7
     },
     {
       "package": {
@@ -356,52 +356,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.16771055e-7
-    },
-    {
-      "package": {
-        "name": "@surmon-china/libundler",
-        "scope": "surmon-china",
-        "version": "2.3.0",
-        "description": "Universal JavaScript library bundler",
-        "keywords": [
-          "JavaScript bundler",
-          "TypeScript bundler",
-          "zero config bundler",
-          "react component bundler",
-          "rollup",
-          "webpack"
-        ],
-        "date": "2022-06-11T19:33:30.966Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler",
-          "homepage": "https://github.com/surmon-china/libundler#readme",
-          "repository": "https://github.com/surmon-china/libundler",
-          "bugs": "https://github.com/surmon-china/libundler/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.281148285462897,
-        "detail": {
-          "quality": 0.5366277924498329,
-          "popularity": 0.009980803032229847,
-          "maintenance": 0.3333333333333333
-        }
-      },
-      "searchScore": 4.90574e-8
+      "searchScore": 1.16294665e-7
     },
     {
       "package": {
@@ -447,7 +402,52 @@
           "maintenance": 0.21467956882390737
         }
       },
-      "searchScore": 4.723861e-8
+      "searchScore": 4.7045894e-8
+    },
+    {
+      "package": {
+        "name": "@surmon-china/libundler",
+        "scope": "surmon-china",
+        "version": "2.3.0",
+        "description": "Universal JavaScript library bundler",
+        "keywords": [
+          "JavaScript bundler",
+          "TypeScript bundler",
+          "zero config bundler",
+          "react component bundler",
+          "rollup",
+          "webpack"
+        ],
+        "date": "2022-06-11T19:33:30.966Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler",
+          "homepage": "https://github.com/surmon-china/libundler#readme",
+          "repository": "https://github.com/surmon-china/libundler",
+          "bugs": "https://github.com/surmon-china/libundler/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.2745450493229128,
+        "detail": {
+          "quality": 0.5183245223998878,
+          "popularity": 0.008157756709087575,
+          "maintenance": 0.3319785078707594
+        }
+      },
+      "searchScore": 3.47612e-8
     },
     {
       "package": {
@@ -463,10 +463,7 @@
         ],
         "date": "2020-12-20T16:06:01.478Z",
         "links": {
-          "npm": "https://www.npmjs.com/package/simple-netease-cloud-music",
-          "homepage": "https://github.com/surmon-china/simple-netease-cloud-music#readme",
-          "repository": "https://github.com/surmon-china/simple-netease-cloud-music",
-          "bugs": "https://github.com/surmon-china/simple-netease-cloud-music/issues"
+          "npm": "https://www.npmjs.com/package/simple-netease-cloud-music"
         },
         "author": {
           "name": "Surmon",
@@ -489,14 +486,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2472692974510063,
+        "final": 0.24719545998094034,
         "detail": {
           "quality": 0.5258675710256346,
-          "popularity": 0.025741218558066613,
+          "popularity": 0.02553025435787817,
           "maintenance": 0.2299988561371217
         }
       },
-      "searchScore": 1.0839227e-8
+      "searchScore": 1.0730445e-8
     },
     {
       "package": {
@@ -541,7 +538,7 @@
           "maintenance": 0.32602197209698547
         }
       },
-      "searchScore": 8.810998e-9
+      "searchScore": 8.775052e-9
     },
     {
       "package": {
@@ -592,7 +589,7 @@
           "maintenance": 0.21467956882390737
         }
       },
-      "searchScore": 7.1294104e-9
+      "searchScore": 7.1003248e-9
     },
     {
       "package": {
@@ -640,7 +637,7 @@
           "maintenance": 0.3292159593524497
         }
       },
-      "searchScore": 5.833253e-9
+      "searchScore": 5.809455e-9
     },
     {
       "package": {
@@ -688,7 +685,7 @@
           "maintenance": 0.2224607069513207
         }
       },
-      "searchScore": 4.7951483e-9
+      "searchScore": 4.7755857e-9
     },
     {
       "package": {
@@ -734,7 +731,7 @@
           "maintenance": 0.274705581245189
         }
       },
-      "searchScore": 4.3318344e-9
+      "searchScore": 4.314162e-9
     },
     {
       "package": {
@@ -771,7 +768,7 @@
           "maintenance": 0.21467956882390737
         }
       },
-      "searchScore": 3.2757113e-9
+      "searchScore": 3.2623475e-9
     },
     {
       "package": {
@@ -817,7 +814,7 @@
           "maintenance": 0.2509897175100566
         }
       },
-      "searchScore": 2.7025213e-9
+      "searchScore": 2.691496e-9
     },
     {
       "package": {
@@ -859,7 +856,7 @@
           "maintenance": 0.3292159593524497
         }
       },
-      "searchScore": 7.139762e-10
+      "searchScore": 7.110634e-10
     },
     {
       "package": {
@@ -895,29 +892,29 @@
           "maintenance": 0.3292159593524497
         }
       },
-      "searchScore": 6.389923e-10
+      "searchScore": 6.3638544e-10
     }
   ],
   "downloads": {
-    "vue-video-player": 1114251,
-    "emoji-233333": 2070,
-    "player.ts": 62,
     "vuniversal": 453,
-    "vue-stacks-editor": 67,
+    "vue-video-player": 1114251,
+    "vue-touch-ripple": 10112,
     "vue-codemirror": 2321279,
-    "mongodb-data-api": 670,
-    "vue-drag-zone": 4786,
-    "wonderful-bing-wallpaper": 1983,
     "naivebayes": 712,
+    "player.ts": 62,
+    "vue-awesome-swiper": 7976631,
+    "mongodb-data-api": 670,
+    "emoji-233333": 2070,
+    "wonderful-bing-wallpaper": 1983,
     "vue-quill-editor": 3743260,
-    "veact-use": 583,
+    "vue-drag-zone": 4786,
+    "@surmon-china/libundler": 2360,
     "simple-netease-cloud-music": 3183,
     "@videojs-player/vue": 7541,
-    "@surmon-china/libundler": 2360,
-    "vue-awesome-swiper": 7976631,
-    "vue-touch-ripple": 10112,
+    "vue-stacks-editor": 67,
+    "veact-use": 583,
+    "@surmon/libundler": 65,
     "veact": 789,
-    "@videojs-player/react": 1202,
-    "@surmon/libundler": 65
+    "@videojs-player/react": 1202
   }
 }

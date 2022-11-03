@@ -69,7 +69,7 @@
     src="https://img.shields.io/badge/TW-1b95e0?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://www.youtube.com/channel/UCoL-j6T28PLSJ2U6ZdONS0w"><img
+  <a href="https://www.youtube.com/@surmon_v"><img
     alt="youtube"
     height="22px"
     src="https://img.shields.io/badge/YT-ec3323?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=16"

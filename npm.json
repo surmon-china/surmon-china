@@ -43,7 +43,7 @@
           "maintenance": 0.3076613118589239
         }
       },
-      "searchScore": 0.000032074848
+      "searchScore": 0.00003187039
     },
     {
       "package": {
@@ -86,7 +86,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 0.000023264656
+      "searchScore": 0.000023116358
     },
     {
       "package": {
@@ -134,7 +134,7 @@
           "maintenance": 0.26473550959370246
         }
       },
-      "searchScore": 0.000017641034
+      "searchScore": 0.000017528584
     },
     {
       "package": {
@@ -178,7 +178,7 @@
           "maintenance": 0.32468431334776765
         }
       },
-      "searchScore": 0.0000015593291
+      "searchScore": 0.0000015493894
     },
     {
       "package": {
@@ -220,7 +220,7 @@
           "maintenance": 0.3330687102045408
         }
       },
-      "searchScore": 0.0000011554514
+      "searchScore": 0.0000011480861
     },
     {
       "package": {
@@ -268,7 +268,7 @@
           "maintenance": 0.26473550959370246
         }
       },
-      "searchScore": 6.442665e-7
+      "searchScore": 6.4015967e-7
     },
     {
       "package": {
@@ -312,7 +312,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 3.4519945e-7
+      "searchScore": 3.4299902e-7
     },
     {
       "package": {
@@ -356,7 +356,7 @@
           "maintenance": 0.3333333333333333
         }
       },
-      "searchScore": 1.6789842e-7
+      "searchScore": 1.6682817e-7
     },
     {
       "package": {
@@ -402,7 +402,7 @@
           "maintenance": 0.26473550959370246
         }
       },
-      "searchScore": 1.03591994e-7
+      "searchScore": 1.02931665e-7
     },
     {
       "package": {
@@ -453,7 +453,7 @@
           "maintenance": 0.26473550959370246
         }
       },
-      "searchScore": 1.776299e-8
+      "searchScore": 1.764976e-8
     },
     {
       "package": {
@@ -498,7 +498,7 @@
           "maintenance": 0.33263316587383285
         }
       },
-      "searchScore": 1.5256289e-8
+      "searchScore": 1.5159038e-8
     },
     {
       "package": {
@@ -543,7 +543,7 @@
           "maintenance": 0.3330584182329155
         }
       },
-      "searchScore": 1.4877811e-8
+      "searchScore": 1.4782974e-8
     },
     {
       "package": {
@@ -580,99 +580,7 @@
           "maintenance": 0.26473550959370246
         }
       },
-      "searchScore": 8.031283e-9
-    },
-    {
-      "package": {
-        "name": "veact",
-        "scope": "unscoped",
-        "version": "0.1.4",
-        "description": "Mutable state enhancer library for @react by @vue/reactivity",
-        "keywords": [
-          "React mutable state lib",
-          "React vue state",
-          "React composition API",
-          "React state library"
-        ],
-        "date": "2022-01-17T08:42:19.200Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/veact",
-          "homepage": "https://github.com/veactjs/veact#readme",
-          "repository": "https://github.com/veactjs/veact",
-          "bugs": "https://github.com/veactjs/veact/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.2466274795775773,
-        "detail": {
-          "quality": 0.4631878034647193,
-          "popularity": 0.002706076487560108,
-          "maintenance": 0.30492574790718713
-        }
-      },
-      "searchScore": 7.816281e-9
-    },
-    {
-      "package": {
-        "name": "veact-use",
-        "scope": "unscoped",
-        "version": "0.1.3",
-        "description": "Collection of Veact Hooks",
-        "keywords": [
-          "React mutable state lib",
-          "React vue state",
-          "React composition API",
-          "Veact Hooks"
-        ],
-        "date": "2021-07-26T20:55:26.788Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/veact-use",
-          "homepage": "https://github.com/veactjs/veact-use#readme",
-          "repository": "https://github.com/veactjs/veact-use",
-          "bugs": "https://github.com/veactjs/veact-use/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.2416780845194827,
-        "detail": {
-          "quality": 0.4631878034647193,
-          "popularity": 0.002495266910940638,
-          "maintenance": 0.2909954287463934
-        }
-      },
-      "searchScore": 5.984731e-9
+      "searchScore": 7.9800895e-9
     },
     {
       "package": {
@@ -720,7 +628,7 @@
           "maintenance": 0.33128807076171335
         }
       },
-      "searchScore": 2.461332e-9
+      "searchScore": 2.4456428e-9
     },
     {
       "package": {
@@ -762,7 +670,7 @@
           "maintenance": 0.33128807076171335
         }
       },
-      "searchScore": 7.2268685e-10
+      "searchScore": 7.1808015e-10
     },
     {
       "package": {
@@ -811,7 +719,53 @@
           "maintenance": 0.09485385498095435
         }
       },
-      "searchScore": 7.200998e-10
+      "searchScore": 7.1550965e-10
+    },
+    {
+      "package": {
+        "name": "veact",
+        "scope": "unscoped",
+        "version": "0.1.4",
+        "description": "Mutable state enhancer library for @react by @vue/reactivity",
+        "keywords": [
+          "React mutable state lib",
+          "React vue state",
+          "React composition API",
+          "React state library"
+        ],
+        "date": "2022-01-17T08:42:19.200Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/veact",
+          "homepage": "https://github.com/veactjs/veact#readme",
+          "repository": "https://github.com/veactjs/veact",
+          "bugs": "https://github.com/veactjs/veact/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.20366621674444246,
+        "detail": {
+          "quality": 0.4631889031343393,
+          "popularity": 0.0026046912995374145,
+          "maintenance": 0.18227972528372174
+        }
+      },
+      "searchScore": 6.4188266e-10
     },
     {
       "package": {
@@ -847,7 +801,53 @@
           "maintenance": 0.33128807076171335
         }
       },
-      "searchScore": 6.405463e-10
+      "searchScore": 6.364632e-10
+    },
+    {
+      "package": {
+        "name": "veact-use",
+        "scope": "unscoped",
+        "version": "0.1.3",
+        "description": "Collection of Veact Hooks",
+        "keywords": [
+          "React mutable state lib",
+          "React vue state",
+          "React composition API",
+          "Veact Hooks"
+        ],
+        "date": "2021-07-26T20:55:26.788Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/veact-use",
+          "homepage": "https://github.com/veactjs/veact-use#readme",
+          "repository": "https://github.com/veactjs/veact-use",
+          "bugs": "https://github.com/veactjs/veact-use/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.18673097674851358,
+        "detail": {
+          "quality": 0.4631889031343393,
+          "popularity": 0.002409900492222214,
+          "maintenance": 0.13408811610266866
+        }
+      },
+      "searchScore": 2.0794116e-10
     },
     {
       "package": {
@@ -895,29 +895,29 @@
           "maintenance": 0.06809971207196124
         }
       },
-      "searchScore": 1.7004832e-10
+      "searchScore": 1.6896438e-10
     }
   ],
   "downloads": {
-    "vuniversal": 434,
-    "player.ts": 82,
-    "@videojs-player/vue": 32351,
-    "mongodb-data-api": 1151,
-    "vue-quill-editor": 3809953,
-    "veact": 856,
-    "vue-stacks-editor": 89,
-    "vue-codemirror": 2467037,
-    "vue-drag-zone": 3899,
-    "vue-video-player": 1112611,
-    "naivebayes": 738,
-    "veact-use": 653,
-    "vue-touch-ripple": 10157,
-    "simple-netease-cloud-music": 2905,
-    "@surmon-china/libundler": 2833,
-    "@surmon/libundler": 83,
-    "vue-awesome-swiper": 8017308,
+    "vue-awesome-swiper": 8034725,
+    "mongodb-data-api": 1189,
     "wonderful-bing-wallpaper": 1976,
-    "emoji-233333": 2079,
-    "@videojs-player/react": 1999
+    "naivebayes": 742,
+    "vue-quill-editor": 3819537,
+    "vuniversal": 434,
+    "simple-netease-cloud-music": 2907,
+    "emoji-233333": 2080,
+    "vue-codemirror": 2475176,
+    "vue-touch-ripple": 10181,
+    "vue-video-player": 1115292,
+    "@videojs-player/vue": 32837,
+    "vue-drag-zone": 3900,
+    "vue-stacks-editor": 89,
+    "@surmon-china/libundler": 2839,
+    "player.ts": 82,
+    "veact": 856,
+    "veact-use": 653,
+    "@videojs-player/react": 2021,
+    "@surmon/libundler": 84
   }
 }

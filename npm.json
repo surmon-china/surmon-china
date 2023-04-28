@@ -34,14 +34,14 @@
         ]
       },
       "score": {
-        "final": 0.3969278306079571,
+        "final": 0.39686865084410783,
         "detail": {
-          "quality": 0.6478939512622041,
-          "popularity": 0.2549676366945564,
-          "maintenance": 0.32377420681771757
+          "quality": 0.6478939393186072,
+          "popularity": 0.2549676221128778,
+          "maintenance": 0.3236051465971956
         }
       },
-      "searchScore": 0.00002249239
+      "searchScore": 0.000022450731
     },
     {
       "package": {
@@ -79,14 +79,14 @@
         ]
       },
       "score": {
-        "final": 0.31885306208471054,
+        "final": 0.3186247945312283,
         "detail": {
-          "quality": 0.6160315716344219,
-          "popularity": 0.30161754531053253,
-          "maintenance": 0.08136414210199308
+          "quality": 0.6160317534696717,
+          "popularity": 0.3016175420243126,
+          "maintenance": 0.08071179651947827
         }
       },
-      "searchScore": 0.0000024668993
+      "searchScore": 0.0000024471765
     },
     {
       "package": {
@@ -127,14 +127,14 @@
         ]
       },
       "score": {
-        "final": 0.30717852741229235,
+        "final": 0.3070132052674586,
         "detail": {
-          "quality": 0.6457646918744081,
-          "popularity": 0.26585985530260303,
-          "maintenance": 0.05828048712588244
+          "quality": 0.6457646653187267,
+          "popularity": 0.2658598504118126,
+          "maintenance": 0.05780816579344627
         }
       },
-      "searchScore": 0.0000012867208
+      "searchScore": 0.0000012788607
     },
     {
       "package": {
@@ -169,14 +169,14 @@
         ]
       },
       "score": {
-        "final": 0.33542603158819795,
+        "final": 0.33536686944604577,
         "detail": {
-          "quality": 0.6361148034202702,
-          "popularity": 0.08934462335975925,
-          "maintenance": 0.32377420681771757
+          "quality": 0.6361148595721557,
+          "popularity": 0.08934460075823031,
+          "maintenance": 0.3236051465971956
         }
       },
-      "searchScore": 9.87085e-7
+      "searchScore": 9.848103e-7
     },
     {
       "package": {
@@ -213,14 +213,14 @@
         ]
       },
       "score": {
-        "final": 0.3152432231319507,
+        "final": 0.3152393706755002,
         "detail": {
-          "quality": 0.586486267642273,
-          "popularity": 0.06539632182440569,
-          "maintenance": 0.332596086287791
+          "quality": 0.586486693370486,
+          "popularity": 0.06539630413571584,
+          "maintenance": 0.33258473204815386
         }
       },
-      "searchScore": 3.657712e-7
+      "searchScore": 3.6567403e-7
     },
     {
       "package": {
@@ -257,14 +257,14 @@
         ]
       },
       "score": {
-        "final": 0.30747392994529593,
+        "final": 0.30745211175819376,
         "detail": {
-          "quality": 0.5873776189654148,
-          "popularity": 0.045443430194546,
-          "maintenance": 0.3295869819645154
+          "quality": 0.5873780364946706,
+          "popularity": 0.045443395348377415,
+          "maintenance": 0.32952432125102993
         }
       },
-      "searchScore": 2.2694277e-7
+      "searchScore": 2.2671263e-7
     },
     {
       "package": {
@@ -301,14 +301,14 @@
         ]
       },
       "score": {
-        "final": 0.2594479713502486,
+        "final": 0.25913288502463394,
         "detail": {
-          "quality": 0.5307234174556625,
-          "popularity": 0.17093687104144953,
-          "maintenance": 0.11543726071155007
+          "quality": 0.5307235301562178,
+          "popularity": 0.17093686083521298,
+          "maintenance": 0.11453692767269745
         }
       },
-      "searchScore": 8.138914e-8
+      "searchScore": 8.0243026e-8
     },
     {
       "package": {
@@ -349,14 +349,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2608418112835683,
+        "final": 0.2606766606501829,
         "detail": {
-          "quality": 0.7987926030141578,
-          "popularity": 0.002302456815034687,
-          "maintenance": 0.05828048712588244
+          "quality": 0.7987931977754285,
+          "popularity": 0.0023024093995661723,
+          "maintenance": 0.05780816579344627
         }
       },
-      "searchScore": 2.2076774e-8
+      "searchScore": 2.1895758e-8
     },
     {
       "package": {
@@ -394,59 +394,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2514517915474216,
+        "final": 0.2514492094192085,
         "detail": {
-          "quality": 0.41613773747922755,
-          "popularity": 0.028931374523042785,
-          "maintenance": 0.33281282634453824
+          "quality": 0.4161384186980751,
+          "popularity": 0.028931321099830026,
+          "maintenance": 0.3328049183567014
         }
       },
-      "searchScore": 1.3081467e-8
-    },
-    {
-      "package": {
-        "name": "@surmon-china/libundler",
-        "scope": "surmon-china",
-        "version": "2.3.0",
-        "description": "Universal JavaScript library bundler",
-        "keywords": [
-          "JavaScript bundler",
-          "TypeScript bundler",
-          "zero config bundler",
-          "react component bundler",
-          "rollup",
-          "webpack"
-        ],
-        "date": "2022-06-11T19:33:30.966Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler",
-          "homepage": "https://github.com/surmon-china/libundler#readme",
-          "repository": "https://github.com/surmon-china/libundler",
-          "bugs": "https://github.com/surmon-china/libundler/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.22562880959180143,
-        "detail": {
-          "quality": 0.46379219092234025,
-          "popularity": 0.020927769707292605,
-          "maintenance": 0.22618980833584845
-        }
-      },
-      "searchScore": 3.1167207e-9
+      "searchScore": 1.3078276e-8
     },
     {
       "package": {
@@ -485,14 +440,59 @@
         ]
       },
       "score": {
-        "final": 0.22204942467271077,
+        "final": 0.2218840331682772,
         "detail": {
-          "quality": 0.6457646918744081,
-          "popularity": 0.022633847475227117,
-          "maintenance": 0.05828048712588244
+          "quality": 0.6457646653187267,
+          "popularity": 0.02263364441415152,
+          "maintenance": 0.05780816579344627
         }
       },
-      "searchScore": 3.080553e-9
+      "searchScore": 3.0513494e-9
+    },
+    {
+      "package": {
+        "name": "@surmon-china/libundler",
+        "scope": "surmon-china",
+        "version": "2.3.0",
+        "description": "Universal JavaScript library bundler",
+        "keywords": [
+          "JavaScript bundler",
+          "TypeScript bundler",
+          "zero config bundler",
+          "react component bundler",
+          "rollup",
+          "webpack"
+        ],
+        "date": "2022-06-11T19:33:30.966Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler",
+          "homepage": "https://github.com/surmon-china/libundler#readme",
+          "repository": "https://github.com/surmon-china/libundler",
+          "bugs": "https://github.com/surmon-china/libundler/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.2251811862163302,
+        "detail": {
+          "quality": 0.46379213133202424,
+          "popularity": 0.02092774186998894,
+          "maintenance": 0.22491096332064806
+        }
+      },
+      "searchScore": 3.0380196e-9
     },
     {
       "package": {
@@ -534,14 +534,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1818139699019777,
+        "final": 0.18164886853966125,
         "detail": {
-          "quality": 0.5090786679428205,
-          "popularity": 0.024834854357350618,
-          "maintenance": 0.05828048712588244
+          "quality": 0.5090794076589238,
+          "popularity": 0.024834823469365497,
+          "maintenance": 0.05780816579344627
         }
       },
-      "searchScore": 2.2110282e-10
+      "searchScore": 2.1856793e-10
     },
     {
       "package": {
@@ -585,14 +585,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.18019150509560047,
+        "final": 0.18002640275266113,
         "detail": {
-          "quality": 0.5090786679428205,
-          "popularity": 0.020199240624844187,
-          "maintenance": 0.05828048712588244
+          "quality": 0.5090794076589238,
+          "popularity": 0.020199206935079452,
+          "maintenance": 0.05780816579344627
         }
       },
-      "searchScore": 1.8515571e-10
+      "searchScore": 1.8300526e-10
     },
     {
       "package": {
@@ -631,14 +631,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17556312755755593,
+        "final": 0.1752482222028801,
         "detail": {
-          "quality": 0.44759517934949855,
-          "popularity": 0.0025186642961823303,
-          "maintenance": 0.11543726071155007
+          "quality": 0.4475959342659391,
+          "popularity": 0.0025186206790122297,
+          "maintenance": 0.11453692767269745
         }
       },
-      "searchScore": 9.573919e-11
+      "searchScore": 9.353466e-11
     },
     {
       "package": {
@@ -677,14 +677,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1754631212333761,
+        "final": 0.17514821407459924,
         "detail": {
-          "quality": 0.44759517934949855,
-          "popularity": 0.002232931941382899,
-          "maintenance": 0.11543726071155007
+          "quality": 0.4475959342659391,
+          "popularity": 0.0022328831696382884,
+          "maintenance": 0.11453692767269745
         }
       },
-      "searchScore": 9.463835e-11
+      "searchScore": 9.245731e-11
     },
     {
       "package": {
@@ -725,14 +725,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.16309184776119984,
+        "final": 0.16292677667020733,
         "detail": {
-          "quality": 0.4039487600519075,
-          "popularity": 0.0614544264330536,
-          "maintenance": 0.05828048712588244
+          "quality": 0.40394961001566204,
+          "popularity": 0.06145438753657868,
+          "maintenance": 0.05780816579344627
         }
       },
-      "searchScore": 8.6262344e-11
+      "searchScore": 8.520325e-11
     },
     {
       "package": {
@@ -762,14 +762,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.16963226253320596,
+        "final": 0.1694671283741102,
         "detail": {
-          "quality": 0.49135399279422654,
-          "popularity": 0.005222554859654746,
-          "maintenance": 0.05828048712588244
+          "quality": 0.4913547421931271,
+          "popularity": 0.005222421967045419,
+          "maintenance": 0.05780816579344627
         }
       },
-      "searchScore": 6.765076e-11
+      "searchScore": 6.680488e-11
     },
     {
       "package": {
@@ -810,14 +810,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.16943527216012363,
+        "final": 0.1690133359215798,
         "detail": {
-          "quality": 0.34589659531335937,
-          "popularity": 0.01809679391707829,
-          "maintenance": 0.16952118770039548
+          "quality": 0.34589735290778684,
+          "popularity": 0.018096713715086355,
+          "maintenance": 0.1683150864256101
         }
       },
-      "searchScore": 6.741406e-11
+      "searchScore": 6.5290696e-11
     },
     {
       "package": {
@@ -852,14 +852,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.14762663544334775,
+        "final": 0.1472046157500908,
         "detail": {
-          "quality": 0.29282544598451044,
-          "popularity": 0.0012759598653034564,
-          "maintenance": 0.16952118770039548
+          "quality": 0.2928259230400952,
+          "popularity": 0.0012758816831391893,
+          "maintenance": 0.1683150864256101
         }
       },
-      "searchScore": 8.041997e-12
+      "searchScore": 7.746322e-12
     },
     {
       "package": {
@@ -888,36 +888,36 @@
         "unstable": true
       },
       "score": {
-        "final": 0.14617029977833165,
+        "final": 0.14574827192466872,
         "detail": {
-          "quality": 0.2880529959178614,
-          "popularity": 0.0012056723080995462,
-          "maintenance": 0.16952118770039548
+          "quality": 0.2880534496277648,
+          "popularity": 0.0012055908210735372,
+          "maintenance": 0.1683150864256101
         }
       },
-      "searchScore": 7.007676e-12
+      "searchScore": 6.7474364e-12
     }
   ],
   "downloads": {
-    "veact": 656,
-    "naivebayes": 877,
-    "veact-use": 489,
-    "wonderful-bing-wallpaper": 1945,
-    "@videojs-player/vue": 100462,
-    "player.ts": 103,
-    "emoji-233333": 1990,
-    "@surmon-china/libundler": 3299,
-    "simple-netease-cloud-music": 2621,
     "vue-touch-ripple": 10704,
-    "vue-video-player": 1060642,
-    "vue-drag-zone": 3299,
-    "@videojs-player/react": 12821,
-    "vue-awesome-swiper": 7860083,
-    "vue-codemirror": 2797491,
-    "vuniversal": 498,
+    "wonderful-bing-wallpaper": 1945,
+    "simple-netease-cloud-music": 2621,
     "vue-quill-editor": 3817719,
     "mongodb-data-api": 3063,
+    "vue-codemirror": 2797491,
+    "vue-awesome-swiper": 7860083,
+    "vue-drag-zone": 3299,
+    "emoji-233333": 1990,
+    "vuniversal": 498,
+    "naivebayes": 877,
+    "veact-use": 489,
+    "@videojs-player/vue": 100462,
+    "@surmon-china/libundler": 3299,
+    "player.ts": 103,
+    "vue-video-player": 1060642,
+    "veact": 656,
+    "@surmon/libundler": 107,
     "vue-stacks-editor": 113,
-    "@surmon/libundler": 107
+    "@videojs-player/react": 12821
   }
 }

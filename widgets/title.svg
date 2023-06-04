@@ -1,5 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 340 30"
   style="background-color: #00000000;" width="340px" height="30px">
+  <style>
+    svg {
+      fill: currentColor;
+    }
+  </style>
   <path id="path0">
     <!-- Single line -->
     <animate id="d0" attributeName="d" begin="0s" dur="6000ms" fill="freeze"

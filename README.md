@@ -2,7 +2,7 @@
 <h2></h2>
 
 <h3 align="center">
-  <img src="./widgets/wave.svg" height="36" />
+  <img src="./widgets/wave.svg" height="36" width="36" />
   &nbsp;
   <i>
     <samp>

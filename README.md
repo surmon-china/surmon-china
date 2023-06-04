@@ -2,7 +2,7 @@
 <h1></h1>
 
 <h4 align="center">
-  <img src="./widgets/wave.svg" height="39" width="39" alt="👋" title="👋" />
+  <img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" />
   &nbsp;&nbsp;
   <a href="https://surmon.me#gh-dark-mode-only"><img src="./widgets/title-dark.svg" alt="Hello World!" /></a>
   <a href="https://surmon.me#gh-light-mode-only"><img src="./widgets/title-light.svg" alt="Hello World!" /></a>

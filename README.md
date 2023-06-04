@@ -2,7 +2,7 @@
 <h2></h2>
 
 <h3 align="center">
-  <img src="./widgets/wave.svg" width="36" />
+  <img src="./widgets/wave.svg" height="36" />
   &nbsp;
   <i>
     <samp>
@@ -14,7 +14,7 @@
 <h3 align="center">
   <i>
     <samp>
-      > I am passionate :heart_on_fire: about open source software and giving back to others.&nbsp;
+      > I am passionate <img src="./widgets/heart-on-fire.gif" alt="❤️‍🔥" title="❤️‍🔥" height="26" /> about open source software and giving back to others.&nbsp;
     </samp>
   </i>
 </h3>

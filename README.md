@@ -4,7 +4,7 @@
 <h3 align="center">
   <img src="./widgets/wave.svg" height="36" width="36" alt="👋" title="👋" />
   &nbsp;
-  <a href="https://surmon.me"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=340&height=26&lines=Hello+World!+I+am+Surmon." alt="Typing SVG" /></a>
+  <a href="https://surmon.me"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=340&height=28&lines=Hello+World!+I+am+Surmon." alt="Typing SVG" /></a>
 </h3>
 
 <h3 align="center">

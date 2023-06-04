@@ -14,7 +14,7 @@
 <h3 align="center">
   <i>
     <samp>
-      > I am passionate <img src="./widgets/heart-on-fire.gif" alt="❤️‍🔥" title="❤️‍🔥" height="26" /> about open source software and giving back to others.
+      > I am passionate <img src="./widgets/heart-on-fire.gif" alt="❤️‍🔥" title="❤️‍🔥" height="26" width="26" /> about open source software and giving back to others.
     </samp>
   </i>
 </h3>

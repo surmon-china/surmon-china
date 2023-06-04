@@ -3,7 +3,7 @@
 
 <h3 align="center">
   <img src="./widgets/wave.svg" height="35" width="35" alt="👋" title="👋" />
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://surmon.me"><img src="./widgets/title-dark.svg" alt="Hello World!" /></a>
 </h3>
 

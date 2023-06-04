@@ -4,7 +4,7 @@
 <h3 align="center">
   <img src="./widgets/wave.svg" height="35" width="35" alt="👋" title="👋" />
   &nbsp;&nbsp;
-  <a href="https://surmon.me"><img src="./widgets/title-dark.svg" alt="Hello World!" /></a>
+  <a href="https://surmon.me"><img src="./widgets/title-dark-3.svg" alt="Hello World!" /></a>
 </h3>
 
 <h3 align="center">

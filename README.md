@@ -2,7 +2,8 @@
 <h2></h2>
 
 <h3 align="center">
-  :wave: &nbsp;
+  <img src="./widgets/wave.svg" width="36" />
+  &nbsp;
   <i>
     <samp>
       Hello World! I am <a target="_blank" href="https://surmon.me/about"><ins>Surmon</ins></a>.

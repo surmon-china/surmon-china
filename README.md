@@ -24,6 +24,8 @@
   </i>
 </h3>
 
+<h6 align="center">—</h6>
+
 <h4 align="center">
   <a href="#"><img
     alt="total github stars"

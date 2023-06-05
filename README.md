@@ -24,7 +24,7 @@
   </i>
 </h3>
 
-<h6 align="center">—</h6>
+<h6 align="center"><samp>—</samp></h6>
 
 <h4 align="center">
   <a href="#"><img

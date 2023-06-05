@@ -4,8 +4,12 @@
 <h4 align="center">
   <img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" />
   &nbsp;&nbsp;
-  <a href="https://surmon.me#gh-dark-mode-only"><img src="./widgets/title-dark.svg" alt="Hello World!" /></a>
-  <a href="https://surmon.me#gh-light-mode-only"><img src="./widgets/title-light.svg" alt="Hello World!" /></a>
+  <a href="https://surmon.me">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./widgets/title-dark.svg">
+      <img alt="Hello World!" src="/widgets/title-light.svg">
+    </picture>
+  </a>
 </h4>
 
 <h3 align="center">

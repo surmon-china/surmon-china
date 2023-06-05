@@ -2,7 +2,9 @@
 <h1></h1>
 
 <h4 align="center">
-  <img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" />
+  <a href="#">
+    <img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" />
+  </a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://surmon.me">
     <picture>
@@ -15,7 +17,7 @@
 <h3 align="center">
   <i>
     <samp>
-      > I am passionate <img src="./widgets/heart-on-fire.gif" alt="❤️‍🔥" title="❤️‍🔥" height="26" width="26" /> about open source software and giving back to others.
+      > I am passionate <a href="#"><img src="./widgets/heart-on-fire.gif" alt="❤️‍🔥" title="❤️‍🔥" height="26" width="26" /></a> about open source software and giving back to others.
     </samp>
   </i>
 </h3>

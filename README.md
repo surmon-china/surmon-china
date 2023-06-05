@@ -3,7 +3,7 @@
 
 <h4 align="center">
   <img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" />
-  &nbsp;&nbsp;
+  <span>&nbsp;&nbsp;</span>
   <a href="https://surmon.me">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./widgets/title-dark.svg">

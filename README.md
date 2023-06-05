@@ -2,9 +2,7 @@
 <h1></h1>
 
 <h4 align="center">
-  <a href="#">
-    <img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" />
-  </a>
+  <a href="#"><img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://surmon.me">
     <picture>

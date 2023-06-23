@@ -41,7 +41,7 @@
           "maintenance": 0.31474883224362876
         }
       },
-      "searchScore": 0.000021900176
+      "searchScore": 0.00002181208
     },
     {
       "package": {
@@ -86,7 +86,7 @@
           "maintenance": 0.08703158664440085
         }
       },
-      "searchScore": 0.0000026050955
+      "searchScore": 0.0000025946165
     },
     {
       "package": {
@@ -134,7 +134,7 @@
           "maintenance": 0.062392843271768424
         }
       },
-      "searchScore": 0.0000013530781
+      "searchScore": 0.0000013476352
     },
     {
       "package": {
@@ -178,7 +178,7 @@
           "maintenance": 0.33267991802898494
         }
       },
-      "searchScore": 4.0419772e-7
+      "searchScore": 4.025718e-7
     },
     {
       "package": {
@@ -220,7 +220,7 @@
           "maintenance": 0.2445138145932136
         }
       },
-      "searchScore": 3.347742e-7
+      "searchScore": 3.3342755e-7
     },
     {
       "package": {
@@ -264,7 +264,7 @@
           "maintenance": 0.3300470185390634
         }
       },
-      "searchScore": 2.2504048e-7
+      "searchScore": 2.2413525e-7
     },
     {
       "package": {
@@ -308,7 +308,7 @@
           "maintenance": 0.12321445030601019
         }
       },
-      "searchScore": 9.227256e-8
+      "searchScore": 9.190139e-8
     },
     {
       "package": {
@@ -356,49 +356,7 @@
           "maintenance": 0.012517750207390994
         }
       },
-      "searchScore": 9.718201e-9
-    },
-    {
-      "package": {
-        "name": "@surmon-china/libundler",
-        "scope": "surmon-china",
-        "version": "2.3.0",
-        "description": "Universal JavaScript library bundler",
-        "keywords": [
-          "JavaScript bundler",
-          "TypeScript bundler",
-          "zero config bundler",
-          "react component bundler",
-          "rollup",
-          "webpack"
-        ],
-        "date": "2022-06-11T19:33:30.966Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "score": {
-        "final": 0.22929996616832124,
-        "detail": {
-          "quality": 0.4638835589898894,
-          "popularity": 0.02094304808767157,
-          "maintenance": 0.23658523325905537
-        }
-      },
-      "searchScore": 3.8416244e-9
+      "searchScore": 9.67911e-9
     },
     {
       "package": {
@@ -444,7 +402,7 @@
           "maintenance": 0.062392843271768424
         }
       },
-      "searchScore": 3.4243572e-9
+      "searchScore": 3.4105827e-9
     },
     {
       "package": {
@@ -489,7 +447,52 @@
           "maintenance": 0.25893045998640735
         }
       },
-      "searchScore": 2.745758e-9
+      "searchScore": 2.7347131e-9
+    },
+    {
+      "package": {
+        "name": "@surmon-china/libundler",
+        "scope": "surmon-china",
+        "version": "2.3.0",
+        "description": "Universal JavaScript library bundler",
+        "keywords": [
+          "JavaScript bundler",
+          "TypeScript bundler",
+          "zero config bundler",
+          "react component bundler",
+          "rollup",
+          "webpack"
+        ],
+        "date": "2022-06-11T19:33:30.966Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler",
+          "homepage": "https://github.com/surmon-china/libundler#readme",
+          "repository": "https://github.com/surmon-china/libundler",
+          "bugs": "https://github.com/surmon-china/libundler/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.2018265758576011,
+        "detail": {
+          "quality": 0.4638835589898894,
+          "popularity": 0.0211561793501245,
+          "maintenance": 0.15787670110883065
+        }
+      },
+      "searchScore": 7.4988277e-10
     },
     {
       "package": {
@@ -537,7 +540,7 @@
           "maintenance": 0.17974246921856718
         }
       },
-      "searchScore": 8.779153e-11
+      "searchScore": 8.743838e-11
     },
     {
       "package": {
@@ -574,7 +577,7 @@
           "maintenance": 0.062392843271768424
         }
       },
-      "searchScore": 6.932006e-11
+      "searchScore": 6.904122e-11
     },
     {
       "package": {
@@ -616,14 +619,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.16549520252697192,
+        "final": 0.165398155451475,
         "detail": {
           "quality": 0.5089132683572406,
-          "popularity": 0.024114312706322607,
+          "popularity": 0.02383703534775993,
           "maintenance": 0.012517750207390994
         }
       },
-      "searchScore": 6.743663e-11
+      "searchScore": 6.63961e-11
     },
     {
       "package": {
@@ -674,7 +677,7 @@
           "maintenance": 0.012517750207390994
         }
       },
-      "searchScore": 5.6859246e-11
+      "searchScore": 5.6630527e-11
     },
     {
       "package": {
@@ -720,7 +723,7 @@
           "maintenance": 0.07475020483278473
         }
       },
-      "searchScore": 3.1764497e-11
+      "searchScore": 3.1636724e-11
     },
     {
       "package": {
@@ -766,7 +769,7 @@
           "maintenance": 0.07475020483278473
         }
       },
-      "searchScore": 3.139125e-11
+      "searchScore": 3.126498e-11
     },
     {
       "package": {
@@ -814,7 +817,7 @@
           "maintenance": 0.012517750207390994
         }
       },
-      "searchScore": 2.4739167e-11
+      "searchScore": 2.4639653e-11
     },
     {
       "package": {
@@ -856,7 +859,7 @@
           "maintenance": 0.17974246921856718
         }
       },
-      "searchScore": 1.09239414e-11
+      "searchScore": 1.0879999e-11
     },
     {
       "package": {
@@ -892,29 +895,29 @@
           "maintenance": 0.17974246921856718
         }
       },
-      "searchScore": 9.500641e-12
+      "searchScore": 9.462424e-12
     }
   ],
   "downloads": {
-    "vue-awesome-swiper": 7649214,
-    "vue-drag-zone": 3164,
     "vue-touch-ripple": 10724,
+    "vue-drag-zone": 3164,
     "vuniversal": 493,
-    "vue-quill-editor": 3804291,
-    "naivebayes": 897,
-    "vue-video-player": 1036723,
-    "wonderful-bing-wallpaper": 1850,
-    "vue-codemirror": 3020247,
-    "veact-use": 459,
-    "simple-netease-cloud-music": 2312,
-    "mongodb-data-api": 3517,
-    "veact": 627,
-    "vue-stacks-editor": 121,
+    "vue-awesome-swiper": 7649214,
     "player.ts": 108,
-    "@videojs-player/vue": 140143,
-    "@surmon-china/libundler": 3438,
-    "@surmon/libundler": 114,
     "emoji-233333": 1937,
-    "@videojs-player/react": 15252
+    "naivebayes": 897,
+    "vue-codemirror": 3020247,
+    "@videojs-player/vue": 140143,
+    "vue-video-player": 1036723,
+    "simple-netease-cloud-music": 2312,
+    "veact": 627,
+    "@videojs-player/react": 15252,
+    "veact-use": 459,
+    "wonderful-bing-wallpaper": 1850,
+    "@surmon/libundler": 114,
+    "@surmon-china/libundler": 3438,
+    "mongodb-data-api": 3517,
+    "vue-stacks-editor": 121,
+    "vue-quill-editor": 3804291
   }
 }

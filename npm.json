@@ -41,7 +41,7 @@
           "maintenance": 0.3130833860080571
         }
       },
-      "searchScore": 0.000022557942
+      "searchScore": 0.000022496273
     },
     {
       "package": {
@@ -86,7 +86,7 @@
           "maintenance": 0.13543242627853533
         }
       },
-      "searchScore": 0.000004672225
+      "searchScore": 0.000004659452
     },
     {
       "package": {
@@ -134,7 +134,7 @@
           "maintenance": 0.09874813794964782
         }
       },
-      "searchScore": 0.0000020812986
+      "searchScore": 0.0000020756088
     },
     {
       "package": {
@@ -176,7 +176,7 @@
           "maintenance": 0.28922277446733996
         }
       },
-      "searchScore": 6.1224756e-7
+      "searchScore": 6.105738e-7
     },
     {
       "package": {
@@ -220,7 +220,7 @@
           "maintenance": 0.332963510544946
         }
       },
-      "searchScore": 4.3476064e-7
+      "searchScore": 4.335721e-7
     },
     {
       "package": {
@@ -264,7 +264,7 @@
           "maintenance": 0.3315582623228271
         }
       },
-      "searchScore": 2.4718034e-7
+      "searchScore": 2.465046e-7
     },
     {
       "package": {
@@ -308,7 +308,7 @@
           "maintenance": 0.1841479095537272
         }
       },
-      "searchScore": 2.311306e-7
+      "searchScore": 2.3049873e-7
     },
     {
       "package": {
@@ -356,7 +356,7 @@
           "maintenance": 0.020088532440563172
         }
       },
-      "searchScore": 1.4819898e-8
+      "searchScore": 1.4779384e-8
     },
     {
       "package": {
@@ -401,7 +401,7 @@
           "maintenance": 0.2971028233938331
         }
       },
-      "searchScore": 8.002428e-9
+      "searchScore": 7.980551e-9
     },
     {
       "package": {
@@ -447,7 +447,7 @@
           "maintenance": 0.09874813794964782
         }
       },
-      "searchScore": 6.5957204e-9
+      "searchScore": 6.577689e-9
     },
     {
       "package": {
@@ -492,7 +492,7 @@
           "maintenance": 0.22317187767744753
         }
       },
-      "searchScore": 3.1867955e-9
+      "searchScore": 3.1780836e-9
     },
     {
       "package": {
@@ -540,44 +540,7 @@
           "maintenance": 0.2436961153913497
         }
       },
-      "searchScore": 6.3956984e-10
-    },
-    {
-      "package": {
-        "name": "naivebayes",
-        "scope": "unscoped",
-        "version": "0.5.0",
-        "description": "Naive Bayes Classifier for node.js.",
-        "date": "2017-04-24T03:24:49.812Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/naivebayes"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "unstable": true
-      },
-      "score": {
-        "final": 0.1881819140350212,
-        "detail": {
-          "quality": 0.5083592049562684,
-          "popularity": 0.0031780121878970105,
-          "maintenance": 0.09874813794964782
-        }
-      },
-      "searchScore": 2.4848854e-10
+      "searchScore": 6.378214e-10
     },
     {
       "package": {
@@ -623,7 +586,7 @@
           "maintenance": 0.11742348240837215
         }
       },
-      "searchScore": 1.3545523e-10
+      "searchScore": 1.3508492e-10
     },
     {
       "package": {
@@ -669,7 +632,7 @@
           "maintenance": 0.11742348240837215
         }
       },
-      "searchScore": 1.3471817e-10
+      "searchScore": 1.3434988e-10
     },
     {
       "package": {
@@ -718,7 +681,7 @@
           "maintenance": 0.020088532440563172
         }
       },
-      "searchScore": 1.15891595e-10
+      "searchScore": 1.1557477e-10
     },
     {
       "package": {
@@ -769,7 +732,7 @@
           "maintenance": 0.020088532440563172
         }
       },
-      "searchScore": 9.9368014e-11
+      "searchScore": 9.909636e-11
     },
     {
       "package": {
@@ -811,7 +774,7 @@
           "maintenance": 0.2436961153913497
         }
       },
-      "searchScore": 8.3993146e-11
+      "searchScore": 8.3763524e-11
     },
     {
       "package": {
@@ -847,7 +810,7 @@
           "maintenance": 0.2436961153913497
         }
       },
-      "searchScore": 7.353834e-11
+      "searchScore": 7.33373e-11
     },
     {
       "package": {
@@ -895,28 +858,65 @@
           "maintenance": 0.020088532440563172
         }
       },
-      "searchScore": 4.6832035e-11
+      "searchScore": 4.6704005e-11
+    },
+    {
+      "package": {
+        "name": "naivebayes",
+        "scope": "unscoped",
+        "version": "0.5.0",
+        "description": "Naive Bayes Classifier for node.js.",
+        "date": "2017-04-24T03:24:49.812Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/naivebayes"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "unstable": true
+      },
+      "score": {
+        "final": 0.1605929975020963,
+        "detail": {
+          "quality": 0.5083592049562684,
+          "popularity": 0.0030121418886247782,
+          "maintenance": 0.020088532440563172
+        }
+      },
+      "searchScore": 3.234416e-11
     }
   ],
   "downloads": {
     "vue-touch-ripple": 10773,
-    "naivebayes": 909,
-    "vue-codemirror": 3054643,
-    "emoji-233333": 1928,
-    "veact": 630,
     "vue-quill-editor": 3809742,
-    "wonderful-bing-wallpaper": 1848,
-    "mongodb-data-api": 3596,
-    "vue-stacks-editor": 123,
-    "veact-use": 456,
-    "vue-video-player": 1035805,
     "simple-netease-cloud-music": 2283,
     "vue-drag-zone": 3150,
-    "vue-awesome-swiper": 7650722,
-    "vuniversal": 497,
-    "player.ts": 111,
-    "@surmon-china/libundler": 3457,
+    "mongodb-data-api": 3596,
+    "naivebayes": 909,
+    "veact": 630,
     "@videojs-player/react": 15488,
+    "vue-awesome-swiper": 7650722,
+    "player.ts": 111,
+    "emoji-233333": 1928,
+    "wonderful-bing-wallpaper": 1848,
+    "vuniversal": 497,
+    "vue-video-player": 1035805,
+    "vue-stacks-editor": 123,
+    "@surmon-china/libundler": 3457,
+    "vue-codemirror": 3054643,
+    "veact-use": 456,
     "@videojs-player/vue": 145029,
     "@surmon/libundler": 121
   }

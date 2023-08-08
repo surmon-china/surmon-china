@@ -85,7 +85,7 @@
     src="https://img.shields.io/badge/TG-2CA5E0?style=for-the-badge&logo=telegram"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://discord.surmon.me"><img
+  <a href="https://redirect.surmon.me/discord-server"><img
     alt="discord"
     height="22px"
     src="https://img.shields.io/badge/DC-5865f2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12"

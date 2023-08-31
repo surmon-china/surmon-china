@@ -11,7 +11,7 @@ try {
   const githubData = await getGitHubAggregate()
 
   // GitHub JSON
-  writeJSONToOutput('github.json', githubData)
+  writeJSONToOutput('github.json', { ...githubData })
 
   // NPM JSON
   writeJSONToOutput('npm.json', {

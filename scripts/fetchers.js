@@ -3,7 +3,7 @@ import axios from 'axios'
 axios.interceptors.response.use(
   (response) => response,
   (error) => {
-    console.error('Fetch failed:', error)
+    console.error('Fetch failed:', error.toJSON())
     return Promise.reject(error)
   }
 )
@@ -35,4 +35,50 @@ export const fetchGitHubRepositories = async (githubUID) => {
 export const fetchGitHubOrganizations = async (githubUID) => {
   const response = await axios.get(`https://api.github.com/users/${githubUID}/orgs`)
   return response.data
+}
+
+// https://docs.github.com/en/graphql/overview/explorer
+// https://docs.github.com/en/graphql/reference/objects#user
+export const fetchGitHubRepositoryLanguages = async (githubUID, githubToken) => {
+  const query = `
+    query {
+      user(login: "${githubUID}") {
+        repositories(
+          first: 100
+          isFork: false
+          ownerAffiliations: OWNER
+          orderBy: {field: CREATED_AT, direction: DESC}
+        ) {
+          nodes {
+            name
+            languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
+              edges {
+                size
+                node {
+                  name
+                  color
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  `
+
+  const response = await axios({
+    url: 'https://api.github.com/graphql',
+    method: 'post',
+    data: { query },
+    headers: {
+      Authorization: `Bearer ${githubToken}`
+    }
+  })
+
+  if (response.data.errors) {
+    console.error(response.data.errors)
+    throw new Error(response.data.errors.map((error) => error.message).join('; '))
+  }
+
+  return response.data.data.user.repositories.nodes
 }

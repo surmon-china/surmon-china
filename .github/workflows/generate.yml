@@ -20,7 +20,7 @@ jobs:
       - run: npm ci
       - run: npm run generate
         env:
-          GH_DEV_TOKEN: ${{ secrets.GH_DEV_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
 
       - name: Release branch
         uses: peaceiris/actions-gh-pages@v3

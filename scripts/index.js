@@ -1,11 +1,12 @@
-import { CONFIG } from './constants.js'
+import { CONFIG, GITHUB_ACCESS_TOKEN } from './constants.js'
 import { thousands, writeJSONToOutput } from './utils.js'
 import {
   fetchNPMPackages,
   fetchNPMPackageDownloads,
   fetchGitHubUserinfo,
   fetchGitHubRepositories,
-  fetchGitHubOrganizations
+  fetchGitHubOrganizations,
+  fetchGitHubRepositoryLanguages
 } from './fetchers.js'
 
 // NPM
@@ -48,10 +49,11 @@ const npmScript = async () => {
 
 // GitHub
 const githubScript = async () => {
-  const [userinfo, repositories, organizations] = await Promise.all([
+  const [userinfo, repositories, organizations, repoLanguages] = await Promise.all([
     fetchGitHubUserinfo(CONFIG.GITHUB_UID),
     fetchGitHubRepositories(CONFIG.GITHUB_UID),
-    fetchGitHubOrganizations(CONFIG.GITHUB_UID)
+    fetchGitHubOrganizations(CONFIG.GITHUB_UID),
+    fetchGitHubRepositoryLanguages(CONFIG.GITHUB_UID, GITHUB_ACCESS_TOKEN)
   ])
   const counts = {
     repositories: repositories.length,
@@ -67,8 +69,10 @@ const githubScript = async () => {
     forks: 0,
     open_issues: 0,
     languages: [],
-    topics: []
+    topics: {}
   }
+
+  // basic statistics
   repositories.forEach((repository) => {
     statistics.stars += repository.stargazers_count
     statistics.forks += repository.forks_count
@@ -76,15 +80,42 @@ const githubScript = async () => {
     // owner only
     if (!repository.fork && repository.owner.login === CONFIG.GITHUB_UID) {
       statistics.size += repository.size
-      statistics.topics.push(...repository.topics)
-      if (repository.language) {
-        statistics.languages.push(repository.language)
-      }
+      repository.topics.forEach((topic) => {
+        statistics.topics[topic] = statistics.topics[topic] || 0
+        statistics.topics[topic] += 1
+      })
     }
   })
 
-  statistics.topics = Array.from(new Set([...statistics.topics]))
-  statistics.languages = Array.from(new Set([...statistics.languages]))
+  // languages statistics
+  let totalSize = 0
+  const languageStats = {}
+  repoLanguages.forEach((repo) => {
+    repo.languages.edges.forEach((edge) => {
+      const langSize = edge.size
+      const langName = edge.node.name
+      const langColor = edge.node.color
+      totalSize += langSize
+      if (languageStats[langName]) {
+        languageStats[langName].size += langSize
+      } else {
+        languageStats[langName] = {
+          size: langSize,
+          color: langColor
+        }
+      }
+    })
+  })
+
+  for (const lang in languageStats) {
+    const item = languageStats[lang]
+    item.percentage = Number((item.size / totalSize) * 100).toFixed(2)
+    statistics.languages.push({ name: lang, ...item })
+  }
+
+  // sort languages by size
+  statistics.languages.sort((a, b) => b.size - a.size)
+
   console.log(`statistics:`, statistics)
   console.groupEnd()
 

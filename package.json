@@ -10,6 +10,13 @@
     "GITHUB_UID": "surmon-china",
     "NPM_UID": "surmon"
   },
+  "nodemonConfig": {
+    "ignore": [
+      "output/*",
+      "widgets/*",
+      "icons/*"
+    ]
+  },
   "scripts": {
     "dev": "nodemon ./dev.js",
     "generate": "node scripts/index.js",

@@ -1,11 +1,12 @@
-const { CONFIG, thousands, writeJSONToOutput } = require('./utils')
-const {
+import { CONFIG } from './constants.js'
+import { thousands, writeJSONToOutput } from './utils.js'
+import {
   fetchNPMPackages,
   fetchNPMPackageDownloads,
   fetchGitHubUserinfo,
   fetchGitHubRepositories,
-  fetchGitHubOrganizations,
-} = require('./fetchers')
+  fetchGitHubOrganizations
+} from './fetchers.js'
 
 // NPM
 const npmScript = async () => {
@@ -14,8 +15,8 @@ const npmScript = async () => {
   // packages downloads map
   const packageDownloadsMap = new Map()
   await Promise.all(
-    packages.map(async (package) => {
-      const packageName = package.package.name
+    packages.map(async (item) => {
+      const packageName = item.package.name
       const downloadsResult = await fetchNPMPackageDownloads(packageName)
       const downloads = downloadsResult?.downloads || 0
       packageDownloadsMap.set(packageName, downloads)
@@ -24,18 +25,24 @@ const npmScript = async () => {
 
   const packageCount = packageDownloadsMap.size
   const npmDownloadsTotal = Array.from(packageDownloadsMap.values()).reduce((total, current) => total + current, 0)
-  console.log(`NPM data: package count > ${packageCount}, downloads total > ${npmDownloadsTotal}`)
-  console.log(`NPM data map >`, packageDownloadsMap)
+  const counts = {
+    packages: packageCount,
+    downloads: npmDownloadsTotal
+  }
+  console.group(`[NPM]`)
+  console.log('counts:', JSON.stringify(counts, null, 2))
+  console.log(`map:`, packageDownloadsMap)
+  console.groupEnd()
 
   writeJSONToOutput('npm.json', {
     packages,
-    downloads: Object.fromEntries(packageDownloadsMap),
+    downloads: Object.fromEntries(packageDownloadsMap)
   })
-  writeJSONToOutput('npm.downloads.shields.json', {
+  writeJSONToOutput('shields.npm.downloads.json', {
     schemaVersion: 1,
     label: 'Total NPM Downloads',
     message: thousands(npmDownloadsTotal),
-    cacheSeconds: 3600,
+    cacheSeconds: 3600
   })
 }
 
@@ -44,9 +51,14 @@ const githubScript = async () => {
   const [userinfo, repositories, organizations] = await Promise.all([
     fetchGitHubUserinfo(CONFIG.GITHUB_UID),
     fetchGitHubRepositories(CONFIG.GITHUB_UID),
-    fetchGitHubOrganizations(CONFIG.GITHUB_UID),
+    fetchGitHubOrganizations(CONFIG.GITHUB_UID)
   ])
-  console.log(`GitHub data: repositories > ${repositories.length}, organizations > ${organizations.length}`)
+  const counts = {
+    repositories: repositories.length,
+    organizations: organizations.length
+  }
+  console.group(`[GitHub]`)
+  console.log('counts:', JSON.stringify(counts, null, 2))
 
   // statistics
   const statistics = {
@@ -55,7 +67,7 @@ const githubScript = async () => {
     forks: 0,
     open_issues: 0,
     languages: [],
-    topics: [],
+    topics: []
   }
   repositories.forEach((repository) => {
     statistics.stars += repository.stargazers_count
@@ -73,32 +85,31 @@ const githubScript = async () => {
 
   statistics.topics = Array.from(new Set([...statistics.topics]))
   statistics.languages = Array.from(new Set([...statistics.languages]))
-  console.log(`GitHub statistics:`, statistics)
+  console.log(`statistics:`, statistics)
+  console.groupEnd()
 
   writeJSONToOutput('github.json', {
     userinfo,
     repositories,
     organizations,
-    statistics,
+    statistics
   })
-  writeJSONToOutput('github.stars.shields.json', {
+  writeJSONToOutput('shields.github.stars.json', {
     schemaVersion: 1,
     label: 'Total GitHub Stars',
     message: thousands(statistics.stars),
-    cacheSeconds: 3600,
+    cacheSeconds: 3600
   })
 }
 
-;(async () => {
-  try {
-    const now = new Date()
-    console.info('Generate run', now.toLocaleString(), '|', now.toString())
-    await npmScript()
-    await githubScript()
-    console.info('Generate done')
-    process.exit(0)
-  } catch (error) {
-    console.error('Generate error!', error)
-    process.exit(1)
-  }
-})()
+try {
+  const now = new Date()
+  console.info('Generate run:', now.toLocaleString(), '|', now.toString())
+  await npmScript()
+  await githubScript()
+  console.info('Generate done.')
+  process.exit(0)
+} catch (error) {
+  console.error('Generate error!', error)
+  process.exit(1)
+}

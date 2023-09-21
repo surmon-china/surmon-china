@@ -12,13 +12,13 @@
   </a>
 </h4>
 
-<p align="center">
+<h3 align="center">
   <i>
     <samp>
       > I am passionate ❤️‍🔥 about open source software and giving back to others.
     </samp>
   </i>
-</p>
+</h3>
 
 <h3 align="center">
   <i>

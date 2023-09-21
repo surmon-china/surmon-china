@@ -16,7 +16,7 @@
   <a href="#" data-fix-readme-link-style></a>
   <i>
     <samp>
-      > I am passionate ❤️‍🔥 about open source software and giving back to others.
+      > I am passionate <a href="#"><img src="./widgets/heart-on-fire.gif" alt="❤️‍🔥" title="❤️‍🔥" height="26" width="26" /></a> about open source software and giving back to others.
     </samp>
   </i>
 </h3>

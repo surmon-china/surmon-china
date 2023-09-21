@@ -23,7 +23,7 @@
 <h3 align="center">
   <i>
     <samp>
-      > My projects are trusted :v: by thousands of developers all over the world.
+      > My projects are trusted 🫶🏽 by thousands of developers all over the world.
     </samp>
   </i>
 </h3>

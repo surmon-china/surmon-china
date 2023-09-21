@@ -13,23 +13,21 @@
 </h4>
 
 <h3 align="center">
-  <a href="#"></a>
-    <i>
-      <samp>
-        > I am passionate ❤️‍🔥 about open source software and giving back to others.
-      </samp>
-    </i>
-  
+  <a href="#" data-fix-readme-link-style></a>
+  <i>
+    <samp>
+      > I am passionate ❤️‍🔥 about open source software and giving back to others.
+    </samp>
+  </i>
 </h3>
 
 <h3 align="center">
-  <a href="#">
-    <i>
-      <samp>
-        > My projects are trusted 🫶🏽 by thousands of developers all over the world.
-      </samp>
-    </i>
-  </a>
+  <a href="#" data-fix-readme-link-style></a>
+  <i>
+    <samp>
+      > My projects are trusted 🫶🏽 by thousands of developers all over the world.
+    </samp>
+  </i>
 </h3>
 
 <p align="center"><samp>_</samp></p>

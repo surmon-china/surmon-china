@@ -14,20 +14,22 @@
 
 <h3 align="center">
   <a href="#">
-  <i>
-    <samp>
-      > I am passionate ❤️‍🔥 about open source software and giving back to others.
-    </samp>
-  </i>
+    <i>
+      <samp>
+        > I am passionate ❤️‍🔥 about open source software and giving back to others.
+      </samp>
+    </i>
   </a>
 </h3>
 
 <h3 align="center">
-  <i>
-    <samp>
-      > My projects are trusted 🫶🏽 by thousands of developers all over the world.
-    </samp>
-  </i>
+  <a href="#">
+    <i>
+      <samp>
+        > My projects are trusted 🫶🏽 by thousands of developers all over the world.
+      </samp>
+    </i>
+  </a>
 </h3>
 
 <p align="center"><samp>_</samp></p>

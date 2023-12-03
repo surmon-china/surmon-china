@@ -44,7 +44,7 @@
           "maintenance": 0.20476954565532454
         }
       },
-      "searchScore": 0.0000072625344
+      "searchScore": 0.000007243481
     },
     {
       "package": {
@@ -92,7 +92,7 @@
           "maintenance": 0.07032471468185596
         }
       },
-      "searchScore": 0.0000020415978
+      "searchScore": 0.0000020362418
     },
     {
       "package": {
@@ -139,7 +139,7 @@
           "maintenance": 0.2787376787777304
         }
       },
-      "searchScore": 2.1340804e-7
+      "searchScore": 2.1284818e-7
     },
     {
       "package": {
@@ -184,7 +184,7 @@
           "maintenance": 0.20476954565532454
         }
       },
-      "searchScore": 1.8539743e-7
+      "searchScore": 1.8491103e-7
     },
     {
       "package": {
@@ -235,7 +235,7 @@
           "maintenance": 0.023650694022733065
         }
       },
-      "searchScore": 7.434681e-8
+      "searchScore": 7.415176e-8
     },
     {
       "package": {
@@ -282,7 +282,7 @@
           "maintenance": 0.24091551960377833
         }
       },
-      "searchScore": 5.0703445e-8
+      "searchScore": 5.0570424e-8
     },
     {
       "package": {
@@ -329,7 +329,7 @@
           "maintenance": 0.04715327357998577
         }
       },
-      "searchScore": 3.1399885e-8
+      "searchScore": 3.131751e-8
     },
     {
       "package": {
@@ -378,53 +378,7 @@
           "maintenance": 0.023650694022733065
         }
       },
-      "searchScore": 2.391979e-8
-    },
-    {
-      "package": {
-        "name": "mongodb-data-api",
-        "scope": "unscoped",
-        "version": "0.4.0",
-        "description": "MongoDB atlas data API SDK for Node.js",
-        "keywords": [
-          "MongoDB data API",
-          "MongoDB cloud data API",
-          "MongoDB Atlas data API SDK"
-        ],
-        "date": "2022-11-23T19:54:56.217Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/mongodb-data-api",
-          "homepage": "https://github.com/surmon-china/mongodb-data-api#readme",
-          "repository": "https://github.com/surmon-china/mongodb-data-api",
-          "bugs": "https://github.com/surmon-china/mongodb-data-api/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "insecure": 0,
-        "unstable": true
-      },
-      "score": {
-        "final": 0.249137171487863,
-        "detail": {
-          "quality": 0.4516549362473815,
-          "popularity": 0.021582892892784374,
-          "maintenance": 0.3031047945747829
-        }
-      },
-      "searchScore": 1.0904091e-8
+      "searchScore": 2.3857037e-8
     },
     {
       "package": {
@@ -473,7 +427,53 @@
           "maintenance": 0.023650694022733065
         }
       },
-      "searchScore": 2.1565882e-9
+      "searchScore": 2.1509305e-9
+    },
+    {
+      "package": {
+        "name": "mongodb-data-api",
+        "scope": "unscoped",
+        "version": "0.4.0",
+        "description": "MongoDB atlas data API SDK for Node.js",
+        "keywords": [
+          "MongoDB data API",
+          "MongoDB cloud data API",
+          "MongoDB Atlas data API SDK"
+        ],
+        "date": "2022-11-23T19:54:56.217Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/mongodb-data-api",
+          "homepage": "https://github.com/surmon-china/mongodb-data-api#readme",
+          "repository": "https://github.com/surmon-china/mongodb-data-api",
+          "bugs": "https://github.com/surmon-china/mongodb-data-api/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "insecure": 0,
+        "unstable": true
+      },
+      "score": {
+        "final": 0.18772781783674186,
+        "detail": {
+          "quality": 0.3983420046087156,
+          "popularity": 0.021718765380538737,
+          "maintenance": 0.1732104244883961
+        }
+      },
+      "searchScore": 2.7428698e-10
     },
     {
       "package": {
@@ -518,7 +518,7 @@
           "maintenance": 0.18977462159479988
         }
       },
-      "searchScore": 1.5198555e-10
+      "searchScore": 1.5158683e-10
     },
     {
       "package": {
@@ -568,7 +568,7 @@
           "maintenance": 0.023650694022733065
         }
       },
-      "searchScore": 1.2839033e-10
+      "searchScore": 1.2805348e-10
     },
     {
       "package": {
@@ -620,7 +620,7 @@
           "maintenance": 0.023650694022733065
         }
       },
-      "searchScore": 1.206427e-10
+      "searchScore": 1.203262e-10
     },
     {
       "package": {
@@ -669,7 +669,7 @@
           "maintenance": 0.023650694022733065
         }
       },
-      "searchScore": 5.870981e-11
+      "searchScore": 5.8555785e-11
     },
     {
       "package": {
@@ -707,7 +707,7 @@
           "maintenance": 0.023650694022733065
         }
       },
-      "searchScore": 3.5565818e-11
+      "searchScore": 3.547251e-11
     },
     {
       "package": {
@@ -754,7 +754,7 @@
           "maintenance": 0.04715327357998577
         }
       },
-      "searchScore": 2.1142024e-11
+      "searchScore": 2.1086558e-11
     },
     {
       "package": {
@@ -803,7 +803,7 @@
           "maintenance": 0.07032471468185596
         }
       },
-      "searchScore": 1.1102653e-11
+      "searchScore": 1.1073525e-11
     },
     {
       "package": {
@@ -850,7 +850,7 @@
           "maintenance": 0.023650694022733065
         }
       },
-      "searchScore": 1.0375917e-11
+      "searchScore": 1.0348696e-11
     },
     {
       "package": {
@@ -893,7 +893,7 @@
           "maintenance": 0.07032471468185596
         }
       },
-      "searchScore": 3.5967854e-13
+      "searchScore": 3.5873493e-13
     },
     {
       "package": {
@@ -930,29 +930,29 @@
           "maintenance": 0.07032471468185596
         }
       },
-      "searchScore": 2.9886404e-13
+      "searchScore": 2.9807997e-13
     }
   ],
   "downloads": {
-    "vue-touch-ripple": 11160,
-    "vue-video-player": 1002133,
-    "simple-netease-cloud-music": 1335,
-    "veact": 561,
-    "vue-codemirror": 3670408,
-    "emoji-233333": 1694,
-    "wonderful-bing-wallpaper": 1563,
-    "@videojs-player/vue": 265335,
-    "vue-drag-zone": 2974,
-    "player.ts": 132,
     "naivebayes": 897,
-    "vue-quill-editor": 3633692,
-    "@surmon/libundler": 160,
     "mongodb-data-api": 4776,
+    "vuniversal": 1153,
+    "emoji-233333": 1694,
+    "vue-quill-editor": 3633692,
+    "veact": 561,
+    "wonderful-bing-wallpaper": 1563,
+    "simple-netease-cloud-music": 1335,
+    "vue-touch-ripple": 11160,
     "@surmon-china/libundler": 3185,
-    "veact-use": 422,
-    "@videojs-player/react": 20986,
+    "player.ts": 132,
+    "vue-drag-zone": 2974,
     "vue-awesome-swiper": 7243220,
     "vue-stacks-editor": 152,
-    "vuniversal": 1153
+    "veact-use": 422,
+    "@videojs-player/vue": 265335,
+    "vue-video-player": 1002133,
+    "@surmon/libundler": 160,
+    "vue-codemirror": 3670408,
+    "@videojs-player/react": 20986
   }
 }

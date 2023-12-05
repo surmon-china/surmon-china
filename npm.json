@@ -44,7 +44,7 @@
           "maintenance": 0.20473658706512995
         }
       },
-      "searchScore": 0.000007260454
+      "searchScore": 0.0000072148073
     },
     {
       "package": {
@@ -92,7 +92,55 @@
           "maintenance": 0.07030587881643548
         }
       },
-      "searchScore": 0.0000020413638
+      "searchScore": 0.0000020285297
+    },
+    {
+      "package": {
+        "name": "vue-quill-editor",
+        "scope": "unscoped",
+        "version": "3.0.6",
+        "description": "Quill editor component for Vue",
+        "keywords": [
+          "vue-quill-editor",
+          "vue quill",
+          "vue text editor",
+          "vue rich text editor",
+          "vue web editor",
+          "vue editor"
+        ],
+        "date": "2018-04-09T09:45:01.816Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-quill-editor",
+          "homepage": "https://github.com/surmon-china/vue-quill-editor#readme",
+          "repository": "https://github.com/surmon-china/vue-quill-editor",
+          "bugs": "https://github.com/surmon-china/vue-quill-editor/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "https://surmon.me",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.294290913097938,
+        "detail": {
+          "quality": 0.6455089124682414,
+          "popularity": 0.26388649512397333,
+          "maintenance": 0.023651331611642748
+        }
+      },
+      "searchScore": 7.677892e-7
     },
     {
       "package": {
@@ -139,7 +187,7 @@
           "maintenance": 0.27872156453574165
         }
       },
-      "searchScore": 2.1338928e-7
+      "searchScore": 2.120477e-7
     },
     {
       "package": {
@@ -184,58 +232,7 @@
           "maintenance": 0.20473658706512995
         }
       },
-      "searchScore": 1.8532711e-7
-    },
-    {
-      "package": {
-        "name": "vue-quill-editor",
-        "scope": "unscoped",
-        "version": "3.0.6",
-        "description": "Quill editor component for Vue",
-        "keywords": [
-          "vue-quill-editor",
-          "vue quill",
-          "vue text editor",
-          "vue rich text editor",
-          "vue web editor",
-          "vue editor"
-        ],
-        "date": "2018-04-09T09:45:01.816Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-quill-editor",
-          "homepage": "https://github.com/surmon-china/vue-quill-editor#readme",
-          "repository": "https://github.com/surmon-china/vue-quill-editor",
-          "bugs": "https://github.com/surmon-china/vue-quill-editor/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "email": "surmon@foxmail.com",
-          "url": "https://surmon.me",
-          "username": "surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "insecure": 0
-      },
-      "score": {
-        "final": 0.25803647635057214,
-        "detail": {
-          "quality": 0.6455088740463788,
-          "popularity": 0.1603095919814365,
-          "maintenance": 0.023644162694730745
-        }
-      },
-      "searchScore": 7.4346126e-8
+      "searchScore": 1.8416195e-7
     },
     {
       "package": {
@@ -282,7 +279,7 @@
           "maintenance": 0.24088882654443267
         }
       },
-      "searchScore": 5.06902e-8
+      "searchScore": 5.0371508e-8
     },
     {
       "package": {
@@ -329,7 +326,7 @@
           "maintenance": 0.047140388984423916
         }
       },
-      "searchScore": 3.139483e-8
+      "searchScore": 3.1197448e-8
     },
     {
       "package": {
@@ -378,7 +375,7 @@
           "maintenance": 0.023644162694730745
         }
       },
-      "searchScore": 2.3921297e-8
+      "searchScore": 2.3770903e-8
     },
     {
       "package": {
@@ -416,18 +413,15 @@
           }
         ]
       },
-      "flags": {
-        "insecure": 0
-      },
       "score": {
-        "final": 0.21387058321794686,
+        "final": 0.21483198026578412,
         "detail": {
           "quality": 0.6455088740463788,
-          "popularity": 0.03412132588822134,
+          "popularity": 0.036868174596327734,
           "maintenance": 0.023644162694730745
         }
       },
-      "searchScore": 2.1560334e-9
+      "searchScore": 2.3391684e-9
     },
     {
       "package": {
@@ -473,7 +467,7 @@
           "maintenance": 0.1731759524117029
         }
       },
-      "searchScore": 2.7488378e-10
+      "searchScore": 2.7315555e-10
     },
     {
       "package": {
@@ -518,7 +512,7 @@
           "maintenance": 0.18974047661165827
         }
       },
-      "searchScore": 1.518407e-10
+      "searchScore": 1.5088608e-10
     },
     {
       "package": {
@@ -568,7 +562,7 @@
           "maintenance": 0.023644162694730745
         }
       },
-      "searchScore": 1.2842599e-10
+      "searchScore": 1.2761857e-10
     },
     {
       "package": {
@@ -620,7 +614,7 @@
           "maintenance": 0.023644162694730745
         }
       },
-      "searchScore": 1.2064899e-10
+      "searchScore": 1.1989046e-10
     },
     {
       "package": {
@@ -669,7 +663,7 @@
           "maintenance": 0.023644162694730745
         }
       },
-      "searchScore": 5.871339e-11
+      "searchScore": 5.834425e-11
     },
     {
       "package": {
@@ -707,7 +701,7 @@
           "maintenance": 0.023644162694730745
         }
       },
-      "searchScore": 3.5577277e-11
+      "searchScore": 3.5353602e-11
     },
     {
       "package": {
@@ -754,7 +748,7 @@
           "maintenance": 0.047140388984423916
         }
       },
-      "searchScore": 2.1141922e-11
+      "searchScore": 2.1009002e-11
     },
     {
       "package": {
@@ -803,7 +797,7 @@
           "maintenance": 0.07030587881643548
         }
       },
-      "searchScore": 1.1094906e-11
+      "searchScore": 1.1025152e-11
     },
     {
       "package": {
@@ -850,7 +844,7 @@
           "maintenance": 0.023644162694730745
         }
       },
-      "searchScore": 1.0377815e-11
+      "searchScore": 1.0312569e-11
     },
     {
       "package": {
@@ -893,7 +887,7 @@
           "maintenance": 0.07030587881643548
         }
       },
-      "searchScore": 3.5957077e-13
+      "searchScore": 3.5731013e-13
     },
     {
       "package": {
@@ -930,29 +924,29 @@
           "maintenance": 0.07030587881643548
         }
       },
-      "searchScore": 2.9857367e-13
+      "searchScore": 2.966965e-13
     }
   ],
   "downloads": {
-    "veact-use": 423,
-    "@videojs-player/vue": 267206,
-    "vue-awesome-swiper": 7242687,
-    "vue-touch-ripple": 11205,
-    "wonderful-bing-wallpaper": 1562,
-    "veact": 562,
-    "vue-stacks-editor": 153,
-    "naivebayes": 897,
-    "player.ts": 133,
-    "vue-drag-zone": 2984,
-    "vuniversal": 1153,
-    "mongodb-data-api": 4802,
-    "vue-video-player": 1003582,
-    "simple-netease-cloud-music": 1333,
-    "vue-quill-editor": 3634576,
-    "emoji-233333": 1694,
     "vue-codemirror": 3678313,
+    "vue-video-player": 1003582,
+    "veact": 562,
+    "veact-use": 423,
     "@surmon-china/libundler": 3185,
+    "emoji-233333": 1694,
+    "naivebayes": 897,
+    "wonderful-bing-wallpaper": 1562,
+    "mongodb-data-api": 4802,
+    "vue-touch-ripple": 11205,
+    "vue-quill-editor": 3634576,
+    "vue-drag-zone": 2984,
+    "vue-awesome-swiper": 7242687,
+    "@videojs-player/vue": 267206,
+    "vuniversal": 1153,
+    "player.ts": 133,
+    "vue-stacks-editor": 153,
     "@surmon/libundler": 161,
-    "@videojs-player/react": 21094
+    "@videojs-player/react": 21094,
+    "simple-netease-cloud-music": 1333
   }
 }

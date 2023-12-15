@@ -44,7 +44,7 @@
           "maintenance": 0.20499626800120055
         }
       },
-      "searchScore": 0.000007288855
+      "searchScore": 0.000007234395
     },
     {
       "package": {
@@ -92,7 +92,7 @@
           "maintenance": 0.07045453145907084
         }
       },
-      "searchScore": 0.0000020473353
+      "searchScore": 0.0000020320383
     },
     {
       "package": {
@@ -143,7 +143,7 @@
           "maintenance": 0.02369571448090856
         }
       },
-      "searchScore": 7.739069e-7
+      "searchScore": 7.681245e-7
     },
     {
       "package": {
@@ -190,7 +190,7 @@
           "maintenance": 0.27884838622297464
         }
       },
-      "searchScore": 2.1401898e-7
+      "searchScore": 2.124199e-7
     },
     {
       "package": {
@@ -235,7 +235,7 @@
           "maintenance": 0.20499626800120055
         }
       },
-      "searchScore": 1.868501e-7
+      "searchScore": 1.8545401e-7
     },
     {
       "package": {
@@ -282,7 +282,7 @@
           "maintenance": 0.24109900722754543
         }
       },
-      "searchScore": 5.092421e-8
+      "searchScore": 5.0543722e-8
     },
     {
       "package": {
@@ -329,56 +329,7 @@
           "maintenance": 0.04724208268602287
         }
       },
-      "searchScore": 3.147312e-8
-    },
-    {
-      "package": {
-        "name": "vuniversal",
-        "scope": "unscoped",
-        "version": "0.0.13",
-        "description": "Create vue universal app",
-        "keywords": [
-          "vue",
-          "ssr",
-          "universal"
-        ],
-        "date": "2020-05-14T03:36:52.923Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vuniversal",
-          "homepage": "https://github.com/surmon-china/vuniversal#readme",
-          "repository": "https://github.com/surmon-china/vuniversal",
-          "bugs": "https://github.com/surmon-china/vuniversal/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "email": "surmon@foxmail.com",
-          "url": "https://github.com/surmon-china",
-          "username": "surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "insecure": 0,
-        "unstable": true
-      },
-      "score": {
-        "final": 0.26126867182868224,
-        "detail": {
-          "quality": 0.8348093170571507,
-          "popularity": 0.007235361837768842,
-          "maintenance": 0.02369571448090856
-        }
-      },
-      "searchScore": 2.3959036e-8
+      "searchScore": 3.1237967e-8
     },
     {
       "package": {
@@ -427,7 +378,56 @@
           "maintenance": 0.02369571448090856
         }
       },
-      "searchScore": 2.3577285e-9
+      "searchScore": 2.340112e-9
+    },
+    {
+      "package": {
+        "name": "vuniversal",
+        "scope": "unscoped",
+        "version": "0.0.13",
+        "description": "Create vue universal app",
+        "keywords": [
+          "vue",
+          "ssr",
+          "universal"
+        ],
+        "date": "2020-05-14T03:36:52.923Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vuniversal",
+          "homepage": "https://github.com/surmon-china/vuniversal#readme",
+          "repository": "https://github.com/surmon-china/vuniversal",
+          "bugs": "https://github.com/surmon-china/vuniversal/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "https://github.com/surmon-china",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "insecure": 0,
+        "unstable": true
+      },
+      "score": {
+        "final": 0.21953132461711947,
+        "detail": {
+          "quality": 0.6991459476635224,
+          "popularity": 0.004268686427842095,
+          "maintenance": 0.02369571448090856
+        }
+      },
+      "searchScore": 2.2162745e-9
     },
     {
       "package": {
@@ -473,52 +473,7 @@
           "maintenance": 0.17344771008240492
         }
       },
-      "searchScore": 2.7709002e-10
-    },
-    {
-      "package": {
-        "name": "@surmon-china/libundler",
-        "scope": "surmon-china",
-        "version": "2.3.0",
-        "description": "Universal JavaScript library bundler",
-        "keywords": [
-          "JavaScript bundler",
-          "TypeScript bundler",
-          "zero config bundler",
-          "react component bundler",
-          "rollup",
-          "webpack"
-        ],
-        "date": "2022-06-11T19:33:30.966Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "insecure": 0
-      },
-      "score": {
-        "final": 0.1797120688893404,
-        "detail": {
-          "quality": 0.35,
-          "popularity": 0.023453475547197393,
-          "maintenance": 0.19000957842234667
-        }
-      },
-      "searchScore": 1.5286213e-10
+      "searchScore": 2.7501967e-10
     },
     {
       "package": {
@@ -561,14 +516,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17434628139163408,
+        "final": 0.17432990023239706,
         "detail": {
           "quality": 0.5259255742053457,
-          "popularity": 0.02364316874774969,
+          "popularity": 0.02359636543564389,
           "maintenance": 0.02369571448090856
         }
       },
-      "searchScore": 1.288235e-10
+      "searchScore": 1.2762463e-10
     },
     {
       "package": {
@@ -620,7 +575,7 @@
           "maintenance": 0.02369571448090856
         }
       },
-      "searchScore": 1.2087802e-10
+      "searchScore": 1.1997485e-10
     },
     {
       "package": {
@@ -669,7 +624,55 @@
           "maintenance": 0.02369571448090856
         }
       },
-      "searchScore": 5.883587e-11
+      "searchScore": 5.839627e-11
+    },
+    {
+      "package": {
+        "name": "@surmon-china/libundler",
+        "scope": "surmon-china",
+        "version": "2.3.0",
+        "description": "Universal JavaScript library bundler",
+        "keywords": [
+          "JavaScript bundler",
+          "TypeScript bundler",
+          "zero config bundler",
+          "react component bundler",
+          "rollup",
+          "webpack"
+        ],
+        "date": "2022-06-11T19:33:30.966Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40surmon-china%2Flibundler",
+          "homepage": "https://github.com/surmon-china/libundler#readme",
+          "repository": "https://github.com/surmon-china/libundler",
+          "bugs": "https://github.com/surmon-china/libundler/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "insecure": 0
+      },
+      "score": {
+        "final": 0.16670494407291553,
+        "detail": {
+          "quality": 0.35,
+          "popularity": 0.02095945990291363,
+          "maintenance": 0.15534038030541647
+        }
+      },
+      "searchScore": 5.6141324e-11
     },
     {
       "package": {
@@ -707,7 +710,7 @@
           "maintenance": 0.02369571448090856
         }
       },
-      "searchScore": 3.569672e-11
+      "searchScore": 3.5430006e-11
     },
     {
       "package": {
@@ -754,7 +757,7 @@
           "maintenance": 0.04724208268602287
         }
       },
-      "searchScore": 2.1238704e-11
+      "searchScore": 2.1080014e-11
     },
     {
       "package": {
@@ -801,7 +804,7 @@
           "maintenance": 0.02369571448090856
         }
       },
-      "searchScore": 1.0411527e-11
+      "searchScore": 1.0333736e-11
     },
     {
       "package": {
@@ -844,7 +847,7 @@
           "maintenance": 0.07045453145907084
         }
       },
-      "searchScore": 3.6231245e-13
+      "searchScore": 3.5960538e-13
     },
     {
       "package": {
@@ -881,7 +884,7 @@
           "maintenance": 0.07045453145907084
         }
       },
-      "searchScore": 2.9793556e-13
+      "searchScore": 2.9570947e-13
     },
     {
       "package": {
@@ -930,29 +933,29 @@
           "maintenance": 0.07045453145907084
         }
       },
-      "searchScore": 1.4164352e-13
+      "searchScore": 1.405852e-13
     }
   ],
   "downloads": {
-    "@videojs-player/react": 21742,
-    "@surmon/libundler": 161,
-    "vue-drag-zone": 3004,
-    "vue-awesome-swiper": 7229356,
+    "simple-netease-cloud-music": 1267,
+    "emoji-233333": 1678,
+    "mongodb-data-api": 4919,
+    "vue-stacks-editor": 153,
     "vue-touch-ripple": 11171,
+    "vue-codemirror": 3722134,
+    "vue-drag-zone": 3004,
     "vue-video-player": 1001766,
     "veact": 551,
+    "vue-awesome-swiper": 7229356,
+    "vue-quill-editor": 3620553,
     "veact-use": 414,
+    "vuniversal": 1152,
     "player.ts": 133,
     "wonderful-bing-wallpaper": 1546,
     "naivebayes": 893,
-    "simple-netease-cloud-music": 1267,
-    "vuniversal": 1152,
-    "vue-codemirror": 3722134,
-    "vue-quill-editor": 3620553,
     "@videojs-player/vue": 279655,
-    "vue-stacks-editor": 153,
-    "mongodb-data-api": 4919,
+    "@surmon/libundler": 161,
     "@surmon-china/libundler": 3089,
-    "emoji-233333": 1678
+    "@videojs-player/react": 21742
   }
 }

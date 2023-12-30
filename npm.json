@@ -37,14 +37,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.3594559651199447,
+        "final": 0.3594586020707322,
         "detail": {
-          "quality": 0.6477803339600191,
-          "popularity": 0.2657917190152432,
-          "maintenance": 0.20598503793315381
+          "quality": 0.6477805624867246,
+          "popularity": 0.26579143201616745,
+          "maintenance": 0.20599266319730372
         }
       },
-      "searchScore": 0.000007499303
+      "searchScore": 0.000007449637
     },
     {
       "package": {
@@ -85,14 +85,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.31472160362565693,
+        "final": 0.3147253033178108,
         "detail": {
-          "quality": 0.6195933150881386,
-          "popularity": 0.29709884777164797,
-          "maintenance": 0.07102574965468166
+          "quality": 0.6196004798283055,
+          "popularity": 0.2970988394657726,
+          "maintenance": 0.07103018730371062
         }
       },
-      "searchScore": 0.0000020386774
+      "searchScore": 0.0000020252805
     },
     {
       "package": {
@@ -136,14 +136,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.29427870122207234,
+        "final": 0.29408393209594363,
         "detail": {
-          "quality": 0.6455111746557138,
-          "popularity": 0.2636070465706678,
-          "maintenance": 0.02389395007321271
+          "quality": 0.6455116863435629,
+          "popularity": 0.26304858383906016,
+          "maintenance": 0.02389549099772489
         }
       },
-      "searchScore": 7.7126487e-7
+      "searchScore": 7.57282e-7
     },
     {
       "package": {
@@ -183,14 +183,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.30143156424993156,
+        "final": 0.30143727901738043,
         "detail": {
-          "quality": 0.5946042215786821,
-          "popularity": 0.0722439610562328,
-          "maintenance": 0.27932831830470145
+          "quality": 0.5946197716572259,
+          "popularity": 0.07224327717133014,
+          "maintenance": 0.279332001457849
         }
       },
-      "searchScore": 2.1797376e-7
+      "searchScore": 2.1656473e-7
     },
     {
       "package": {
@@ -228,14 +228,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.294147087671926,
+        "final": 0.29415053241602074,
         "detail": {
-          "quality": 0.6373006230707497,
-          "popularity": 0.08817753564027797,
-          "maintenance": 0.20598503793315381
+          "quality": 0.6373033197093658,
+          "popularity": 0.08817744109758488,
+          "maintenance": 0.20599266319730372
         }
       },
-      "searchScore": 1.8929867e-7
+      "searchScore": 1.8805683e-7
     },
     {
       "package": {
@@ -275,14 +275,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.2758793821285553,
+        "final": 0.27588606434841634,
         "detail": {
-          "quality": 0.5953386678986835,
-          "popularity": 0.036040017779476595,
-          "maintenance": 0.24189650153180986
+          "quality": 0.5953539255805983,
+          "popularity": 0.03603989877077966,
+          "maintenance": 0.24190263458418274
         }
       },
-      "searchScore": 5.2076746e-8
+      "searchScore": 5.174407e-8
     },
     {
       "package": {
@@ -322,63 +322,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.2361760578832758,
+        "final": 0.2361783502738446,
         "detail": {
-          "quality": 0.5328712532317916,
-          "popularity": 0.1704089113781024,
-          "maintenance": 0.04763303694686425
+          "quality": 0.5328753272423841,
+          "popularity": 0.17040893068964869,
+          "maintenance": 0.04763607531357806
         }
       },
-      "searchScore": 2.7059173e-8
-    },
-    {
-      "package": {
-        "name": "vue-drag-zone",
-        "scope": "unscoped",
-        "version": "2.0.0-rc1",
-        "description": "Drag Zone component for Vue",
-        "keywords": [
-          "vue-drag-zone",
-          "vue drag dom",
-          "vue drag size",
-          "vue drag"
-        ],
-        "date": "2018-04-11T08:07:39.500Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-drag-zone",
-          "homepage": "https://github.com/surmon-china/vue-drag-zone#readme",
-          "repository": "https://github.com/surmon-china/vue-drag-zone",
-          "bugs": "https://github.com/surmon-china/vue-drag-zone/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "email": "surmon@foxmail.com",
-          "url": "http://surmon.me",
-          "username": "surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "insecure": 0
-      },
-      "score": {
-        "final": 0.21471153825195954,
-        "detail": {
-          "quality": 0.6455111746557138,
-          "popularity": 0.03627229522748849,
-          "maintenance": 0.02389395007321271
-        }
-      },
-      "searchScore": 2.3233027e-9
+      "searchScore": 2.6880826e-8
     },
     {
       "package": {
@@ -420,14 +371,60 @@
         "unstable": true
       },
       "score": {
-        "final": 0.21960774509236347,
+        "final": 0.21961783009904595,
         "detail": {
-          "quality": 0.6991809928502949,
-          "popularity": 0.004258756319001595,
-          "maintenance": 0.02389395007321271
+          "quality": 0.6992126737061235,
+          "popularity": 0.0042588746800148606,
+          "maintenance": 0.02389549099772489
         }
       },
-      "searchScore": 2.2421642e-9
+      "searchScore": 2.2285096e-9
+    },
+    {
+      "package": {
+        "name": "vue-drag-zone",
+        "scope": "unscoped",
+        "version": "2.0.0-rc1",
+        "description": "Drag Zone component for Vue",
+        "keywords": [
+          "vue-drag-zone",
+          "vue drag dom",
+          "vue drag size",
+          "vue drag"
+        ],
+        "date": "2018-04-11T08:07:39.500Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-drag-zone",
+          "homepage": "https://github.com/surmon-china/vue-drag-zone#readme",
+          "repository": "https://github.com/surmon-china/vue-drag-zone",
+          "bugs": "https://github.com/surmon-china/vue-drag-zone/issues"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "http://surmon.me",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "score": {
+        "final": 0.2135169187189306,
+        "detail": {
+          "quality": 0.6455116863435629,
+          "popularity": 0.03285711704759436,
+          "maintenance": 0.02389549099772489
+        }
+      },
+      "searchScore": 2.0686606e-9
     },
     {
       "package": {
@@ -466,14 +463,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.18821733373693394,
+        "final": 0.1882442420355355,
         "detail": {
-          "quality": 0.39855724475278415,
-          "popularity": 0.021657648754865408,
-          "maintenance": 0.17448566641970228
+          "quality": 0.398637842090784,
+          "popularity": 0.021657421776679894,
+          "maintenance": 0.17449369081846386
         }
       },
-      "searchScore": 2.8437558e-10
+      "searchScore": 2.8300942e-10
     },
     {
       "package": {
@@ -516,14 +513,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17439872186278985,
+        "final": 0.1744109649403454,
         "detail": {
-          "quality": 0.5259681782711211,
-          "popularity": 0.023558245302368795,
-          "maintenance": 0.02389395007321271
+          "quality": 0.526007277518731,
+          "popularity": 0.02355817095863541,
+          "maintenance": 0.02389549099772489
         }
       },
-      "searchScore": 1.291265e-10
+      "searchScore": 1.2837952e-10
     },
     {
       "package": {
@@ -568,14 +565,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1735575726145776,
+        "final": 0.17356830861062478,
         "detail": {
-          "quality": 0.5259681782711211,
-          "popularity": 0.021154961736048042,
-          "maintenance": 0.02389395007321271
+          "quality": 0.526007277518731,
+          "popularity": 0.02115058144514789,
+          "maintenance": 0.02389549099772489
         }
       },
-      "searchScore": 1.1738716e-10
+      "searchScore": 1.1668885e-10
     },
     {
       "package": {
@@ -616,14 +613,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.16704781525786727,
+        "final": 0.1670504969148451,
         "detail": {
           "quality": 0.35,
-          "popularity": 0.020922079316050737,
-          "maintenance": 0.15635739284928432
+          "popularity": 0.02092186872367595,
+          "maintenance": 0.15636526531873865
         }
       },
-      "searchScore": 5.8015946e-11
+      "searchScore": 5.7638574e-11
     },
     {
       "package": {
@@ -665,14 +662,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.15713825940998027,
+        "final": 0.15714947397647208,
         "detail": {
-          "quality": 0.42262394392315383,
-          "popularity": 0.06282341059259906,
-          "maintenance": 0.02389395007321271
+          "quality": 0.42266421390203474,
+          "popularity": 0.06281939416187984,
+          "maintenance": 0.02389549099772489
         }
       },
-      "searchScore": 5.6621166e-11
+      "searchScore": 5.628917e-11
     },
     {
       "package": {
@@ -703,14 +700,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.16194337109655682,
+        "final": 0.1619566522913988,
         "detail": {
-          "quality": 0.509060384174005,
-          "popularity": 0.002463923767802491,
-          "maintenance": 0.02389395007321271
+          "quality": 0.5091026264425857,
+          "popularity": 0.002464121455483906,
+          "maintenance": 0.02389549099772489
         }
       },
-      "searchScore": 3.601288e-11
+      "searchScore": 3.5811076e-11
     },
     {
       "package": {
@@ -750,14 +747,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1562427642197142,
+        "final": 0.15625281850188266,
         "detail": {
-          "quality": 0.46274455259944375,
-          "popularity": 0.00213667288136741,
-          "maintenance": 0.04763303694686425
+          "quality": 0.4627742611655724,
+          "popularity": 0.0021368965498817687,
+          "maintenance": 0.04763607531357806
         }
       },
-      "searchScore": 2.1270983e-11
+      "searchScore": 2.1146761e-11
     },
     {
       "package": {
@@ -797,14 +794,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.14781640884464298,
+        "final": 0.147825950767456,
         "detail": {
-          "quality": 0.46274455259944375,
-          "popularity": 0.0018004586833868716,
-          "maintenance": 0.02389395007321271
+          "quality": 0.4627742611655724,
+          "popularity": 0.0018007159102302378,
+          "maintenance": 0.02389549099772489
         }
       },
-      "searchScore": 1.0393035e-11
+      "searchScore": 1.0332377e-11
     },
     {
       "package": {
@@ -840,14 +837,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1165030912084834,
+        "final": 0.11651295479873512,
         "detail": {
-          "quality": 0.304262352458474,
-          "popularity": 0.0010439231194360485,
-          "maintenance": 0.07102574965468166
+          "quality": 0.3042896285391754,
+          "popularity": 0.0010442876590965502,
+          "maintenance": 0.07103018730371062
         }
       },
-      "searchScore": 3.708112e-13
+      "searchScore": 3.687496e-13
     },
     {
       "package": {
@@ -877,14 +874,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.11486606846070266,
+        "final": 0.11487555557252437,
         "detail": {
-          "quality": 0.2989416640259525,
-          "popularity": 0.0009273053536523903,
-          "maintenance": 0.07102574965468166
+          "quality": 0.29896766403128994,
+          "popularity": 0.0009276880195390639,
+          "maintenance": 0.07103018730371062
         }
       },
-      "searchScore": 3.0502776e-13
+      "searchScore": 3.033235e-13
     },
     {
       "package": {
@@ -926,36 +923,36 @@
         "unstable": true
       },
       "score": {
-        "final": 0.10586134188161446,
+        "final": 0.10587323658061565,
         "detail": {
-          "quality": 0.2490884238280901,
-          "popularity": 0.01793086386871101,
-          "maintenance": 0.07102574965468166
+          "quality": 0.24912291276142778,
+          "popularity": 0.017930849131110267,
+          "maintenance": 0.07103018730371062
         }
       },
-      "searchScore": 1.4497469e-13
+      "searchScore": 1.442162e-13
     }
   ],
   "downloads": {
-    "vue-awesome-swiper": 7126960,
-    "vue-video-player": 988975,
-    "vuniversal": 1149,
-    "veact-use": 408,
-    "veact": 538,
-    "simple-netease-cloud-music": 1248,
-    "mongodb-data-api": 5021,
-    "@videojs-player/vue": 293024,
-    "wonderful-bing-wallpaper": 1553,
-    "player.ts": 134,
     "vue-quill-editor": 3567217,
-    "vue-drag-zone": 3013,
-    "emoji-233333": 1702,
     "vue-codemirror": 3726894,
-    "vue-stacks-editor": 155,
-    "naivebayes": 848,
-    "@videojs-player/react": 22296,
+    "vue-video-player": 988975,
+    "vue-awesome-swiper": 7126960,
+    "vuniversal": 1149,
+    "mongodb-data-api": 5021,
+    "simple-netease-cloud-music": 1248,
+    "vue-drag-zone": 3013,
     "vue-touch-ripple": 10974,
+    "wonderful-bing-wallpaper": 1553,
+    "veact-use": 408,
+    "naivebayes": 848,
+    "vue-stacks-editor": 155,
+    "emoji-233333": 1702,
+    "veact": 538,
     "@surmon/libundler": 172,
-    "@surmon-china/libundler": 3105
+    "@videojs-player/react": 22296,
+    "player.ts": 134,
+    "@surmon-china/libundler": 3105,
+    "@videojs-player/vue": 293024
   }
 }

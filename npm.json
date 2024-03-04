@@ -2,54 +2,6 @@
   "packages": [
     {
       "package": {
-        "name": "vue-awesome-swiper",
-        "scope": "unscoped",
-        "version": "5.0.1",
-        "description": "Swiper component for Vue",
-        "keywords": [
-          "vue swiper",
-          "vue awesome swiper",
-          "vue carrousel",
-          "carrousel",
-          "swiper"
-        ],
-        "date": "2022-03-19T04:09:09.961Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-awesome-swiper",
-          "homepage": "https://github.surmon.me/vue-awesome-swiper",
-          "repository": "https://github.com/surmon-china/vue-awesome-swiper",
-          "bugs": "https://github.com/surmon-china/vue-awesome-swiper/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "url": "https://github.com/surmon-china"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "insecure": 0
-      },
-      "score": {
-        "final": 0.32716964595714576,
-        "detail": {
-          "quality": 0.6196726884566433,
-          "popularity": 0.3307450766857577,
-          "maintenance": 0.07287732165753587
-        }
-      },
-      "searchScore": 0.000003940073
-    },
-    {
-      "package": {
         "name": "vue-codemirror",
         "scope": "unscoped",
         "version": "6.1.1",
@@ -92,7 +44,7 @@
           "maintenance": 0.20909239742753072
         }
       },
-      "searchScore": 0.0000013525577
+      "searchScore": 0.0000013497719
     },
     {
       "package": {
@@ -139,7 +91,54 @@
           "maintenance": 0.2808071582844776
         }
       },
-      "searchScore": 2.273076e-7
+      "searchScore": 2.2683942e-7
+    },
+    {
+      "package": {
+        "name": "vue-awesome-swiper",
+        "scope": "unscoped",
+        "version": "5.0.1",
+        "description": "Swiper component for Vue",
+        "keywords": [
+          "vue swiper",
+          "vue awesome swiper",
+          "vue carrousel",
+          "carrousel",
+          "swiper"
+        ],
+        "date": "2022-03-19T04:09:09.961Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-awesome-swiper",
+          "homepage": "https://github.surmon.me/vue-awesome-swiper",
+          "repository": "https://github.com/surmon-china/vue-awesome-swiper"
+        },
+        "author": {
+          "name": "Surmon",
+          "url": "https://github.com/surmon-china"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "insecure": 0
+      },
+      "score": {
+        "final": 0.2679378179985344,
+        "detail": {
+          "quality": 0.6196726884566433,
+          "popularity": 0.1615112825182967,
+          "maintenance": 0.07287732165753587
+        }
+      },
+      "searchScore": 1.142107e-7
     },
     {
       "package": {
@@ -190,7 +189,7 @@
           "maintenance": 0.024538106128187392
         }
       },
-      "searchScore": 7.285807e-8
+      "searchScore": 7.2708005e-8
     },
     {
       "package": {
@@ -237,7 +236,7 @@
           "maintenance": 0.244374469785418
         }
       },
-      "searchScore": 5.4309115e-8
+      "searchScore": 5.419726e-8
     },
     {
       "package": {
@@ -282,7 +281,7 @@
           "maintenance": 0.20909239742753072
         }
       },
-      "searchScore": 4.851188e-8
+      "searchScore": 4.841196e-8
     },
     {
       "package": {
@@ -329,7 +328,7 @@
           "maintenance": 0.048902346041066934
         }
       },
-      "searchScore": 5.332577e-9
+      "searchScore": 5.321594e-9
     },
     {
       "package": {
@@ -378,7 +377,7 @@
           "maintenance": 0.024538106128187392
         }
       },
-      "searchScore": 2.1401938e-9
+      "searchScore": 2.1357855e-9
     },
     {
       "package": {
@@ -427,7 +426,7 @@
           "maintenance": 0.024538106128187392
         }
       },
-      "searchScore": 2.0938393e-9
+      "searchScore": 2.0895268e-9
     },
     {
       "package": {
@@ -477,7 +476,7 @@
           "maintenance": 0.024538106128187392
         }
       },
-      "searchScore": 1.5230042e-10
+      "searchScore": 1.5198674e-10
     },
     {
       "package": {
@@ -529,7 +528,7 @@
           "maintenance": 0.024538106128187392
         }
       },
-      "searchScore": 1.1967585e-10
+      "searchScore": 1.1942936e-10
     },
     {
       "package": {
@@ -575,7 +574,7 @@
           "maintenance": 0.11861551912652453
         }
       },
-      "searchScore": 9.17139e-11
+      "searchScore": 9.1525e-11
     },
     {
       "package": {
@@ -623,7 +622,7 @@
           "maintenance": 0.15960370216125364
         }
       },
-      "searchScore": 6.1231346e-11
+      "searchScore": 6.110523e-11
     },
     {
       "package": {
@@ -661,7 +660,7 @@
           "maintenance": 0.024538106128187392
         }
       },
-      "searchScore": 3.8176153e-11
+      "searchScore": 3.809752e-11
     },
     {
       "package": {
@@ -708,7 +707,7 @@
           "maintenance": 0.024538106128187392
         }
       },
-      "searchScore": 1.0898156e-11
+      "searchScore": 1.0875709e-11
     },
     {
       "package": {
@@ -755,7 +754,7 @@
           "maintenance": 0.024538106128187392
         }
       },
-      "searchScore": 1.0857929e-11
+      "searchScore": 1.0835566e-11
     },
     {
       "package": {
@@ -804,7 +803,7 @@
           "maintenance": 0.024538106128187392
         }
       },
-      "searchScore": 3.7435072e-12
+      "searchScore": 3.735797e-12
     },
     {
       "package": {
@@ -847,7 +846,7 @@
           "maintenance": 0.07287732165753587
         }
       },
-      "searchScore": 4.0005404e-13
+      "searchScore": 3.9923007e-13
     },
     {
       "package": {
@@ -884,7 +883,7 @@
           "maintenance": 0.07287732165753587
         }
       },
-      "searchScore": 3.3069302e-13
+      "searchScore": 3.300119e-13
     },
     {
       "package": {
@@ -932,29 +931,29 @@
           "maintenance": 0.07287732165753587
         }
       },
-      "searchScore": 1.5665153e-13
+      "searchScore": 1.5632888e-13
     }
   ],
   "downloads": {
-    "player.ts": 88,
-    "vue-quill-editor": 3423583,
-    "vuniversal": 1129,
+    "mongodb-data-api": 5681,
     "veact-use": 429,
-    "wonderful-bing-wallpaper": 1529,
+    "emoji-233333": 1669,
+    "vue-stacks-editor": 103,
+    "@videojs-player/react": 23474,
+    "vue-codemirror": 3901722,
+    "vue-quill-editor": 3423583,
     "@videojs-player/vue": 364469,
-    "veact": 563,
+    "vue-touch-ripple": 10363,
     "vue-video-player": 962334,
+    "vuniversal": 1129,
+    "wonderful-bing-wallpaper": 1529,
+    "vue-awesome-swiper": 6825650,
     "vue-drag-zone": 3161,
     "naivebayes": 858,
-    "emoji-233333": 1669,
-    "vue-touch-ripple": 10363,
-    "vue-codemirror": 3901722,
-    "vue-awesome-swiper": 6825650,
     "simple-netease-cloud-music": 1306,
-    "mongodb-data-api": 5681,
-    "vue-stacks-editor": 103,
-    "@surmon-china/libundler": 2713,
+    "veact": 563,
+    "player.ts": 88,
     "@surmon/libundler": 124,
-    "@videojs-player/react": 23474
+    "@surmon-china/libundler": 2713
   }
 }

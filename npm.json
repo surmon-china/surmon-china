@@ -37,14 +37,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.3283661196671912,
+        "final": 0.3283472520324929,
         "detail": {
-          "quality": 0.6477868374113813,
-          "popularity": 0.17204877965572762,
-          "maintenance": 0.21089427304077765
+          "quality": 0.6477868859191578,
+          "popularity": 0.17204878550605576,
+          "maintenance": 0.21084031808464587
         }
       },
-      "searchScore": 0.0000013867322
+      "searchScore": 0.0000013762235
     },
     {
       "package": {
@@ -83,14 +83,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.30313754734099274,
+        "final": 0.3031290361581325,
         "detail": {
-          "quality": 0.5947344119398854,
-          "popularity": 0.0746896733483366,
-          "maintenance": 0.28164525167745513
+          "quality": 0.5947350809162635,
+          "popularity": 0.07468967921071767,
+          "maintenance": 0.28162035474143515
         }
       },
-      "searchScore": 2.39338e-7
+      "searchScore": 2.3760316e-7
     },
     {
       "package": {
@@ -130,14 +130,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.2681645857913628,
+        "final": 0.26815282598183077,
         "detail": {
-          "quality": 0.6196558266744607,
-          "popularity": 0.1610579521961042,
-          "maintenance": 0.07399301291539469
+          "quality": 0.6196561562241354,
+          "popularity": 0.16105795229833625,
+          "maintenance": 0.07395913088620708
         }
       },
-      "searchScore": 1.15242415e-7
+      "searchScore": 1.1438867e-7
     },
     {
       "package": {
@@ -157,8 +157,7 @@
         "links": {
           "npm": "https://www.npmjs.com/package/vue-quill-editor",
           "homepage": "https://github.com/surmon-china/vue-quill-editor#readme",
-          "repository": "https://github.com/surmon-china/vue-quill-editor",
-          "bugs": "https://github.com/surmon-china/vue-quill-editor/issues"
+          "repository": "https://github.com/surmon-china/vue-quill-editor"
         },
         "author": {
           "name": "Surmon",
@@ -181,14 +180,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.25782322430764737,
+        "final": 0.25793652060280936,
         "detail": {
-          "quality": 0.6455257336139246,
-          "popularity": 0.15840253694070788,
-          "maintenance": 0.024927475126349213
+          "quality": 0.6455258421845441,
+          "popularity": 0.1587379862319547,
+          "maintenance": 0.024915636475034173
         }
       },
-      "searchScore": 7.2643864e-8
+      "searchScore": 7.272984e-8
     },
     {
       "package": {
@@ -227,14 +226,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.2771703439297834,
+        "final": 0.2771557518813488,
         "detail": {
-          "quality": 0.5954664982707033,
-          "popularity": 0.0357231459214137,
-          "maintenance": 0.24579226678879315
+          "quality": 0.595467155410966,
+          "popularity": 0.03572314641180345,
+          "maintenance": 0.2457500114683652
         }
       },
-      "searchScore": 5.5258067e-8
+      "searchScore": 5.484002e-8
     },
     {
       "package": {
@@ -272,14 +271,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.27544124479328425,
+        "final": 0.2754224053013601,
         "detail": {
-          "quality": 0.6373270576668193,
-          "popularity": 0.029800376939903617,
-          "maintenance": 0.21089427304077765
+          "quality": 0.637327206196852,
+          "popularity": 0.029800377464795524,
+          "maintenance": 0.21084031808464587
         }
       },
-      "searchScore": 4.9896872e-8
+      "searchScore": 4.950939e-8
     },
     {
       "package": {
@@ -319,63 +318,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.2164944857610569,
+        "final": 0.21648638265436845,
         "detail": {
-          "quality": 0.5329041521316715,
-          "popularity": 0.11211191786527722,
-          "maintenance": 0.04966876819630972
+          "quality": 0.5329043172276152,
+          "popularity": 0.11211191796326025,
+          "maintenance": 0.04964547485412238
         }
       },
-      "searchScore": 5.435867e-9
-    },
-    {
-      "package": {
-        "name": "vue-drag-zone",
-        "scope": "unscoped",
-        "version": "2.0.0-rc1",
-        "description": "Drag Zone component for Vue",
-        "keywords": [
-          "vue-drag-zone",
-          "vue drag dom",
-          "vue drag size",
-          "vue drag"
-        ],
-        "date": "2018-04-11T08:07:39.500Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-drag-zone",
-          "homepage": "https://github.com/surmon-china/vue-drag-zone#readme",
-          "repository": "https://github.com/surmon-china/vue-drag-zone",
-          "bugs": "https://github.com/surmon-china/vue-drag-zone/issues"
-        },
-        "author": {
-          "name": "Surmon",
-          "email": "surmon@foxmail.com",
-          "url": "http://surmon.me",
-          "username": "surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "insecure": 0
-      },
-      "score": {
-        "final": 0.21392609833292842,
-        "detail": {
-          "quality": 0.6455257336139246,
-          "popularity": 0.03298217701293942,
-          "maintenance": 0.024927475126349213
-        }
-      },
-      "searchScore": 2.1420576e-9
+      "searchScore": 5.3959712e-9
     },
     {
       "package": {
@@ -417,14 +367,62 @@
         "unstable": true
       },
       "score": {
-        "final": 0.21907533348478933,
+        "final": 0.2190716750422285,
         "detail": {
-          "quality": 0.6994770340475178,
-          "popularity": 0.0014503056466050798,
-          "maintenance": 0.024927475126349213
+          "quality": 0.6994786565205567,
+          "popularity": 0.001450300913712933,
+          "maintenance": 0.024915636475034173
         }
       },
-      "searchScore": 2.1100293e-9
+      "searchScore": 2.0950228e-9
+    },
+    {
+      "package": {
+        "name": "vue-drag-zone",
+        "scope": "unscoped",
+        "version": "2.0.0-rc1",
+        "description": "Drag Zone component for Vue",
+        "keywords": [
+          "vue-drag-zone",
+          "vue drag dom",
+          "vue drag size",
+          "vue drag"
+        ],
+        "date": "2018-04-11T08:07:39.500Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-drag-zone",
+          "homepage": "https://github.com/surmon-china/vue-drag-zone#readme",
+          "repository": "https://github.com/surmon-china/vue-drag-zone"
+        },
+        "author": {
+          "name": "Surmon",
+          "email": "surmon@foxmail.com",
+          "url": "http://surmon.me",
+          "username": "surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "insecure": 0
+      },
+      "score": {
+        "final": 0.21361458539219413,
+        "detail": {
+          "quality": 0.6455258421845441,
+          "popularity": 0.03210388563019706,
+          "maintenance": 0.024915636475034173
+        }
+      },
+      "searchScore": 2.067573e-9
     },
     {
       "package": {
@@ -467,14 +465,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1760212150000924,
+        "final": 0.17601765810378273,
         "detail": {
-          "quality": 0.5263243818917678,
-          "popularity": 0.026855097538113833,
-          "maintenance": 0.024927475126349213
+          "quality": 0.5263263077531255,
+          "popularity": 0.026855122890237497,
+          "maintenance": 0.024915636475034173
         }
       },
-      "searchScore": 1.5246698e-10
+      "searchScore": 1.5137695e-10
     },
     {
       "package": {
@@ -519,14 +517,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.17349136110187258,
+        "final": 0.17348779541472464,
         "detail": {
-          "quality": 0.5263243818917678,
-          "popularity": 0.01962694354320004,
-          "maintenance": 0.024927475126349213
+          "quality": 0.5263263077531255,
+          "popularity": 0.01962694377864301,
+          "maintenance": 0.024915636475034173
         }
       },
-      "searchScore": 1.1463254e-10
+      "searchScore": 1.1381228e-10
     },
     {
       "package": {
@@ -564,14 +562,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1722437311680426,
+        "final": 0.17222502234950418,
         "detail": {
-          "quality": 0.40794279085126967,
-          "popularity": 0.02218271278748401,
-          "maintenance": 0.12027698410583515
+          "quality": 0.4079391239468103,
+          "popularity": 0.0221827140834153,
+          "maintenance": 0.12022667210361637
         }
       },
-      "searchScore": 9.4050344e-11
+      "searchScore": 9.3272376e-11
     },
     {
       "package": {
@@ -612,14 +610,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.16855151572512794,
+        "final": 0.16853126999369505,
         "detail": {
           "quality": 0.3499999999999998,
-          "popularity": 0.020053481924950115,
-          "maintenance": 0.1615222772897014
+          "popularity": 0.02005348243343255,
+          "maintenance": 0.16146443183426773
         }
       },
-      "searchScore": 6.4360337e-11
+      "searchScore": 6.381832e-11
     },
     {
       "package": {
@@ -650,14 +648,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.16252095701467975,
+        "final": 0.16251742918281706,
         "detail": {
-          "quality": 0.5094421852922068,
-          "popularity": 0.002753386093701474,
-          "maintenance": 0.024927475126349213
+          "quality": 0.5094442408591329,
+          "popularity": 0.0027533833109007677,
+          "maintenance": 0.024915636475034173
         }
       },
-      "searchScore": 3.7986617e-11
+      "searchScore": 3.7714092e-11
     },
     {
       "package": {
@@ -697,14 +695,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.14837372417496145,
+        "final": 0.1483699407491981,
         "detail": {
-          "quality": 0.4629845023018519,
-          "popularity": 0.00215359197195335,
-          "maintenance": 0.024927475126349213
+          "quality": 0.46298570668395467,
+          "popularity": 0.0021535885078564584,
+          "maintenance": 0.024915636475034173
         }
       },
-      "searchScore": 1.1006746e-11
+      "searchScore": 1.0927238e-11
     },
     {
       "package": {
@@ -744,14 +742,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.14834663382346852,
+        "final": 0.14834285035917225,
         "detail": {
-          "quality": 0.4629845023018519,
-          "popularity": 0.0020761909676878143,
-          "maintenance": 0.024927475126349213
+          "quality": 0.46298570668395467,
+          "popularity": 0.0020761873934968867,
+          "maintenance": 0.024915636475034173
         }
       },
-      "searchScore": 1.09664005e-11
+      "searchScore": 1.08871835e-11
     },
     {
       "package": {
@@ -790,14 +788,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1367613478560193,
+        "final": 0.13675769474637295,
         "detail": {
-          "quality": 0.42294965354654074,
-          "popularity": 0.003290958565242422,
-          "maintenance": 0.024927475126349213
+          "quality": 0.4229512910225307,
+          "popularity": 0.0032909562095765096,
+          "maintenance": 0.024915636475034173
         }
       },
-      "searchScore": 3.7314713e-12
+      "searchScore": 3.704464e-12
     },
     {
       "package": {
@@ -833,14 +831,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.11754476378449574,
+        "final": 0.11753323694497611,
         "detail": {
-          "quality": 0.30448337298727446,
-          "popularity": 0.0008634210512150368,
-          "maintenance": 0.07399301291539469
+          "quality": 0.3044844865067863,
+          "popularity": 0.0008634148079078838,
+          "maintenance": 0.07395913088620708
         }
       },
-      "searchScore": 4.1566015e-13
+      "searchScore": 4.1226956e-13
     },
     {
       "package": {
@@ -870,14 +868,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.11594545668284334,
+        "final": 0.11593391423092236,
         "detail": {
-          "quality": 0.2991523493150998,
-          "popularity": 0.0008634210512150368,
-          "maintenance": 0.07399301291539469
+          "quality": 0.2991534107932738,
+          "popularity": 0.0008634148079078838,
+          "maintenance": 0.07395913088620708
         }
       },
-      "searchScore": 3.4480573e-13
+      "searchScore": 3.4198645e-13
     },
     {
       "package": {
@@ -918,36 +916,36 @@
         "unstable": true
       },
       "score": {
-        "final": 0.10688916946838674,
+        "final": 0.10687772971734016,
         "detail": {
-          "quality": 0.2493671144859088,
-          "popularity": 0.017661373149217043,
-          "maintenance": 0.07399301291539469
+          "quality": 0.24936851407426253,
+          "popularity": 0.017661370528254117,
+          "maintenance": 0.07395913088620708
         }
       },
-      "searchScore": 1.6322195e-13
+      "searchScore": 1.6187762e-13
     }
   ],
   "downloads": {
-    "vuniversal": 1125,
-    "vue-video-player": 963769,
+    "vue-awesome-swiper": 6804411,
+    "wonderful-bing-wallpaper": 1528,
     "vue-touch-ripple": 10233,
-    "@surmon-china/libundler": 2707,
-    "veact-use": 430,
-    "naivebayes": 883,
-    "emoji-233333": 1660,
+    "player.ts": 88,
     "mongodb-data-api": 5766,
+    "simple-netease-cloud-music": 1300,
+    "veact-use": 430,
     "veact": 566,
-    "vue-quill-editor": 3421363,
-    "vue-drag-zone": 3167,
+    "vuniversal": 1125,
+    "@surmon-china/libundler": 2707,
+    "vue-stacks-editor": 101,
     "@videojs-player/vue": 376284,
     "@videojs-player/react": 23670,
-    "simple-netease-cloud-music": 1300,
-    "wonderful-bing-wallpaper": 1528,
-    "vue-codemirror": 3950625,
-    "player.ts": 88,
-    "vue-stacks-editor": 101,
+    "vue-quill-editor": 3421363,
+    "emoji-233333": 1660,
+    "vue-drag-zone": 3167,
+    "vue-video-player": 963769,
+    "naivebayes": 883,
     "@surmon/libundler": 123,
-    "vue-awesome-swiper": 6804411
+    "vue-codemirror": 3950625
   }
 }

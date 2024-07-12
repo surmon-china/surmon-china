@@ -44,7 +44,7 @@
           "maintenance": 0.09713416335871951
         }
       },
-      "searchScore": 2.7898344e-7
+      "searchScore": 2.76537e-7
     },
     {
       "package": {
@@ -90,7 +90,7 @@
           "maintenance": 0.26599191468984734
         }
       },
-      "searchScore": 2.0591182e-7
+      "searchScore": 2.0410617e-7
     },
     {
       "package": {
@@ -136,7 +136,7 @@
           "maintenance": 0.22104599387351143
         }
       },
-      "searchScore": 4.0245656e-8
+      "searchScore": 3.9892743e-8
     },
     {
       "package": {
@@ -184,7 +184,7 @@
           "maintenance": 0.019740336641160497
         }
       },
-      "searchScore": 3.588178e-8
+      "searchScore": 3.556713e-8
     },
     {
       "package": {
@@ -234,7 +234,7 @@
           "maintenance": 0.019740336641160497
         }
       },
-      "searchScore": 1.8755097e-8
+      "searchScore": 1.8590633e-8
     },
     {
       "package": {
@@ -281,7 +281,7 @@
           "maintenance": 0.03941347535035097
         }
       },
-      "searchScore": 4.727796e-9
+      "searchScore": 4.6863375e-9
     },
     {
       "package": {
@@ -326,7 +326,7 @@
           "maintenance": 0.05893791606556806
         }
       },
-      "searchScore": 3.9734536e-9
+      "searchScore": 3.9386103e-9
     },
     {
       "package": {
@@ -374,7 +374,7 @@
           "maintenance": 0.019740336641160497
         }
       },
-      "searchScore": 1.6620232e-9
+      "searchScore": 1.6474488e-9
     },
     {
       "package": {
@@ -422,7 +422,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 8.4057417e-10
+      "searchScore": 8.332031e-10
     },
     {
       "package": {
@@ -471,7 +471,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 8.710645e-11
+      "searchScore": 8.634261e-11
     },
     {
       "package": {
@@ -523,7 +523,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 7.528413e-11
+      "searchScore": 7.462396e-11
     },
     {
       "package": {
@@ -570,7 +570,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 7.088095e-11
+      "searchScore": 7.025939e-11
     },
     {
       "package": {
@@ -617,7 +617,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 7.040177e-11
+      "searchScore": 6.9784414e-11
     },
     {
       "package": {
@@ -648,14 +648,60 @@
         "unstable": true
       },
       "score": {
-        "final": 0.16168332099814128,
+        "final": 0.15847964120102775,
         "detail": {
-          "quality": 0.510361405793932,
-          "popularity": 0.004759375530158606,
-          "maintenance": 0.019740336641160497
+          "quality": 0.5233805707062191,
+          "popularity": 0.004187057111891518,
+          "maintenance": 0
         }
       },
-      "searchScore": 3.7471044e-11
+      "searchScore": 2.9017268e-11
+    },
+    {
+      "package": {
+        "name": "emoji-233333",
+        "scope": "unscoped",
+        "version": "0.3.2",
+        "description": "233333",
+        "keywords": [
+          "emoji canvas",
+          "emoji rain",
+          "233333",
+          "emoji",
+          "表情雨"
+        ],
+        "date": "2020-10-17T14:40:46.264Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/emoji-233333"
+        },
+        "author": {
+          "name": "Surmon",
+          "url": "https://github.com/surmon-china"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon@foxmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon@foxmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "insecure": 0,
+        "unstable": true
+      },
+      "score": {
+        "final": 0.15797720363686285,
+        "detail": {
+          "quality": 0.5234117979063,
+          "popularity": 0.0027247550427796654,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 2.7219157e-11
     },
     {
       "package": {
@@ -700,7 +746,7 @@
           "maintenance": 0.07821591596739741
         }
       },
-      "searchScore": 2.0482503e-11
+      "searchScore": 2.0302891e-11
     },
     {
       "package": {
@@ -737,7 +783,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 6.861223e-12
+      "searchScore": 6.8010567e-12
     },
     {
       "package": {
@@ -786,7 +832,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 5.0825975e-12
+      "searchScore": 5.0380277e-12
     },
     {
       "package": {
@@ -834,53 +880,7 @@
           "maintenance": 0.05893791606556806
         }
       },
-      "searchScore": 2.379558e-12
-    },
-    {
-      "package": {
-        "name": "emoji-233333",
-        "scope": "unscoped",
-        "version": "0.3.2",
-        "description": "233333",
-        "keywords": [
-          "emoji canvas",
-          "emoji rain",
-          "233333",
-          "emoji",
-          "表情雨"
-        ],
-        "date": "2020-10-17T14:40:46.264Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/emoji-233333"
-        },
-        "author": {
-          "name": "Surmon",
-          "url": "https://github.com/surmon-china"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon@foxmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon@foxmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "insecure": 0,
-        "unstable": true
-      },
-      "score": {
-        "final": 0.1280885800186647,
-        "detail": {
-          "quality": 0.4238341655370912,
-          "popularity": 0.002680943878678113,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 1.6321004e-12
+      "searchScore": 2.3586914e-12
     },
     {
       "package": {
@@ -923,29 +923,29 @@
           "maintenance": 0.05893791606556806
         }
       },
-      "searchScore": 2.4352737e-13
+      "searchScore": 2.4139187e-13
     }
   ],
   "downloads": {
-    "vue-video-player": 953928,
-    "wonderful-bing-wallpaper": 1312,
-    "simple-netease-cloud-music": 1150,
-    "vue-quill-editor": 3300060,
     "veact-use": 384,
-    "vue-awesome-swiper": 6521694,
     "vue-stacks-editor": 88,
-    "mongodb-data-api": 7775,
-    "veact": 513,
-    "@videojs-player/vue": 506161,
-    "@surmon-china/libundler": 2528,
-    "emoji-233333": 1471,
     "naivebayes": 981,
-    "vue-drag-zone": 3291,
-    "vue-codemirror": 4355353,
+    "@surmon-china/libundler": 2528,
     "@videojs-player/react": 25263,
+    "vue-codemirror": 4355353,
+    "vue-drag-zone": 3291,
     "vuniversal": 1015,
     "vue-touch-ripple": 11390,
+    "mongodb-data-api": 7775,
+    "vue-video-player": 953928,
+    "vue-awesome-swiper": 6521694,
+    "emoji-233333": 1471,
+    "veact": 513,
+    "wonderful-bing-wallpaper": 1312,
+    "@videojs-player/vue": 506161,
+    "vue-quill-editor": 3300060,
     "@surmon/libundler": 107,
+    "simple-netease-cloud-music": 1150,
     "@fox-finder/base": 129
   }
 }

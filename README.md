@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/surmon"><img
     alt="LinkedIn"
     height="22px"
-    src="https://img.shields.io/badge/LI-0a66c2?style=for-the-badge&logo=linkedin&logoWidth=16"
+    src="https://img.shields.io/badge/LI-0A66C2?style=for-the-badge&logo=linkedin&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
   <a href="https://leetcode.com/Surmon"><img
@@ -69,28 +69,28 @@
     src="https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://twitter.com/surmon7788"><img
+  <a href="https://x.com/surmon7788"><img
     alt="Twitter"
     height="22px"
-    src="https://img.shields.io/badge/TW-1b95e0?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=16"
+    src="https://img.shields.io/badge/TW-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
   <a href="https://www.youtube.com/@surmon_v"><img
     alt="YouTube"
     height="22px"
-    src="https://img.shields.io/badge/YT-ec3323?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=16"
+    src="https://img.shields.io/badge/YT-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=16"
   /></a>
   <span>&nbsp;</span>
   <a href="https://t.me/surmon"><img
     alt="Telegram"
     height="22px"
-    src="https://img.shields.io/badge/TG-2CA5E0?style=for-the-badge&logo=telegram"
+    src="https://img.shields.io/badge/TG-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
   /></a>
   <span>&nbsp;</span>
   <a href="https://redirect.surmon.me/discord-server"><img
     alt="Discord"
     height="22px"
-    src="https://img.shields.io/badge/DC-5865f2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12"
+    src="https://img.shields.io/badge/DC-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12"
   /></a>
 </p>
 

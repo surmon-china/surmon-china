@@ -8,6 +8,7 @@ on:
     # https://crontab.guru/
     # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
     - cron: '30 0/3 * * *'
+  workflow_dispatch:
 
 jobs:
   generate:

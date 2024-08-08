@@ -2,52 +2,6 @@
   "packages": [
     {
       "package": {
-        "name": "@videojs-player/vue",
-        "scope": "videojs-player",
-        "version": "1.0.0",
-        "description": "Video.js component for Vue",
-        "keywords": [
-          "vue-video-player",
-          "vue video player",
-          "video player",
-          "vue player",
-          "vue video"
-        ],
-        "date": "2022-08-14T16:14:41.126Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/%40videojs-player%2Fvue",
-          "homepage": "https://github.surmon.me/videojs-player",
-          "repository": "https://github.com/surmon-china/videojs-player"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "insecure": 0
-      },
-      "score": {
-        "final": 0.29049573488640074,
-        "detail": {
-          "quality": 0.5951456999113499,
-          "popularity": 0.0769835848112685,
-          "maintenance": 0.24287934351157656
-        }
-      },
-      "searchScore": 1.4657533e-7
-    },
-    {
-      "package": {
         "name": "vue-codemirror",
         "scope": "unscoped",
         "version": "6.1.1",
@@ -90,7 +44,7 @@
           "maintenance": 0.047292062601103475
         }
       },
-      "searchScore": 1.2461764e-7
+      "searchScore": 1.2309827e-7
     },
     {
       "package": {
@@ -140,7 +94,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 5.416705e-8
+      "searchScore": 5.3506625e-8
     },
     {
       "package": {
@@ -187,24 +141,24 @@
           "maintenance": 0.015798962569658855
         }
       },
-      "searchScore": 3.2401914e-8
+      "searchScore": 3.200686e-8
     },
     {
       "package": {
-        "name": "@videojs-player/react",
+        "name": "@videojs-player/vue",
         "scope": "videojs-player",
         "version": "1.0.0",
-        "description": "Video.js component for React",
+        "description": "Video.js component for Vue",
         "keywords": [
-          "react-video-player",
-          "react video player",
+          "vue-video-player",
+          "vue video player",
           "video player",
-          "react player",
-          "react video"
+          "vue player",
+          "vue video"
         ],
-        "date": "2022-08-14T16:20:24.497Z",
+        "date": "2022-08-14T16:14:41.126Z",
         "links": {
-          "npm": "https://www.npmjs.com/package/%40videojs-player%2Freact",
+          "npm": "https://www.npmjs.com/package/%40videojs-player%2Fvue",
           "homepage": "https://github.surmon.me/videojs-player",
           "repository": "https://github.com/surmon-china/videojs-player"
         },
@@ -226,14 +180,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.25844324147178344,
+        "final": 0.22243300500385232,
         "detail": {
-          "quality": 0.5958681305361608,
-          "popularity": 0.03655082878558943,
-          "maintenance": 0.1911143206742255
+          "quality": 0.5951456999113499,
+          "popularity": 0.07810592320017473,
+          "maintenance": 0.047292062601103475
         }
       },
-      "searchScore": 2.3407253e-8
+      "searchScore": 5.5324985e-9
     },
     {
       "package": {
@@ -273,14 +227,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.2102946693589662,
+        "final": 0.20987837900956607,
         "detail": {
           "quality": 0.5330391704128856,
-          "popularity": 0.11237835710754793,
+          "popularity": 0.11118895610926184,
           "maintenance": 0.03157283784988214
         }
       },
-      "searchScore": 3.9528434e-9
+      "searchScore": 3.764342e-9
     },
     {
       "package": {
@@ -325,7 +279,53 @@
           "maintenance": 0.047292062601103475
         }
       },
-      "searchScore": 3.4256926e-9
+      "searchScore": 3.3839254e-9
+    },
+    {
+      "package": {
+        "name": "@videojs-player/react",
+        "scope": "videojs-player",
+        "version": "1.0.0",
+        "description": "Video.js component for React",
+        "keywords": [
+          "react-video-player",
+          "react video player",
+          "video player",
+          "react player",
+          "react video"
+        ],
+        "date": "2022-08-14T16:20:24.497Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/%40videojs-player%2Freact",
+          "homepage": "https://github.surmon.me/videojs-player",
+          "repository": "https://github.com/surmon-china/videojs-player"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "insecure": 0
+      },
+      "score": {
+        "final": 0.20814495655489743,
+        "detail": {
+          "quality": 0.5958681305361608,
+          "popularity": 0.03666370138189416,
+          "maintenance": 0.047292062601103475
+        }
+      },
+      "searchScore": 1.5260289e-9
     },
     {
       "package": {
@@ -373,7 +373,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 1.1723597e-9
+      "searchScore": 1.1580659e-9
     },
     {
       "package": {
@@ -421,7 +421,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 9.02047e-10
+      "searchScore": 8.9104896e-10
     },
     {
       "package": {
@@ -466,7 +466,7 @@
           "maintenance": 0.06292170960324228
         }
       },
-      "searchScore": 7.5337936e-10
+      "searchScore": 7.4419393e-10
     },
     {
       "package": {
@@ -515,7 +515,7 @@
           "maintenance": 0.047292062601103475
         }
       },
-      "searchScore": 2.9955416e-10
+      "searchScore": 2.959019e-10
     },
     {
       "package": {
@@ -564,7 +564,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 8.758336e-11
+      "searchScore": 8.651551e-11
     },
     {
       "package": {
@@ -616,7 +616,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 7.61813e-11
+      "searchScore": 7.5252464e-11
     },
     {
       "package": {
@@ -663,7 +663,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 7.435912e-11
+      "searchScore": 7.345251e-11
     },
     {
       "package": {
@@ -710,7 +710,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 7.351477e-11
+      "searchScore": 7.261845e-11
     },
     {
       "package": {
@@ -748,7 +748,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 3.2177358e-11
+      "searchScore": 3.178504e-11
     },
     {
       "package": {
@@ -794,7 +794,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 2.9549918e-11
+      "searchScore": 2.9189637e-11
     },
     {
       "package": {
@@ -831,7 +831,7 @@
           "maintenance": 0
         }
       },
-      "searchScore": 6.9205635e-12
+      "searchScore": 6.8361857e-12
     },
     {
       "package": {
@@ -880,22 +880,16 @@
           "maintenance": 0
         }
       },
-      "searchScore": 5.1460216e-12
+      "searchScore": 5.0832797e-12
     },
     {
       "package": {
-        "name": "vue-stacks-editor",
+        "name": "player.ts",
         "scope": "unscoped",
         "version": "0.0.1",
-        "description": "Stacks editor for Vue.",
-        "keywords": [
-          "vue markdown editor",
-          "StackOverflow editor",
-          "StackOverflow markdown editor"
-        ],
-        "date": "2022-07-20T14:57:21.450Z",
+        "date": "2022-07-31T20:28:43.940Z",
         "links": {
-          "npm": "https://www.npmjs.com/package/vue-stacks-editor"
+          "npm": "https://www.npmjs.com/package/player.ts"
         },
         "author": {
           "name": "Surmon"
@@ -916,36 +910,36 @@
         "unstable": true
       },
       "score": {
-        "final": 0.10878091689149057,
+        "final": 0.10721191835581345,
         "detail": {
-          "quality": 0.3054089135443472,
-          "popularity": 0.0017314883365720042,
+          "quality": 0.3000347335929263,
+          "popularity": 0.0018550753358552536,
           "maintenance": 0.047292062601103475
         }
       },
-      "searchScore": 1.5964914e-13
+      "searchScore": 1.2982696e-13
     }
   ],
   "downloads": {
-    "vue-touch-ripple": 12489,
-    "vue-quill-editor": 3288098,
-    "vue-codemirror": 4440368,
-    "simple-netease-cloud-music": 1149,
-    "naivebayes": 1073,
-    "emoji-233333": 1497,
     "vue-drag-zone": 3174,
-    "mongodb-data-api": 8110,
-    "vue-awesome-swiper": 6457578,
+    "simple-netease-cloud-music": 1149,
+    "emoji-233333": 1497,
     "vuniversal": 1029,
+    "vue-touch-ripple": 12489,
+    "naivebayes": 1073,
     "wonderful-bing-wallpaper": 1347,
-    "@videojs-player/vue": 540818,
-    "vue-stacks-editor": 88,
-    "veact": 518,
-    "vue-video-player": 961683,
-    "@surmon/libundler": 115,
     "@fox-finder/base": 126,
+    "vue-codemirror": 4440368,
+    "vue-quill-editor": 3288098,
+    "vue-video-player": 961683,
+    "veact": 518,
+    "vue-awesome-swiper": 6457578,
+    "mongodb-data-api": 8110,
+    "player.ts": 71,
+    "@videojs-player/vue": 540818,
     "@videojs-player/react": 24537,
-    "@surmon-china/libundler": 2640,
-    "veact-use": 386
+    "@surmon/libundler": 115,
+    "veact-use": 386,
+    "@surmon-china/libundler": 2640
   }
 }

@@ -35,11 +35,13 @@
 <h4 align="center">
   <a href="#"><img
     alt="total GitHub stars"
+    height="29px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/total-github-stars.svg"
   /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.npmjs.com/~surmon"><img
     alt="total NPM downloads"
+    height="29px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/total-npm-downloads.svg"
   /></a>
 </h4>

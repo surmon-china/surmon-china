@@ -26,7 +26,7 @@ const getLanguageIconSvg = (name) => {
 
 const defaultOptions = {
   width: 846,
-  height: 184,
+  height: 188,
   radius: 2,
   languages: [],
   title: '',

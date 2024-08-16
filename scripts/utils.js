@@ -19,3 +19,7 @@ export const writeFileToOutput = (fileName, fileData) => {
 export const writeJSONToOutput = (fileName, jsonData) => {
   return writeFileToOutput(fileName, jsonStringify(jsonData))
 }
+
+export const consoleObject = (title, object) => {
+  return console.log(title, JSON.stringify(object, null, 2))
+}

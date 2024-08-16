@@ -1,61 +1,25 @@
 import { CONFIG, GITHUB_ACCESS_TOKEN } from './constants.js'
+import { consoleObject } from './utils.js'
 import {
-  fetchNPMPackages,
-  fetchNPMPackageDownloads,
   fetchGitHubUserinfo,
   fetchGitHubRepositories,
   fetchGitHubOrganizations,
-  fetchGitHubRepositoryLanguages
-} from './fetchers.js'
+  fetchGitHubGraphqlPrivateData
+} from './apis.js'
 
-// NPM
-export const getNPMAggregate = async () => {
-  // packages
-  const packages = await fetchNPMPackages(CONFIG.NPM_UID)
-  // packages downloads map
-  const packageDownloadsMap = new Map()
-  await Promise.all(
-    packages.map(async (item) => {
-      const packageName = item.package.name
-      const downloadsResult = await fetchNPMPackageDownloads(packageName)
-      const downloads = downloadsResult?.downloads || 0
-      packageDownloadsMap.set(packageName, downloads)
-    })
-  )
-
-  const packageCount = packageDownloadsMap.size
-  const packageDownloadsTotal = Array.from(packageDownloadsMap.values()).reduce((total, current) => total + current, 0)
-  const counts = {
-    packages: packageCount,
-    downloads: packageDownloadsTotal
-  }
-  console.group(`[NPM]`)
-  console.log('counts:', JSON.stringify(counts, null, 2))
-  console.log(`map:`, packageDownloadsMap)
-  console.groupEnd()
-
-  return {
-    packages,
-    packageCount,
-    packageDownloadsMap,
-    packageDownloadsTotal
-  }
-}
-
-// GitHub
 export const getGitHubAggregate = async () => {
-  const [userinfo, repositories, organizations, repoLanguages] = await Promise.all([
+  const [userinfo, repositories, organizations, graphqlPrivateData] = await Promise.all([
     fetchGitHubUserinfo(CONFIG.GITHUB_UID),
     fetchGitHubRepositories(CONFIG.GITHUB_UID),
     fetchGitHubOrganizations(CONFIG.GITHUB_UID),
-    fetchGitHubRepositoryLanguages(CONFIG.GITHUB_UID, GITHUB_ACCESS_TOKEN)
+    fetchGitHubGraphqlPrivateData(CONFIG.GITHUB_UID, GITHUB_ACCESS_TOKEN)
   ])
-  const counts = {
+
+  console.group(`[GitHub]`)
+  consoleObject('counts:', {
     repositories: repositories.length,
     organizations: organizations.length
-  }
-  console.group(`[GitHub]`)
-  console.log('counts:', JSON.stringify(counts, null, 2))
+  })
 
   // statistics
   const statistics = {
@@ -85,7 +49,7 @@ export const getGitHubAggregate = async () => {
   // languages statistics
   let totalSize = 0
   const languageStats = {}
-  repoLanguages.forEach((repo) => {
+  graphqlPrivateData.repositories.nodes.forEach((repo) => {
     repo.languages.edges.forEach((edge) => {
       const langSize = edge.size
       const langName = edge.node.name
@@ -111,13 +75,44 @@ export const getGitHubAggregate = async () => {
   // sort languages by size
   statistics.languages.sort((a, b) => b.size - a.size)
 
-  console.log(`statistics:`, statistics)
+  // sponsors
+  const pastSponsors = []
+  const currentSponsors = graphqlPrivateData.sponsors.edges.map((edge) => edge.node) || []
+  const currentSponsorsLogins = currentSponsors.map((item) => item.login)
+  // 1. order by TIMESTAMP/DESC
+  // 2. filter out current sponsors
+  // 3. the latest user to cancel is at the head of the array
+  // 4. no cancellation events for one-time sponsor
+  graphqlPrivateData.sponsorsActivities.nodes.forEach((node) => {
+    // Recently, GitHub returned the Ghost user as null
+    if (node && node.sponsor.login !== 'ghost') {
+      if (node.action === 'CANCELLED_SPONSORSHIP' || node.sponsorsTier.isOneTime) {
+        if (!currentSponsorsLogins.includes(node.sponsor.login)) {
+          pastSponsors.push(node.sponsor)
+        }
+      }
+    }
+  })
+
+  consoleObject('sponsors:', {
+    currentSponsors: currentSponsors.length,
+    pastSponsors: pastSponsors.length
+  })
+
+  consoleObject('statistics:', {
+    ...statistics,
+    languages: statistics.languages.length,
+    topics: Object.keys(statistics.topics).length
+  })
+
   console.groupEnd()
 
   return {
     userinfo,
+    statistics,
     repositories,
     organizations,
-    statistics
+    currentSponsors,
+    pastSponsors
   }
 }

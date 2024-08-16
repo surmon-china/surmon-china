@@ -86,6 +86,7 @@ export const renderGitHubTopLanguages = (options = {}) => {
       --gap: 24px;
       --progress-size: 14px;
       padding: var(--gap);
+      padding-bottom: 28px;
       border: 1px solid;
       border-radius: ${opts.radius}px;
       color: ${opts.color};

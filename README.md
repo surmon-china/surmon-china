@@ -35,12 +35,12 @@
 <h4 align="center">
   <a href="#"><img
     alt="total GitHub stars"
-    src="https://img.shields.io/endpoint?color=22272e&labelColor=2d333b&logo=github&style=for-the-badge&url=https://raw.githubusercontent.com/surmon-china/surmon-china/release/shields.github.stars.json"
+    src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/total-github-stars.svg"
   /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://www.npmjs.com/~surmon"><img
     alt="total NPM downloads"
-    src="https://img.shields.io/endpoint?color=231f20&labelColor=bb161b&logo=npm&style=for-the-badge&url=https://raw.githubusercontent.com/surmon-china/surmon-china/release/shields.npm.downloads.json"
+    src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/total-npm-downloads.svg"
   /></a>
 </h4>
 

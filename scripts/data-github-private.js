@@ -2,6 +2,8 @@ import { CONFIG, GITHUB_ACCESS_TOKEN } from './constants.js'
 import { consoleObject } from './utils.js'
 import { fetchGitHubGraphql } from './apis.js'
 
+// https://docs.github.com/en/graphql/reference/objects#sponsorsactivity
+// https://docs.github.com/en/graphql/reference/enums#sponsorsactivityaction
 const SPONSOR_NODE_QUERY = `
   ... on User {
     login

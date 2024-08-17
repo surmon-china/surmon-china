@@ -1,7 +1,8 @@
 import * as simpleIcons from 'simple-icons'
 import { thousands, writeJSONToOutput, writeFileToOutput } from './utils.js'
-import { getNpmAggregate } from './data-npm.js'
-import { getGitHubAggregate } from './data-github.js'
+import { getNpmPublicData } from './data-npm.js'
+import { getGitHubPublicData } from './data-github.js'
+import { getGitHubPrivateData } from './data-github-private.js'
 import { renderSolidBadge } from './svgs/solid-badge.js'
 import { renderSegmentBadge } from './svgs/segment-badge.js'
 import { renderGitHubTopLanguages } from './svgs/github-top-languages.js'
@@ -12,24 +13,28 @@ try {
   console.log()
 
   // Data
-  const npmData = await getNpmAggregate()
-  const githubData = await getGitHubAggregate()
-
-  // GitHub JSON
-  writeJSONToOutput('github.json', { ...githubData })
+  const npmPublicData = await getNpmPublicData()
+  const githubPublicData = await getGitHubPublicData()
+  const githubPrivateData = await getGitHubPrivateData()
 
   // NPM JSON
   writeJSONToOutput('npm.json', {
-    packages: npmData.packages,
-    downloads: Object.fromEntries(npmData.packageDownloadsMap)
+    packages: npmPublicData.packages,
+    downloads: Object.fromEntries(npmPublicData.packageDownloadsMap)
   })
+
+  // GitHub JSON
+  writeJSONToOutput('github.json', { ...githubPublicData })
+  writeJSONToOutput('github.languages.json', githubPrivateData.languages)
+  writeJSONToOutput('github.sponsors.json', githubPrivateData.sponsors)
+  writeJSONToOutput('github.contributions.json', githubPrivateData.contributions)
 
   // GitHub Top Languages - light
   writeFileToOutput(
     'github-top-languages-light.svg',
     await renderGitHubTopLanguages({
       title: `GitHub Top Languages`,
-      languages: githubData.statistics.languages,
+      languages: githubPrivateData.languages,
       color: '#27292a',
       borderColor: '#d0d7de',
       backgroundColor: '#fff',
@@ -42,7 +47,7 @@ try {
     'github-top-languages-dark.svg',
     await renderGitHubTopLanguages({
       title: `GitHub Top Languages`,
-      languages: githubData.statistics.languages,
+      languages: githubPrivateData.languages,
       color: '#e6edf3',
       borderColor: '#30363d',
       backgroundColor: 'transparent',
@@ -56,10 +61,10 @@ try {
     await renderSegmentBadge({
       width: 260,
       height: 30,
-      title: `Total GitHub Stars: ${githubData.statistics.stars}`,
+      title: `Total GitHub Stars: ${githubPublicData.statistics.stars}`,
       icon: simpleIcons.siGithub.svg,
       label: 'Total GitHub Stars',
-      value: thousands(githubData.statistics.stars),
+      value: thousands(githubPublicData.statistics.stars),
       labelBackground: '#2d333b',
       valueBackground: '#22272e'
     })
@@ -71,10 +76,10 @@ try {
     await renderSegmentBadge({
       width: 308,
       height: 30,
-      title: `Total NPM Downloads: ${npmData.packageDownloadsTotal}`,
+      title: `Total NPM Downloads: ${npmPublicData.packageDownloadsTotal}`,
       icon: simpleIcons.siNpm.svg,
       label: 'Total NPM Downloads',
-      value: thousands(npmData.packageDownloadsTotal),
+      value: thousands(npmPublicData.packageDownloadsTotal),
       labelBackground: '#bb161b',
       valueBackground: '#231f20'
     })

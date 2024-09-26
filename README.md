@@ -69,10 +69,10 @@
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-instagram.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://x.com/surmon7788"><img
-    alt="Twitter"
+  <a href="https://www.threads.net/@surmon666"><img
+    alt="threads"
     height="24px"
-    src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-twitter.svg"
+    src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-threads.svg"
   /></a>
   <span>&nbsp;</span>
   <a href="https://www.youtube.com/@surmon_v"><img

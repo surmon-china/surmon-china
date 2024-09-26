@@ -138,6 +138,17 @@ try {
   )
 
   writeFileToOutput(
+    'badge-threads.svg',
+    await renderSolidBadge({
+      title: `Threads`,
+      background: '#000000',
+      icon: simpleIcons.siThreads.svg,
+      iconSize: 13,
+      label: 'TH'
+    })
+  )
+
+  writeFileToOutput(
     'badge-twitter.svg',
     await renderSolidBadge({
       title: `Twitter`,

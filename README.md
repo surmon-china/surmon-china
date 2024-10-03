@@ -63,13 +63,13 @@
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-leetcode.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://www.instagram.com/surmon666"><img
+  <a href="https://www.instagram.com/surmon_sattva"><img
     alt="Instagram"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-instagram.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://www.threads.net/@surmon666"><img
+  <a href="https://www.threads.net/@surmon_sattva"><img
     alt="threads"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-threads.svg"

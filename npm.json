@@ -38,14 +38,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.2846702307179807,
+        "final": 0.28467675872826054,
         "detail": {
-          "quality": 0.5633893655670229,
-          "popularity": 0.0024918808712179655,
-          "maintenance": 0.3279464649798502
+          "quality": 0.5633886973605322,
+          "popularity": 0.002510201380685785,
+          "maintenance": 0.32794736867674534
         }
       },
-      "searchScore": 5.7326034e-8
+      "searchScore": 5.730894e-8
     },
     {
       "package": {
@@ -86,14 +86,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.283451152552359,
+        "final": 0.28354820107814976,
         "detail": {
-          "quality": 0.5499049348901995,
-          "popularity": 0.005509714603951434,
-          "maintenance": 0.33300363421118884
+          "quality": 0.5499048788669106,
+          "popularity": 0.005786996975721074,
+          "maintenance": 0.3330036813616406
         }
       },
-      "searchScore": 5.515735e-8
+      "searchScore": 5.5502763e-8
     },
     {
       "package": {
@@ -136,14 +136,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.24792509815504923,
+        "final": 0.24802359407999805,
         "detail": {
-          "quality": 0.6495269696694053,
-          "popularity": 0.15162002072636474,
+          "quality": 0.6495269737217695,
+          "popularity": 0.15190143418133484,
           "maintenance": 0
         }
       },
-      "searchScore": 4.4480572e-8
+      "searchScore": 4.4768914e-8
     },
     {
       "package": {
@@ -182,14 +182,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.24542126432956046,
+        "final": 0.24553239465733612,
         "detail": {
           "quality": 0.65,
-          "popularity": 0.14406075522731562,
+          "popularity": 0.14437827044953172,
           "maintenance": 0
         }
       },
-      "searchScore": 3.683968e-8
+      "searchScore": 3.711712e-8
     },
     {
       "package": {
@@ -229,14 +229,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.23638610530809942,
+        "final": 0.2365012857403712,
         "detail": {
-          "quality": 0.6220736498869498,
-          "popularity": 0.14218288669147,
+          "quality": 0.6220734933045043,
+          "popularity": 0.14251210785434254,
           "maintenance": 0
         }
       },
-      "searchScore": 2.2887075e-8
+      "searchScore": 2.3073504e-8
     },
     {
       "package": {
@@ -275,14 +275,59 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.20620210877713874,
+        "final": 0.20720864970643754,
         "detail": {
-          "quality": 0.5950801372905161,
-          "popularity": 0.07908019311423967,
+          "quality": 0.5950798152881948,
+          "popularity": 0.0819563003427975,
           "maintenance": 0
         }
       },
-      "searchScore": 2.2751563e-9
+      "searchScore": 2.491883e-9
+    },
+    {
+      "package": {
+        "name": "vue-touch-ripple",
+        "scope": "unscoped",
+        "version": "4.1.1",
+        "description": "Touch ripple component for Vue",
+        "keywords": [
+          "vue touch ripple",
+          "vue ripple",
+          "vue touch"
+        ],
+        "date": "2022-07-27T14:33:49.495Z",
+        "links": {
+          "npm": "https://www.npmjs.com/package/vue-touch-ripple",
+          "homepage": "https://github.surmon.me/vue-touch-ripple",
+          "repository": "https://github.com/surmon-china/vue-touch-ripple",
+          "bugs": "https://github.com/surmon-china/vue-touch-ripple/issues"
+        },
+        "author": {
+          "name": "Surmon"
+        },
+        "publisher": {
+          "username": "surmon",
+          "email": "surmon.me@gmail.com"
+        },
+        "maintainers": [
+          {
+            "username": "surmon",
+            "email": "surmon.me@gmail.com"
+          }
+        ]
+      },
+      "flags": {
+        "insecure": 0
+      },
+      "score": {
+        "final": 0.20566715080088294,
+        "detail": {
+          "quality": 0.6396130299270216,
+          "popularity": 0.03938069092221845,
+          "maintenance": 0
+        }
+      },
+      "searchScore": 1.4383927e-9
     },
     {
       "package": {
@@ -321,59 +366,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.19495828501134507,
+        "final": 0.19502564630826025,
         "detail": {
-          "quality": 0.5330244137994303,
-          "popularity": 0.10014560249004568,
+          "quality": 0.5330243217621327,
+          "popularity": 0.100338142227487,
           "maintenance": 0
         }
       },
-      "searchScore": 1.4109509e-9
-    },
-    {
-      "package": {
-        "name": "vue-touch-ripple",
-        "scope": "unscoped",
-        "version": "4.1.1",
-        "description": "Touch ripple component for Vue",
-        "keywords": [
-          "vue touch ripple",
-          "vue ripple",
-          "vue touch"
-        ],
-        "date": "2022-07-27T14:33:49.495Z",
-        "links": {
-          "npm": "https://www.npmjs.com/package/vue-touch-ripple",
-          "homepage": "https://github.surmon.me/vue-touch-ripple",
-          "repository": "https://github.com/surmon-china/vue-touch-ripple",
-          "bugs": "https://github.com/surmon-china/vue-touch-ripple/issues"
-        },
-        "author": {
-          "name": "Surmon"
-        },
-        "publisher": {
-          "username": "surmon",
-          "email": "surmon.me@gmail.com"
-        },
-        "maintainers": [
-          {
-            "username": "surmon",
-            "email": "surmon.me@gmail.com"
-          }
-        ]
-      },
-      "flags": {
-        "insecure": 0
-      },
-      "score": {
-        "final": 0.20524857661212825,
-        "detail": {
-          "quality": 0.6396130856959669,
-          "popularity": 0.03818471686668052,
-          "maintenance": 0
-        }
-      },
-      "searchScore": 1.3835141e-9
+      "searchScore": 1.4188996e-9
     },
     {
       "package": {
@@ -414,14 +414,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.20428840966892667,
+        "final": 0.20429759312545456,
         "detail": {
-          "quality": 0.6495269696694053,
-          "popularity": 0.026943767908871753,
+          "quality": 0.6495269737217695,
+          "popularity": 0.026970002882639177,
           "maintenance": 0
         }
       },
-      "searchScore": 1.1498011e-9
+      "searchScore": 1.1499376e-9
     },
     {
       "package": {
@@ -459,14 +459,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.20464601928724424,
+        "final": 0.2049194629743605,
         "detail": {
-          "quality": 0.5633893655670229,
-          "popularity": 0.024593517117444678,
-          "maintenance": 0.07720422464580494
+          "quality": 0.5633886973605322,
+          "popularity": 0.025363326534190204,
+          "maintenance": 0.07721625565495505
         }
       },
-      "searchScore": 1.0454801e-9
+      "searchScore": 1.0725483e-9
     },
     {
       "package": {
@@ -505,14 +505,14 @@
         "insecure": 0
       },
       "score": {
-        "final": 0.1898033399613785,
+        "final": 0.1898210104534893,
         "detail": {
-          "quality": 0.5958036208190758,
-          "popularity": 0.03160643918758785,
+          "quality": 0.5958033053856281,
+          "popularity": 0.03165719667943101,
           "maintenance": 0
         }
       },
-      "searchScore": 4.605757e-10
+      "searchScore": 4.61063e-10
     },
     {
       "package": {
@@ -554,14 +554,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.16912929502431417,
+        "final": 0.16913582813494663,
         "detail": {
-          "quality": 0.5404616056242735,
-          "popularity": 0.01997375239152035,
+          "quality": 0.5404607623329971,
+          "popularity": 0.01999314124299283,
           "maintenance": 0
         }
       },
-      "searchScore": 8.70449e-11
+      "searchScore": 8.70454e-11
     },
     {
       "package": {
@@ -605,14 +605,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.16788342242167753,
+        "final": 0.16788997673728764,
         "detail": {
-          "quality": 0.5404616056242735,
-          "popularity": 0.016414116383987105,
+          "quality": 0.5404607623329971,
+          "popularity": 0.016433565821110035,
           "maintenance": 0
         }
       },
-      "searchScore": 7.522789e-11
+      "searchScore": 7.522914e-11
     },
     {
       "package": {
@@ -651,14 +651,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.15821217190623107,
+        "final": 0.15822014456848707,
         "detail": {
-          "quality": 0.5236772419787115,
-          "popularity": 0.0031685694646218427,
+          "quality": 0.5236763212235339,
+          "popularity": 0.0031921377183625607,
           "maintenance": 0
         }
       },
-      "searchScore": 2.8269703e-11
+      "searchScore": 2.8276938e-11
     },
     {
       "package": {
@@ -689,14 +689,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.15790737184577938,
+        "final": 0.1579129759586927,
         "detail": {
-          "quality": 0.5236772419787115,
-          "popularity": 0.002297712149045582,
+          "quality": 0.5236763212235339,
+          "popularity": 0.0023145131189500046,
           "maintenance": 0
         }
       },
-      "searchScore": 2.7198143e-11
+      "searchScore": 2.7197005e-11
     },
     {
       "package": {
@@ -726,14 +726,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1402252538156552,
+        "final": 0.14022668588508228,
         "detail": {
-          "quality": 0.4503892843624302,
-          "popularity": 0.014595624305503303,
+          "quality": 0.4503885001051488,
+          "popularity": 0.014600388152964685,
           "maintenance": 0
         }
       },
-      "searchScore": 6.716675e-12
+      "searchScore": 6.712966e-12
     },
     {
       "package": {
@@ -774,14 +774,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.1396310218930278,
+        "final": 0.13963404630484666,
         "detail": {
-          "quality": 0.4638623958976177,
-          "popularity": 0.0013494374964072155,
+          "quality": 0.4638617236387627,
+          "popularity": 0.0013586548949081731,
           "maintenance": 0
         }
       },
-      "searchScore": 5.1106016e-12
+      "searchScore": 5.1089627e-12
     },
     {
       "package": {
@@ -817,14 +817,14 @@
         "unstable": true
       },
       "score": {
-        "final": 0.0919836826951301,
+        "final": 0.09198605036463052,
         "detail": {
-          "quality": 0.3053062867553592,
-          "popularity": 0.0011194190529209894,
+          "quality": 0.30530564781895136,
+          "popularity": 0.0011267314827002946,
           "maintenance": 0
         }
       },
-      "searchScore": 1.8357767e-14
+      "searchScore": 1.8353454e-14
     },
     {
       "package": {
@@ -854,35 +854,35 @@
         "unstable": true
       },
       "score": {
-        "final": 0.09024624494792927,
+        "final": 0.09024755115480444,
         "detail": {
-          "quality": 0.2999368821722691,
-          "popularity": 0.0007576579892815393,
+          "quality": 0.2999362729743008,
+          "popularity": 0.0007619121786120155,
           "maintenance": 0
         }
       },
-      "searchScore": 1.4068215e-14
+      "searchScore": 1.4061731e-14
     }
   ],
   "downloads": {
-    "vue-touch-ripple": 16737,
-    "mongodb-data-api": 8247,
-    "vue-awesome-swiper": 6118318,
-    "vue-quill-editor": 3177056,
-    "vue-drag-zone": 2883,
-    "naivebayes": 930,
-    "emoji-233333": 1462,
-    "vuniversal": 988,
     "wonderful-bing-wallpaper": 1264,
-    "simple-netease-cloud-music": 1052,
+    "emoji-233333": 1462,
     "vue-codemirror": 4549741,
+    "vue-touch-ripple": 16737,
+    "naivebayes": 930,
+    "vuniversal": 988,
+    "vue-awesome-swiper": 6118318,
+    "simple-netease-cloud-music": 1052,
     "veact-use": 450,
+    "vue-drag-zone": 2883,
+    "mongodb-data-api": 8247,
+    "vue-quill-editor": 3177056,
     "veact": 823,
-    "player.ts": 68,
-    "@videojs-player/react": 19756,
-    "vue-stacks-editor": 92,
     "@videojs-player/vue": 642928,
+    "player.ts": 68,
+    "vue-stacks-editor": 92,
     "vue-video-player": 937950,
+    "@videojs-player/react": 19756,
     "@fox-finder/base": 118
   }
 }

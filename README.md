@@ -111,7 +111,7 @@
 <h4></h4>
 
 <p align="center">
-  <a href="https://github.com/surmon-china/README.vue/tree/main/templates/github-top-languages">
+  <a href="https://github.com/surmon-china?tab=repositories">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surmon-china/surmon-china/release/github-top-languages-dark.svg">
       <img alt="GitHub Top Languages" src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/github-top-languages-light.svg">

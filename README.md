@@ -51,37 +51,37 @@
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-blog.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://www.linkedin.com/in/surmon"><img
+  <a href="https://go.surmon.me/linkedin"><img
     alt="LinkedIn"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-linkedin.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://leetcode.com/Surmon"><img
+  <a href="https://go.surmon.me/leetcode"><img
     alt="LeetCode"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-leetcode.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://www.instagram.com/surmon_sattva"><img
+  <a href="https://go.surmon.me/instagram"><img
     alt="Instagram"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-instagram.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://www.threads.net/@surmon_sattva"><img
+  <a href="https://go.surmon.me/threads"><img
     alt="threads"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-threads.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://www.youtube.com/@surmon_v"><img
+  <a href="https://go.surmon.me/youtube"><img
     alt="YouTube"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-youtube.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://t.me/surmon"><img
+  <a href="https://go.surmon.me/telegram"><img
     alt="Telegram"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-telegram.svg"

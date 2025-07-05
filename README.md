@@ -38,7 +38,7 @@
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/total-github-stars.svg"
   /></a>
   <span>&nbsp;&nbsp;</span>
-  <a href="https://www.npmjs.com/~surmon"><img
+  <a href="https://go.surmon.me/npm"><img
     alt="total NPM downloads"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/total-npm-downloads.svg"
   /></a>

@@ -87,7 +87,7 @@
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-telegram.svg"
   /></a>
   <span>&nbsp;</span>
-  <a href="https://redirect.surmon.me/discord-server"><img
+  <a href="https://go.surmon.me/discord-server"><img
     alt="Discord"
     height="24px"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/badge-discord.svg"

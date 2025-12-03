@@ -7,7 +7,7 @@
       },
       "dependents": "631",
       "updated": "2025-12-02T05:44:13.074Z",
-      "searchScore": 72.68062,
+      "searchScore": 72.71662,
       "package": {
         "name": "vue-codemirror",
         "keywords": [
@@ -39,7 +39,7 @@
         }
       },
       "score": {
-        "final": 72.68062,
+        "final": 72.71662,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -57,7 +57,7 @@
       },
       "dependents": "882",
       "updated": "2025-12-02T05:44:16.905Z",
-      "searchScore": 71.564674,
+      "searchScore": 71.58951,
       "package": {
         "name": "vue-quill-editor",
         "keywords": [
@@ -91,7 +91,7 @@
         }
       },
       "score": {
-        "final": 71.564674,
+        "final": 71.58951,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -109,7 +109,7 @@
       },
       "dependents": "521",
       "updated": "2025-12-02T05:42:24.809Z",
-      "searchScore": 68.600334,
+      "searchScore": 68.64673,
       "package": {
         "name": "vue-awesome-swiper",
         "keywords": [
@@ -142,7 +142,7 @@
         }
       },
       "score": {
-        "final": 68.600334,
+        "final": 68.64673,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -160,7 +160,7 @@
       },
       "dependents": "205",
       "updated": "2025-12-02T05:42:40.684Z",
-      "searchScore": 63.65199,
+      "searchScore": 63.6003,
       "package": {
         "name": "vue-video-player",
         "keywords": [
@@ -193,7 +193,7 @@
         }
       },
       "score": {
-        "final": 63.65199,
+        "final": 63.6003,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -211,7 +211,7 @@
       },
       "dependents": "25",
       "updated": "2025-12-02T05:46:08.368Z",
-      "searchScore": 61.54843,
+      "searchScore": 60.83792,
       "package": {
         "name": "@videojs-player/vue",
         "keywords": [
@@ -244,7 +244,56 @@
         }
       },
       "score": {
-        "final": 61.54843,
+        "final": 60.83792,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 3914,
+        "weekly": 988
+      },
+      "dependents": "2",
+      "updated": "2025-12-01T19:36:22.732Z",
+      "searchScore": 45.415207,
+      "package": {
+        "name": "mongodb-data-api",
+        "keywords": [
+          "MongoDB data API",
+          "MongoDB cloud data API",
+          "MongoDB Atlas data API SDK"
+        ],
+        "version": "0.4.0",
+        "description": "MongoDB atlas data API SDK for Node.js",
+        "sanitized_name": "mongodb-data-api",
+        "publisher": {
+          "email": "surmon.me@gmail.com",
+          "username": "surmon"
+        },
+        "maintainers": [
+          {
+            "email": "surmon.me@gmail.com",
+            "username": "surmon"
+          }
+        ],
+        "license": "MIT",
+        "date": "2022-11-23T19:54:56.217Z",
+        "links": {
+          "homepage": "https://github.com/surmon-china/mongodb-data-api#readme",
+          "repository": "git+https://github.com/surmon-china/mongodb-data-api.git",
+          "bugs": "https://github.com/surmon-china/mongodb-data-api/issues",
+          "npm": "https://www.npmjs.com/package/mongodb-data-api"
+        }
+      },
+      "score": {
+        "final": 45.415207,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -262,7 +311,7 @@
       },
       "dependents": "5",
       "updated": "2025-11-26T04:31:24.787Z",
-      "searchScore": 45.41816,
+      "searchScore": 44.462925,
       "package": {
         "name": "@videojs-player/react",
         "keywords": [
@@ -295,56 +344,7 @@
         }
       },
       "score": {
-        "final": 45.41816,
-        "detail": {
-          "popularity": 1,
-          "quality": 1,
-          "maintenance": 1
-        }
-      },
-      "flags": {
-        "insecure": 0
-      }
-    },
-    {
-      "downloads": {
-        "monthly": 3914,
-        "weekly": 988
-      },
-      "dependents": "2",
-      "updated": "2025-12-01T19:36:22.732Z",
-      "searchScore": 45.384514,
-      "package": {
-        "name": "mongodb-data-api",
-        "keywords": [
-          "MongoDB data API",
-          "MongoDB cloud data API",
-          "MongoDB Atlas data API SDK"
-        ],
-        "version": "0.4.0",
-        "description": "MongoDB atlas data API SDK for Node.js",
-        "sanitized_name": "mongodb-data-api",
-        "publisher": {
-          "email": "surmon.me@gmail.com",
-          "username": "surmon"
-        },
-        "maintainers": [
-          {
-            "email": "surmon.me@gmail.com",
-            "username": "surmon"
-          }
-        ],
-        "license": "MIT",
-        "date": "2022-11-23T19:54:56.217Z",
-        "links": {
-          "homepage": "https://github.com/surmon-china/mongodb-data-api#readme",
-          "repository": "git+https://github.com/surmon-china/mongodb-data-api.git",
-          "bugs": "https://github.com/surmon-china/mongodb-data-api/issues",
-          "npm": "https://www.npmjs.com/package/mongodb-data-api"
-        }
-      },
-      "score": {
-        "final": 45.384514,
+        "final": 44.462925,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -362,7 +362,7 @@
       },
       "dependents": "6",
       "updated": "2025-11-26T12:46:19.722Z",
-      "searchScore": 39.418285,
+      "searchScore": 39.437813,
       "package": {
         "name": "vue-touch-ripple",
         "keywords": [
@@ -393,7 +393,7 @@
         }
       },
       "score": {
-        "final": 39.418285,
+        "final": 39.437813,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -411,7 +411,7 @@
       },
       "dependents": "2",
       "updated": "2025-11-26T19:21:29.662Z",
-      "searchScore": 21.48304,
+      "searchScore": 21.493681,
       "package": {
         "name": "simple-netease-cloud-music",
         "keywords": [
@@ -443,7 +443,7 @@
         }
       },
       "score": {
-        "final": 21.48304,
+        "final": 21.493681,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -461,7 +461,7 @@
       },
       "dependents": 0,
       "updated": "2025-12-01T19:56:23.728Z",
-      "searchScore": 20.464174,
+      "searchScore": 20.478014,
       "package": {
         "name": "veact",
         "keywords": [
@@ -495,7 +495,7 @@
         }
       },
       "score": {
-        "final": 20.464174,
+        "final": 20.478014,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -513,7 +513,7 @@
       },
       "dependents": "10",
       "updated": "2025-12-02T10:06:16.674Z",
-      "searchScore": 19.135473,
+      "searchScore": 19.145748,
       "package": {
         "name": "vue-drag-zone",
         "keywords": [
@@ -545,7 +545,7 @@
         }
       },
       "score": {
-        "final": 19.135473,
+        "final": 19.145748,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -558,12 +558,12 @@
     },
     {
       "downloads": {
-        "monthly": 23,
-        "weekly": 11
+        "monthly": 20,
+        "weekly": 2
       },
       "dependents": 0,
-      "updated": "2025-11-26T03:36:25.887Z",
-      "searchScore": 16.005768,
+      "updated": "2025-12-03T03:41:17.681Z",
+      "searchScore": 14.876081,
       "package": {
         "name": "naivebayes",
         "keywords": [],
@@ -587,7 +587,7 @@
         }
       },
       "score": {
-        "final": 16.005768,
+        "final": 14.876081,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -605,7 +605,7 @@
       },
       "dependents": 0,
       "updated": "2025-11-26T19:21:22.479Z",
-      "searchScore": 13.444646,
+      "searchScore": 13.451306,
       "package": {
         "name": "emoji-233333",
         "keywords": [
@@ -638,7 +638,7 @@
         }
       },
       "score": {
-        "final": 13.444646,
+        "final": 13.451306,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -656,7 +656,7 @@
       },
       "dependents": 0,
       "updated": "2025-12-02T08:06:29.037Z",
-      "searchScore": 13.060517,
+      "searchScore": 13.067531,
       "package": {
         "name": "veact-use",
         "keywords": [
@@ -688,7 +688,7 @@
         }
       },
       "score": {
-        "final": 13.060517,
+        "final": 13.067531,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -706,7 +706,7 @@
       },
       "dependents": "1",
       "updated": "2025-12-02T05:16:27.352Z",
-      "searchScore": 12.690534,
+      "searchScore": 12.697349,
       "package": {
         "name": "wonderful-bing-wallpaper",
         "keywords": [
@@ -740,7 +740,7 @@
         }
       },
       "score": {
-        "final": 12.690534,
+        "final": 12.697349,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -758,7 +758,7 @@
       },
       "dependents": 0,
       "updated": "2025-12-01T17:21:19.312Z",
-      "searchScore": 12.064548,
+      "searchScore": 12.072707,
       "package": {
         "name": "@fox-finder/base",
         "keywords": [],
@@ -785,7 +785,7 @@
         }
       },
       "score": {
-        "final": 12.064548,
+        "final": 12.072707,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -803,7 +803,7 @@
       },
       "dependents": 0,
       "updated": "2025-12-02T23:01:28.621Z",
-      "searchScore": 11.041825,
+      "searchScore": 10.91436,
       "package": {
         "name": "vuniversal",
         "keywords": [
@@ -834,7 +834,7 @@
         }
       },
       "score": {
-        "final": 11.041825,
+        "final": 10.91436,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -852,7 +852,7 @@
       },
       "dependents": 0,
       "updated": "2025-11-26T11:41:25.467Z",
-      "searchScore": 5.8066163,
+      "searchScore": 5.6844916,
       "package": {
         "name": "vue-stacks-editor",
         "keywords": [
@@ -883,7 +883,7 @@
         }
       },
       "score": {
-        "final": 5.8066163,
+        "final": 5.6844916,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -896,12 +896,12 @@
     },
     {
       "downloads": {
-        "monthly": 2,
-        "weekly": 1
+        "monthly": 1,
+        "weekly": 0
       },
       "dependents": 0,
-      "updated": "2025-11-26T02:31:08.795Z",
-      "searchScore": 4.088899,
+      "updated": "2025-12-03T02:36:11.829Z",
+      "searchScore": 2.3642414,
       "package": {
         "name": "player.ts",
         "keywords": [],
@@ -924,7 +924,7 @@
         }
       },
       "score": {
-        "final": 4.088899,
+        "final": 2.3642414,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -937,24 +937,24 @@
     }
   ],
   "downloads": {
-    "wonderful-bing-wallpaper": 819,
-    "@videojs-player/vue": 1075730,
-    "vue-video-player": 869615,
+    "vue-codemirror": 4861219,
+    "player.ts": 108,
+    "naivebayes": 650,
     "vue-touch-ripple": 35416,
-    "vue-drag-zone": 2261,
-    "simple-netease-cloud-music": 1502,
+    "vuniversal": 297,
+    "vue-awesome-swiper": 4618026,
     "mongodb-data-api": 17369,
+    "vue-drag-zone": 2261,
+    "wonderful-bing-wallpaper": 819,
+    "emoji-233333": 1043,
+    "simple-netease-cloud-music": 1502,
+    "vue-video-player": 869615,
     "vue-quill-editor": 3063906,
     "vue-stacks-editor": 91,
-    "vue-awesome-swiper": 4618026,
-    "naivebayes": 650,
     "@videojs-player/react": 24373,
-    "emoji-233333": 1043,
+    "@fox-finder/base": 141,
     "veact": 3319,
     "veact-use": 1075,
-    "@fox-finder/base": 141,
-    "vuniversal": 297,
-    "player.ts": 108,
-    "vue-codemirror": 4861219
+    "@videojs-player/vue": 1075730
   }
 }

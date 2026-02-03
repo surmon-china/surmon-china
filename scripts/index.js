@@ -60,7 +60,7 @@ try {
     'total-github-stars.svg',
     await renderSegmentBadge({
       width: 260,
-      height: 32,
+      height: 31,
       radius: 6,
       title: `Total GitHub Stars: ${githubPublicData.statistics.stars}`,
       icon: simpleIcons.siGithub.svg,
@@ -76,7 +76,7 @@ try {
     'total-npm-downloads.svg',
     await renderSegmentBadge({
       width: 308,
-      height: 32,
+      height: 31,
       radius: 6,
       title: `Total NPM Downloads: ${npmPublicData.packageDownloadsTotal}`,
       icon: simpleIcons.siNpm.svg,

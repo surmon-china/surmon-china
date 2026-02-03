@@ -32,7 +32,7 @@
 
 <p align="center"><samp>_</samp></p>
 
-<h4 align="center">
+<p align="center">
   <a href="#"><img
     alt="total GitHub stars"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/total-github-stars.svg"
@@ -42,7 +42,7 @@
     alt="total NPM downloads"
     src="https://raw.githubusercontent.com/surmon-china/surmon-china/release/total-npm-downloads.svg"
   /></a>
-</h4>
+</p>
 
 <p align="center">
   <a href="https://surmon.me"><img

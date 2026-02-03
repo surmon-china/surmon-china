@@ -3,7 +3,7 @@ import { renderSVG } from './_.js'
 const defaultOptions = {
   width: 62,
   height: 28,
-  radius: 2,
+  radius: 4,
   title: '',
   icon: null,
   iconSize: 14,

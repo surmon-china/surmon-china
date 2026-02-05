@@ -30,7 +30,7 @@
   </i>
 </h3>
 
-<p align="center"><samp>_</samp></p>
+<p align="center"><samp>/</samp></p>
 
 <p align="center">
   <a href="#"><img

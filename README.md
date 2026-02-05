@@ -1,7 +1,7 @@
 
 <h3></h3>
 
-<h4 align="center">
+<p align="center">
   <a href="#"><img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://surmon.me" title="surmon.me">
@@ -10,7 +10,7 @@
       <img alt="Hello World! I am Surmon." src="/widgets/title-light.svg">
     </picture>
   </a>
-</h4>
+</p>
 
 <h3 align="center">
   <a href="#" data-fix-readme-link-style></a>

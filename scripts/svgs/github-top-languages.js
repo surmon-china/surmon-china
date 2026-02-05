@@ -27,10 +27,10 @@ const getLanguageIconSvg = (name) => {
 const defaultOptions = {
   width: 846,
   height: 188,
-  radius: 2,
   languages: [],
   title: '',
   color: '#333',
+  borderRadius: 6,
   borderColor: '#aaa',
   backgroundColor: 'transparent',
   legendGradientBackgroundColor: 'transparent',
@@ -88,7 +88,7 @@ export const renderGitHubTopLanguages = (options = {}) => {
       padding: var(--gap);
       padding-bottom: 28px;
       border: 1px solid;
-      border-radius: ${opts.radius}px;
+      border-radius: ${opts.borderRadius}px;
       color: ${opts.color};
       border-color: ${opts.borderColor};
       background-color: ${opts.backgroundColor};

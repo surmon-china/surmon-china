@@ -36,6 +36,7 @@ try {
       title: `GitHub Top Languages`,
       languages: githubPrivateData.languages,
       color: '#27292a',
+      borderRadius: 6,
       borderColor: '#d0d7de',
       backgroundColor: '#fff',
       legendGradientBackgroundColor: '#eee'
@@ -49,6 +50,7 @@ try {
       title: `GitHub Top Languages`,
       languages: githubPrivateData.languages,
       color: '#e6edf3',
+      borderRadius: 6,
       borderColor: '#30363d',
       backgroundColor: 'transparent',
       legendGradientBackgroundColor: '#222'

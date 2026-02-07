@@ -122,9 +122,11 @@ export const getGitHubPrivateData = async () => {
 
   // ---------------------------------------------------------------
   // sponsors
-  const pastSponsors = []
   const currentSponsors = graphqlPrivateData.sponsors.edges.map((edge) => edge.node) || []
   const currentSponsorsLogins = currentSponsors.map((item) => item.login)
+
+  const pastSponsors = []
+  const addedPastLogins = new Set()
   // 1. order by TIMESTAMP/DESC
   // 2. filter out current sponsors
   // 3. the latest user to cancel is at the head of the array
@@ -134,7 +136,10 @@ export const getGitHubPrivateData = async () => {
     if (node && node.sponsor.login !== 'ghost') {
       if (node.action === 'CANCELLED_SPONSORSHIP' || node.sponsorsTier.isOneTime) {
         if (!currentSponsorsLogins.includes(node.sponsor.login)) {
-          pastSponsors.push(node.sponsor)
+          if (!addedPastLogins.has(node.sponsor.login)) {
+            pastSponsors.push(node.sponsor)
+            addedPastLogins.add(node.sponsor.login)
+          }
         }
       }
     }

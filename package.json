@@ -14,15 +14,7 @@
       "veact-use"
     ]
   },
-  "nodemonConfig": {
-    "ignore": [
-      "output/*",
-      "widgets/*",
-      "icons/*"
-    ]
-  },
   "scripts": {
-    "dev": "nodemon ./dev/index.js",
     "generate": "node ./scripts/index.js",
     "format": "prettier ./scripts --write"
   },
@@ -32,8 +24,5 @@
     "fs-extra": "^11.x",
     "prettier": "^3.x",
     "simple-icons": "^16.x"
-  },
-  "devDependencies": {
-    "nodemon": "^3.x"
   }
 }

@@ -14,16 +14,16 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
 const buildChunks = () => {
   const chunks = []
   const cursor = new Date(NPM_DOWNLOADS_START)
-  const end = new Date()
-  while (cursor < end) {
-    const chunkEnd = new Date(cursor)
-    chunkEnd.setDate(chunkEnd.getDate() + 365)
-    if (chunkEnd > end) chunkEnd.setTime(end.getTime())
-    chunks.push({
-      from: cursor.toISOString().slice(0, 10),
-      to: chunkEnd.toISOString().slice(0, 10)
-    })
-    cursor.setDate(cursor.getDate() + 365)
+  const today = new Date()
+  while (cursor < today) {
+    const from = cursor.toISOString().slice(0, 10)
+    cursor.setDate(cursor.getDate() + 364)
+    const to = cursor > today ? today : new Date(cursor)
+    chunks.push({ from, to: to.toISOString().slice(0, 10) })
+    // Advance by 1 day to avoid overlap: the npm downloads API uses a closed
+    // interval [from, to], so the next chunk must start the day after the
+    // current chunk ends to prevent double-counting.
+    cursor.setDate(cursor.getDate() + 1)
   }
   return chunks
 }

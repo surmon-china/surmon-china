@@ -19,7 +19,7 @@ export const getNpmPublicData = async () => {
   const packageCount = packageDownloadsMap.size
   const packageDownloadsTotal = Array.from(packageDownloadsMap.values()).reduce((total, current) => total + current, 0)
 
-  console.group(`[NPM Public]`)
+  console.group('[NPM Public]')
   consoleObject('counts:', {
     packages: packageCount,
     downloads: packageDownloadsTotal

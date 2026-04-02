@@ -1,15 +1,20 @@
 import { CONFIG } from './constants.js'
 import { consoleObject } from './utils.js'
-import { fetchGitHubUserinfo, fetchGitHubRepositories, fetchGitHubOrganizations } from './apis.js'
+import {
+  fetchGitHubUserinfo,
+  fetchGitHubUserRepositories,
+  fetchGitHubUserOrganizations,
+  fetchGitHubOrgRepositories
+} from './apis.js'
 
 export const getGitHubPublicData = async () => {
   const [userinfo, repositories, organizations] = await Promise.all([
     fetchGitHubUserinfo(CONFIG.GITHUB_USERNAME),
-    fetchGitHubRepositories(CONFIG.GITHUB_USERNAME),
-    fetchGitHubOrganizations(CONFIG.GITHUB_USERNAME)
+    fetchGitHubUserRepositories(CONFIG.GITHUB_USERNAME),
+    fetchGitHubUserOrganizations(CONFIG.GITHUB_USERNAME)
   ])
 
-  console.group(`[GitHub Public]`)
+  console.group('[GitHub Public]')
   consoleObject('counts:', {
     repositories: repositories.length,
     organizations: organizations.length
@@ -24,7 +29,7 @@ export const getGitHubPublicData = async () => {
     topics: {}
   }
 
-  // basic statistics
+  // user repositories
   repositories.forEach((repository) => {
     statistics.stars += repository.stargazers_count
     statistics.forks += repository.forks_count
@@ -36,6 +41,17 @@ export const getGitHubPublicData = async () => {
         statistics.topics[topic] = statistics.topics[topic] || 0
         statistics.topics[topic] += 1
       })
+    }
+  })
+
+  // organization repositories
+  const organizationsRepositoriesList = await Promise.all(
+    organizations.map(({ login }) => fetchGitHubOrgRepositories(login))
+  )
+
+  organizationsRepositoriesList.flat().forEach((repository) => {
+    if (CONFIG.GITHUB_ORGANIZATION_REPOSITORIES.includes(repository.name)) {
+      statistics.stars += repository.stargazers_count
     }
   })
 

@@ -7,8 +7,12 @@
   "license": "UNLICENSED",
   "type": "module",
   "config": {
+    "NPM_USERNAME": "surmon",
     "GITHUB_USERNAME": "surmon-china",
-    "NPM_USERNAME": "surmon"
+    "GITHUB_ORGANIZATION_REPOSITORIES": [
+      "veact",
+      "veact-use"
+    ]
   },
   "nodemonConfig": {
     "ignore": [

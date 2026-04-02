@@ -27,13 +27,18 @@ export const fetchGitHubUserinfo = async (githubUsername) => {
   return response.data
 }
 
-export const fetchGitHubRepositories = async (githubUsername) => {
+export const fetchGitHubUserOrganizations = async (githubUsername) => {
+  const response = await axios.get(`https://api.github.com/users/${githubUsername}/orgs`)
+  return response.data
+}
+
+export const fetchGitHubUserRepositories = async (githubUsername) => {
   const response = await axios.get(`https://api.github.com/users/${githubUsername}/repos?per_page=100`)
   return response.data
 }
 
-export const fetchGitHubOrganizations = async (githubUsername) => {
-  const response = await axios.get(`https://api.github.com/users/${githubUsername}/orgs`)
+export const fetchGitHubOrgRepositories = async (githubOrgName) => {
+  const response = await axios.get(`https://api.github.com/orgs/${githubOrgName}/repos?per_page=100`)
   return response.data
 }
 

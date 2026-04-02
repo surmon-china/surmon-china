@@ -9,8 +9,8 @@ axios.interceptors.response.use(
 )
 
 // https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md
-export const fetchNPMPackages = async (npmUID) => {
-  const response = await axios.get(`https://registry.npmjs.com/-/v1/search?text=maintainer:${npmUID}`)
+export const fetchNPMPackages = async (npmUsername) => {
+  const response = await axios.get(`https://registry.npmjs.com/-/v1/search?text=maintainer:${npmUsername}&size=250`)
   return response.data.objects
 }
 
@@ -22,18 +22,18 @@ export const fetchNPMPackageDownloads = async (packageName) => {
   return response.data
 }
 
-export const fetchGitHubUserinfo = async (githubUID) => {
-  const response = await axios.get(`https://api.github.com/users/${githubUID}`)
+export const fetchGitHubUserinfo = async (githubUsername) => {
+  const response = await axios.get(`https://api.github.com/users/${githubUsername}`)
   return response.data
 }
 
-export const fetchGitHubRepositories = async (githubUID) => {
-  const response = await axios.get(`https://api.github.com/users/${githubUID}/repos?per_page=100`)
+export const fetchGitHubRepositories = async (githubUsername) => {
+  const response = await axios.get(`https://api.github.com/users/${githubUsername}/repos?per_page=100`)
   return response.data
 }
 
-export const fetchGitHubOrganizations = async (githubUID) => {
-  const response = await axios.get(`https://api.github.com/users/${githubUID}/orgs`)
+export const fetchGitHubOrganizations = async (githubUsername) => {
+  const response = await axios.get(`https://api.github.com/users/${githubUsername}/orgs`)
   return response.data
 }
 

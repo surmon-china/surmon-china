@@ -23,7 +23,7 @@ const SPONSOR_NODE_QUERY = `
 
 const QUERY = `
   query {
-    user(login: "${CONFIG.GITHUB_UID}") {
+    user(login: "${CONFIG.GITHUB_USERNAME}") {
       repositories(
         first: 100
         isFork: false

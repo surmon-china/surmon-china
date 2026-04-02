@@ -4,9 +4,9 @@ import { fetchGitHubUserinfo, fetchGitHubRepositories, fetchGitHubOrganizations 
 
 export const getGitHubPublicData = async () => {
   const [userinfo, repositories, organizations] = await Promise.all([
-    fetchGitHubUserinfo(CONFIG.GITHUB_UID),
-    fetchGitHubRepositories(CONFIG.GITHUB_UID),
-    fetchGitHubOrganizations(CONFIG.GITHUB_UID)
+    fetchGitHubUserinfo(CONFIG.GITHUB_USERNAME),
+    fetchGitHubRepositories(CONFIG.GITHUB_USERNAME),
+    fetchGitHubOrganizations(CONFIG.GITHUB_USERNAME)
   ])
 
   console.group(`[GitHub Public]`)
@@ -30,7 +30,7 @@ export const getGitHubPublicData = async () => {
     statistics.forks += repository.forks_count
     statistics.open_issues += repository.open_issues
     // owner only
-    if (!repository.fork && repository.owner.login === CONFIG.GITHUB_UID) {
+    if (!repository.fork && repository.owner.login === CONFIG.GITHUB_USERNAME) {
       statistics.size += repository.size
       repository.topics.forEach((topic) => {
         statistics.topics[topic] = statistics.topics[topic] || 0

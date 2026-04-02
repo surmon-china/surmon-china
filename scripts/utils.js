@@ -3,8 +3,8 @@ import fs from 'fs-extra'
 import { OUTPUT_DIR } from './constants.js'
 
 export const thousands = (number) => {
-  var str = number.toString()
-  var reg = str.indexOf('.') > -1 ? /(\d)(?=(\d{3})+\.)/g : /(\d)(?=(?:\d{3})+$)/g
+  const str = number.toString()
+  const reg = str.indexOf('.') > -1 ? /(\d)(?=(\d{3})+\.)/g : /(\d)(?=(?:\d{3})+$)/g
   return str.replace(reg, '$1,')
 }
 

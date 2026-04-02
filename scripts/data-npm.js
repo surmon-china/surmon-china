@@ -4,7 +4,7 @@ import { fetchNPMPackages, fetchNPMPackageDownloads } from './apis.js'
 
 export const getNpmPublicData = async () => {
   // packages
-  const packages = await fetchNPMPackages(CONFIG.NPM_UID)
+  const packages = await fetchNPMPackages(CONFIG.NPM_USERNAME)
   // packages downloads map
   const packageDownloadsMap = new Map()
   await Promise.all(

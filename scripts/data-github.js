@@ -14,12 +14,6 @@ export const getGitHubPublicData = async () => {
     fetchGitHubUserOrganizations(CONFIG.GITHUB_USERNAME)
   ])
 
-  console.group('[GitHub Public]')
-  consoleObject('counts:', {
-    repositories: repositories.length,
-    organizations: organizations.length
-  })
-
   // statistics
   const statistics = {
     size: 0,
@@ -53,6 +47,12 @@ export const getGitHubPublicData = async () => {
     if (CONFIG.GITHUB_ORGANIZATION_REPOSITORIES.includes(repository.name)) {
       statistics.stars += repository.stargazers_count
     }
+  })
+
+  console.group('[GitHub Public]')
+  consoleObject('counts:', {
+    repositories: repositories.length,
+    organizations: organizations.length
   })
 
   consoleObject('statistics:', statistics)

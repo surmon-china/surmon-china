@@ -17,7 +17,7 @@ export const fetchNPMPackages = async (npmUID) => {
 // https://github.com/npm/registry/blob/master/docs/download-counts.md
 export const fetchNPMPackageDownloads = async (packageName) => {
   const now = new Date()
-  const today = `${now.getFullYear()}-${now.getMonth() + 1}-${now.getDate()}`
+  const today = now.toISOString().slice(0, 10)
   const response = await axios.get(`https://api.npmjs.org/downloads/point/2015-01-10:${today}/${packageName}`)
   return response.data
 }

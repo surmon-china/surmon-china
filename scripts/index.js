@@ -33,7 +33,7 @@ try {
   writeFileToOutput(
     'github-top-languages-light.svg',
     await renderGitHubTopLanguages({
-      title: `GitHub Top Languages`,
+      title: 'GitHub Top Languages',
       languages: githubPrivateData.languages,
       color: '#27292a',
       borderRadius: 6,
@@ -47,7 +47,7 @@ try {
   writeFileToOutput(
     'github-top-languages-dark.svg',
     await renderGitHubTopLanguages({
-      title: `GitHub Top Languages`,
+      title: 'GitHub Top Languages',
       languages: githubPrivateData.languages,
       color: '#e6edf3',
       borderRadius: 6,
@@ -94,7 +94,7 @@ try {
     'badge-blog.svg',
     await renderSolidBadge({
       width: 82,
-      title: `Surmon.me`,
+      title: 'Surmon.me',
       background: '#0088f5',
       label: 'BLOG',
       iconSize: 16,
@@ -112,7 +112,7 @@ try {
     'badge-linkedin.svg',
     await renderSolidBadge({
       width: 60,
-      title: `LinkedIn`,
+      title: 'LinkedIn',
       background: '#0a66c2',
       icon: simpleIcons.siLinkedin.svg,
       label: 'LI'
@@ -123,7 +123,7 @@ try {
     'badge-leetcode.svg',
     await renderSolidBadge({
       width: 60,
-      title: `LeetCode`,
+      title: 'LeetCode',
       background: '#FFA116',
       icon: simpleIcons.siLeetcode.svg,
       label: 'LC'
@@ -134,7 +134,7 @@ try {
     'badge-instagram.svg',
     await renderSolidBadge({
       width: 60,
-      title: `Instagram`,
+      title: 'Instagram',
       background: '#E4405F',
       icon: simpleIcons.siInstagram.svg,
       label: 'IG'
@@ -144,7 +144,7 @@ try {
   writeFileToOutput(
     'badge-threads.svg',
     await renderSolidBadge({
-      title: `Threads`,
+      title: 'Threads',
       background: '#000000',
       icon: simpleIcons.siThreads.svg,
       iconSize: 13,
@@ -155,7 +155,7 @@ try {
   writeFileToOutput(
     'badge-twitter.svg',
     await renderSolidBadge({
-      title: `Twitter`,
+      title: 'Twitter',
       background: '#000000',
       icon: simpleIcons.siX.svg,
       iconSize: 13,
@@ -166,7 +166,7 @@ try {
   writeFileToOutput(
     'badge-youtube.svg',
     await renderSolidBadge({
-      title: `YouTube`,
+      title: 'YouTube',
       background: '#FF0000',
       icon: simpleIcons.siYoutube.svg,
       label: 'YT'
@@ -176,7 +176,7 @@ try {
   writeFileToOutput(
     'badge-telegram.svg',
     await renderSolidBadge({
-      title: `Telegram`,
+      title: 'Telegram',
       background: '#26A5E4',
       icon: simpleIcons.siTelegram.svg,
       label: 'TG'
@@ -186,7 +186,7 @@ try {
   writeFileToOutput(
     'badge-discord.svg',
     await renderSolidBadge({
-      title: `Discord`,
+      title: 'Discord',
       background: '#5865F2',
       icon: simpleIcons.siDiscord.svg,
       label: 'DC'

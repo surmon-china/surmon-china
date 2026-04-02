@@ -28,7 +28,7 @@ export const fetchGitHubUserinfo = async (githubUID) => {
 }
 
 export const fetchGitHubRepositories = async (githubUID) => {
-  const response = await axios.get(`https://api.github.com/users/${githubUID}/repos?per_page=1000`)
+  const response = await axios.get(`https://api.github.com/users/${githubUID}/repos?per_page=100`)
   return response.data
 }
 

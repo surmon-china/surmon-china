@@ -54,7 +54,6 @@ export const getGitHubPublicData = async () => {
     repositories: repositories.length,
     organizations: organizations.length
   })
-
   consoleObject('statistics:', statistics)
   console.groupEnd()
 

@@ -13,7 +13,7 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
 // full date range into 365-day chunks and accumulate the results.
 const buildChunks = () => {
   const chunks = []
-  let cursor = new Date(NPM_DOWNLOADS_START)
+  const cursor = new Date(NPM_DOWNLOADS_START)
   const end = new Date()
   while (cursor < end) {
     const chunkEnd = new Date(cursor)
@@ -44,11 +44,11 @@ const fetchPackagesDownloads = async (packageNames) => {
         downloadsMap.set(name, downloadsMap.get(name) + (pkg?.downloads || 0))
       })
       // Delay between chunk requests to avoid rate limiting
-      await sleep(1000)
+      await sleep(2000)
     }
     console.log('waiting...')
     // Extra cooldown between bulk and scoped queries to reset the rate limit window
-    await sleep(5000)
+    await sleep(6000)
   }
 
   if (scopedPkgNames.length) {
@@ -58,7 +58,7 @@ const fetchPackagesDownloads = async (packageNames) => {
         const data = await fetchNPMPackagesDownloads(pkgName, from, to)
         downloadsMap.set(pkgName, downloadsMap.get(pkgName) + (data?.downloads || 0))
         // Delay between chunk requests to avoid rate limiting
-        await sleep(1000)
+        await sleep(2000)
       }
       console.log('waiting...')
       // Extra cooldown between each scoped package to avoid rate limiting

@@ -2,62 +2,12 @@
   "packages": [
     {
       "downloads": {
-        "monthly": 514649,
-        "weekly": 121501
-      },
-      "dependents": "666",
-      "updated": "2026-08-12T11:00:03.858Z",
-      "searchScore": 73.870445,
-      "package": {
-        "name": "vue-codemirror",
-        "keywords": [
-          "vue-codemirror",
-          "vue codemirror",
-          "vue code editor",
-          "web IDE vue"
-        ],
-        "version": "6.1.1",
-        "description": "CodeMirror code editor component for Vue",
-        "sanitized_name": "vue-codemirror",
-        "publisher": {
-          "email": "surmon.me@gmail.com",
-          "username": "surmon"
-        },
-        "maintainers": [
-          {
-            "email": "surmon.me@gmail.com",
-            "username": "surmon"
-          }
-        ],
-        "license": "MIT",
-        "date": "2022-08-27T19:38:24.292Z",
-        "links": {
-          "homepage": "https://github.surmon.me/vue-codemirror",
-          "repository": "git+https://github.com/surmon-china/vue-codemirror.git",
-          "bugs": "https://github.com/surmon-china/vue-codemirror/issues",
-          "npm": "https://www.npmjs.com/package/vue-codemirror"
-        }
-      },
-      "score": {
-        "final": 73.870445,
-        "detail": {
-          "popularity": 1,
-          "quality": 1,
-          "maintenance": 1
-        }
-      },
-      "flags": {
-        "insecure": 0
-      }
-    },
-    {
-      "downloads": {
         "monthly": 173213,
         "weekly": 52996
       },
       "dependents": "884",
       "updated": "2026-08-12T10:55:47.931Z",
-      "searchScore": 70.794304,
+      "searchScore": 73.292496,
       "package": {
         "name": "vue-quill-editor",
         "keywords": [
@@ -91,7 +41,57 @@
         }
       },
       "score": {
-        "final": 70.794304,
+        "final": 73.292496,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 514649,
+        "weekly": 121501
+      },
+      "dependents": "666",
+      "updated": "2026-08-12T11:00:03.858Z",
+      "searchScore": 71.30913,
+      "package": {
+        "name": "vue-codemirror",
+        "keywords": [
+          "vue-codemirror",
+          "vue codemirror",
+          "vue code editor",
+          "web IDE vue"
+        ],
+        "version": "6.1.1",
+        "description": "CodeMirror code editor component for Vue",
+        "sanitized_name": "vue-codemirror",
+        "publisher": {
+          "email": "surmon.me@gmail.com",
+          "username": "surmon"
+        },
+        "maintainers": [
+          {
+            "email": "surmon.me@gmail.com",
+            "username": "surmon"
+          }
+        ],
+        "license": "MIT",
+        "date": "2022-08-27T19:38:24.292Z",
+        "links": {
+          "homepage": "https://github.surmon.me/vue-codemirror",
+          "repository": "git+https://github.com/surmon-china/vue-codemirror.git",
+          "bugs": "https://github.com/surmon-china/vue-codemirror/issues",
+          "npm": "https://www.npmjs.com/package/vue-codemirror"
+        }
+      },
+      "score": {
+        "final": 71.30913,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -109,7 +109,7 @@
       },
       "dependents": "526",
       "updated": "2026-08-11T10:39:12.592Z",
-      "searchScore": 68.016,
+      "searchScore": 68.150246,
       "package": {
         "name": "vue-awesome-swiper",
         "keywords": [
@@ -142,7 +142,7 @@
         }
       },
       "score": {
-        "final": 68.016,
+        "final": 68.150246,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -160,7 +160,7 @@
       },
       "dependents": "209",
       "updated": "2026-08-12T11:00:10.200Z",
-      "searchScore": 65.01509,
+      "searchScore": 65.13568,
       "package": {
         "name": "vue-video-player",
         "keywords": [
@@ -193,7 +193,7 @@
         }
       },
       "score": {
-        "final": 65.01509,
+        "final": 65.13568,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -211,7 +211,7 @@
       },
       "dependents": "32",
       "updated": "2026-08-12T11:01:32.508Z",
-      "searchScore": 60.904987,
+      "searchScore": 61.052307,
       "package": {
         "name": "@videojs-player/vue",
         "keywords": [
@@ -244,7 +244,7 @@
         }
       },
       "score": {
-        "final": 60.904987,
+        "final": 61.052307,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -262,7 +262,7 @@
       },
       "dependents": "2",
       "updated": "2026-08-10T22:36:17.294Z",
-      "searchScore": 45.308945,
+      "searchScore": 45.398373,
       "package": {
         "name": "mongodb-data-api",
         "keywords": [
@@ -293,7 +293,7 @@
         }
       },
       "score": {
-        "final": 45.308945,
+        "final": 45.398373,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -311,7 +311,7 @@
       },
       "dependents": "4",
       "updated": "2026-08-12T12:46:25.365Z",
-      "searchScore": 43.22993,
+      "searchScore": 43.335762,
       "package": {
         "name": "@videojs-player/react",
         "keywords": [
@@ -344,7 +344,7 @@
         }
       },
       "score": {
-        "final": 43.22993,
+        "final": 43.335762,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -362,7 +362,7 @@
       },
       "dependents": "6",
       "updated": "2026-08-12T15:51:31.648Z",
-      "searchScore": 30.504873,
+      "searchScore": 29.447174,
       "package": {
         "name": "vue-touch-ripple",
         "keywords": [
@@ -393,7 +393,7 @@
         }
       },
       "score": {
-        "final": 30.504873,
+        "final": 29.447174,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -411,7 +411,7 @@
       },
       "dependents": 0,
       "updated": "2026-08-10T22:56:11.497Z",
-      "searchScore": 25.731453,
+      "searchScore": 25.78224,
       "package": {
         "name": "veact",
         "keywords": [
@@ -445,7 +445,7 @@
         }
       },
       "score": {
-        "final": 25.731453,
+        "final": 25.78224,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -463,7 +463,7 @@
       },
       "dependents": "1",
       "updated": "2026-08-11T13:11:24.573Z",
-      "searchScore": 25.295124,
+      "searchScore": 25.352543,
       "package": {
         "name": "wonderful-bing-wallpaper",
         "keywords": [
@@ -497,7 +497,7 @@
         }
       },
       "score": {
-        "final": 25.295124,
+        "final": 25.352543,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -510,12 +510,12 @@
     },
     {
       "downloads": {
-        "monthly": 122,
-        "weekly": 26
+        "monthly": 144,
+        "weekly": 57
       },
       "dependents": 0,
-      "updated": "2026-08-05T22:21:21.541Z",
-      "searchScore": 24.471895,
+      "updated": "2026-08-12T22:26:26.521Z",
+      "searchScore": 24.558239,
       "package": {
         "name": "emoji-233333",
         "keywords": [
@@ -548,57 +548,7 @@
         }
       },
       "score": {
-        "final": 24.471895,
-        "detail": {
-          "popularity": 1,
-          "quality": 1,
-          "maintenance": 1
-        }
-      },
-      "flags": {
-        "insecure": 0
-      }
-    },
-    {
-      "downloads": {
-        "monthly": 116,
-        "weekly": 22
-      },
-      "dependents": "2",
-      "updated": "2026-08-05T22:21:26.832Z",
-      "searchScore": 24.17781,
-      "package": {
-        "name": "simple-netease-cloud-music",
-        "keywords": [
-          "网易云音乐",
-          "网易云 API",
-          "网易云 nodejs",
-          "Netease Cloud Music"
-        ],
-        "version": "0.5.2",
-        "description": "网易云音乐 API for node.js",
-        "sanitized_name": "simple-netease-cloud-music",
-        "publisher": {
-          "email": "surmon@foxmail.com",
-          "username": "surmon"
-        },
-        "maintainers": [
-          {
-            "email": "surmon@foxmail.com",
-            "username": "surmon"
-          }
-        ],
-        "license": "MIT",
-        "date": "2020-12-20T16:06:01.478Z",
-        "links": {
-          "homepage": "https://github.com/surmon-china/simple-netease-cloud-music#readme",
-          "repository": "git+https://github.com/surmon-china/simple-netease-cloud-music.git",
-          "bugs": "https://github.com/surmon-china/simple-netease-cloud-music/issues",
-          "npm": "https://www.npmjs.com/package/simple-netease-cloud-music"
-        }
-      },
-      "score": {
-        "final": 24.17781,
+        "final": 24.558239,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -616,7 +566,7 @@
       },
       "dependents": 0,
       "updated": "2026-08-11T16:56:18.365Z",
-      "searchScore": 23.44468,
+      "searchScore": 23.497896,
       "package": {
         "name": "veact-use",
         "keywords": [
@@ -648,7 +598,57 @@
         }
       },
       "score": {
-        "final": 23.44468,
+        "final": 23.497896,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 117,
+        "weekly": 27
+      },
+      "dependents": "2",
+      "updated": "2026-08-12T22:26:33.761Z",
+      "searchScore": 23.387794,
+      "package": {
+        "name": "simple-netease-cloud-music",
+        "keywords": [
+          "网易云音乐",
+          "网易云 API",
+          "网易云 nodejs",
+          "Netease Cloud Music"
+        ],
+        "version": "0.5.2",
+        "description": "网易云音乐 API for node.js",
+        "sanitized_name": "simple-netease-cloud-music",
+        "publisher": {
+          "email": "surmon@foxmail.com",
+          "username": "surmon"
+        },
+        "maintainers": [
+          {
+            "email": "surmon@foxmail.com",
+            "username": "surmon"
+          }
+        ],
+        "license": "MIT",
+        "date": "2020-12-20T16:06:01.478Z",
+        "links": {
+          "homepage": "https://github.com/surmon-china/simple-netease-cloud-music#readme",
+          "repository": "git+https://github.com/surmon-china/simple-netease-cloud-music.git",
+          "bugs": "https://github.com/surmon-china/simple-netease-cloud-music/issues",
+          "npm": "https://www.npmjs.com/package/simple-netease-cloud-music"
+        }
+      },
+      "score": {
+        "final": 23.387794,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -666,7 +666,7 @@
       },
       "dependents": "10",
       "updated": "2026-08-11T16:51:36.117Z",
-      "searchScore": 19.120186,
+      "searchScore": 19.163588,
       "package": {
         "name": "vue-drag-zone",
         "keywords": [
@@ -698,7 +698,7 @@
         }
       },
       "score": {
-        "final": 19.120186,
+        "final": 19.163588,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -716,7 +716,7 @@
       },
       "dependents": 0,
       "updated": "2026-08-12T08:56:19.611Z",
-      "searchScore": 16.016611,
+      "searchScore": 16.055822,
       "package": {
         "name": "naivebayes",
         "keywords": [],
@@ -740,7 +740,7 @@
         }
       },
       "score": {
-        "final": 16.016611,
+        "final": 16.055822,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -758,7 +758,7 @@
       },
       "dependents": 0,
       "updated": "2026-08-12T07:51:29.601Z",
-      "searchScore": 14.195366,
+      "searchScore": 14.229703,
       "package": {
         "name": "vuniversal",
         "keywords": [
@@ -789,7 +789,7 @@
         }
       },
       "score": {
-        "final": 14.195366,
+        "final": 14.229703,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -807,7 +807,7 @@
       },
       "dependents": 0,
       "updated": "2026-08-10T20:21:24.683Z",
-      "searchScore": 11.155604,
+      "searchScore": 11.177622,
       "package": {
         "name": "@fox-finder/base",
         "keywords": [],
@@ -834,7 +834,7 @@
         }
       },
       "score": {
-        "final": 11.155604,
+        "final": 11.177622,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -852,7 +852,7 @@
       },
       "dependents": 0,
       "updated": "2026-08-12T15:06:38.086Z",
-      "searchScore": 10.597261,
+      "searchScore": 10.623204,
       "package": {
         "name": "vue-stacks-editor",
         "keywords": [
@@ -883,7 +883,7 @@
         }
       },
       "score": {
-        "final": 10.597261,
+        "final": 10.623204,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -901,7 +901,7 @@
       },
       "dependents": 0,
       "updated": "2026-08-12T07:51:27.192Z",
-      "searchScore": 9.354346,
+      "searchScore": 9.376973,
       "package": {
         "name": "player.ts",
         "keywords": [],
@@ -925,7 +925,7 @@
         }
       },
       "score": {
-        "final": 9.354346,
+        "final": 9.376973,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -938,8 +938,8 @@
     }
   ],
   "downloads": {
-    "vue-codemirror": 17658259,
     "vue-quill-editor": 15822265,
+    "vue-codemirror": 17658259,
     "vue-awesome-swiper": 28387012,
     "vue-video-player": 4868143,
     "@videojs-player/vue": 2172820,
@@ -949,8 +949,8 @@
     "veact": 8144,
     "wonderful-bing-wallpaper": 7935,
     "emoji-233333": 9831,
-    "simple-netease-cloud-music": 13529,
     "veact-use": 3179,
+    "simple-netease-cloud-music": 13529,
     "vue-drag-zone": 18751,
     "naivebayes": 4725,
     "vuniversal": 2704,

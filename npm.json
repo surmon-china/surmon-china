@@ -2,12 +2,12 @@
   "packages": [
     {
       "downloads": {
-        "monthly": 822272,
-        "weekly": 197301
+        "monthly": 822127,
+        "weekly": 196689
       },
       "dependents": "663",
-      "updated": "2026-11-15T05:56:29.871Z",
-      "searchScore": 77.16004,
+      "updated": "2026-11-16T05:47:01.050Z",
+      "searchScore": 77.398994,
       "package": {
         "name": "vue-codemirror",
         "keywords": [
@@ -39,7 +39,7 @@
         }
       },
       "score": {
-        "final": 77.16004,
+        "final": 77.398994,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -52,12 +52,12 @@
     },
     {
       "downloads": {
-        "monthly": 205422,
-        "weekly": 56178
+        "monthly": 200318,
+        "weekly": 56267
       },
       "dependents": "885",
-      "updated": "2026-11-15T05:57:46.245Z",
-      "searchScore": 74.70094,
+      "updated": "2026-11-16T05:46:30.485Z",
+      "searchScore": 72.06984,
       "package": {
         "name": "vue-quill-editor",
         "keywords": [
@@ -91,58 +91,7 @@
         }
       },
       "score": {
-        "final": 74.70094,
-        "detail": {
-          "popularity": 1,
-          "quality": 1,
-          "maintenance": 1
-        }
-      },
-      "flags": {
-        "insecure": 0
-      }
-    },
-    {
-      "downloads": {
-        "monthly": 56996,
-        "weekly": 13002
-      },
-      "dependents": "209",
-      "updated": "2026-11-14T09:47:51.120Z",
-      "searchScore": 68.11901,
-      "package": {
-        "name": "vue-video-player",
-        "keywords": [
-          "vue-video-player",
-          "vue video player",
-          "video player",
-          "vue player",
-          "vue video"
-        ],
-        "version": "6.0.0",
-        "description": "Video.js component for Vue",
-        "sanitized_name": "vue-video-player",
-        "publisher": {
-          "email": "surmon.me@gmail.com",
-          "username": "surmon"
-        },
-        "maintainers": [
-          {
-            "email": "surmon.me@gmail.com",
-            "username": "surmon"
-          }
-        ],
-        "license": "MIT",
-        "date": "2022-08-14T15:59:42.393Z",
-        "links": {
-          "homepage": "https://github.com/surmon-china/videojs-player",
-          "repository": "git+https://github.com/surmon-china/videojs-player.git",
-          "bugs": "https://github.com/surmon-china/videojs-player/issues",
-          "npm": "https://www.npmjs.com/package/vue-video-player"
-        }
-      },
-      "score": {
-        "final": 68.11901,
+        "final": 72.06984,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -159,8 +108,8 @@
         "weekly": 44814
       },
       "dependents": "526",
-      "updated": "2026-11-15T06:01:45.059Z",
-      "searchScore": 67.81576,
+      "updated": "2026-11-16T05:43:25.840Z",
+      "searchScore": 68.608475,
       "package": {
         "name": "vue-awesome-swiper",
         "keywords": [
@@ -193,7 +142,7 @@
         }
       },
       "score": {
-        "final": 67.81576,
+        "final": 68.608475,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -206,12 +155,63 @@
     },
     {
       "downloads": {
-        "monthly": 100906,
-        "weekly": 27837
+        "monthly": 56996,
+        "weekly": 13002
+      },
+      "dependents": "209",
+      "updated": "2026-11-14T09:47:51.120Z",
+      "searchScore": 68.27301,
+      "package": {
+        "name": "vue-video-player",
+        "keywords": [
+          "vue-video-player",
+          "vue video player",
+          "video player",
+          "vue player",
+          "vue video"
+        ],
+        "version": "6.0.0",
+        "description": "Video.js component for Vue",
+        "sanitized_name": "vue-video-player",
+        "publisher": {
+          "email": "surmon.me@gmail.com",
+          "username": "surmon"
+        },
+        "maintainers": [
+          {
+            "email": "surmon.me@gmail.com",
+            "username": "surmon"
+          }
+        ],
+        "license": "MIT",
+        "date": "2022-08-14T15:59:42.393Z",
+        "links": {
+          "homepage": "https://github.com/surmon-china/videojs-player",
+          "repository": "git+https://github.com/surmon-china/videojs-player.git",
+          "bugs": "https://github.com/surmon-china/videojs-player/issues",
+          "npm": "https://www.npmjs.com/package/vue-video-player"
+        }
+      },
+      "score": {
+        "final": 68.27301,
+        "detail": {
+          "popularity": 1,
+          "quality": 1,
+          "maintenance": 1
+        }
+      },
+      "flags": {
+        "insecure": 0
+      }
+    },
+    {
+      "downloads": {
+        "monthly": 98378,
+        "weekly": 27769
       },
       "dependents": "34",
-      "updated": "2026-11-15T06:01:40.084Z",
-      "searchScore": 64.099045,
+      "updated": "2026-11-16T05:48:56.967Z",
+      "searchScore": 63.47911,
       "package": {
         "name": "@videojs-player/vue",
         "keywords": [
@@ -244,7 +244,7 @@
         }
       },
       "score": {
-        "final": 64.099045,
+        "final": 63.47911,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -262,7 +262,7 @@
       },
       "dependents": "4",
       "updated": "2026-11-09T15:21:40.829Z",
-      "searchScore": 48.853706,
+      "searchScore": 48.74404,
       "package": {
         "name": "@videojs-player/react",
         "keywords": [
@@ -295,7 +295,7 @@
         }
       },
       "score": {
-        "final": 48.853706,
+        "final": 48.74404,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -313,7 +313,7 @@
       },
       "dependents": "2",
       "updated": "2026-11-09T23:41:16.607Z",
-      "searchScore": 44.687283,
+      "searchScore": 45.20965,
       "package": {
         "name": "mongodb-data-api",
         "keywords": [
@@ -344,7 +344,7 @@
         }
       },
       "score": {
-        "final": 44.687283,
+        "final": 45.20965,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -362,7 +362,7 @@
       },
       "dependents": "6",
       "updated": "2026-11-11T19:31:12.682Z",
-      "searchScore": 32.52471,
+      "searchScore": 32.62588,
       "package": {
         "name": "vue-touch-ripple",
         "keywords": [
@@ -393,7 +393,7 @@
         }
       },
       "score": {
-        "final": 32.52471,
+        "final": 32.62588,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -411,7 +411,7 @@
       },
       "dependents": "2",
       "updated": "2026-11-12T00:26:26.784Z",
-      "searchScore": 31.128225,
+      "searchScore": 31.225052,
       "package": {
         "name": "simple-netease-cloud-music",
         "keywords": [
@@ -443,7 +443,7 @@
         }
       },
       "score": {
-        "final": 31.128225,
+        "final": 31.225052,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -461,7 +461,7 @@
       },
       "dependents": "1",
       "updated": "2026-11-10T15:41:32.110Z",
-      "searchScore": 28.637712,
+      "searchScore": 28.704794,
       "package": {
         "name": "wonderful-bing-wallpaper",
         "keywords": [
@@ -495,7 +495,7 @@
         }
       },
       "score": {
-        "final": 28.637712,
+        "final": 28.704794,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -513,7 +513,7 @@
       },
       "dependents": 0,
       "updated": "2026-11-10T00:01:32.305Z",
-      "searchScore": 26.803917,
+      "searchScore": 27.117235,
       "package": {
         "name": "veact",
         "keywords": [
@@ -547,7 +547,7 @@
         }
       },
       "score": {
-        "final": 26.803917,
+        "final": 27.117235,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -565,7 +565,7 @@
       },
       "dependents": 0,
       "updated": "2026-11-12T00:56:30.989Z",
-      "searchScore": 26.043564,
+      "searchScore": 26.124575,
       "package": {
         "name": "emoji-233333",
         "keywords": [
@@ -598,7 +598,7 @@
         }
       },
       "score": {
-        "final": 26.043564,
+        "final": 26.124575,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -616,7 +616,7 @@
       },
       "dependents": 0,
       "updated": "2026-11-11T08:56:22.280Z",
-      "searchScore": 24.66375,
+      "searchScore": 24.482578,
       "package": {
         "name": "vuniversal",
         "keywords": [
@@ -647,7 +647,7 @@
         }
       },
       "score": {
-        "final": 24.66375,
+        "final": 24.482578,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -665,7 +665,7 @@
       },
       "dependents": "10",
       "updated": "2026-11-10T19:21:34.033Z",
-      "searchScore": 23.716396,
+      "searchScore": 23.77195,
       "package": {
         "name": "vue-drag-zone",
         "keywords": [
@@ -697,7 +697,7 @@
         }
       },
       "score": {
-        "final": 23.716396,
+        "final": 23.77195,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -715,7 +715,7 @@
       },
       "dependents": 0,
       "updated": "2026-11-10T18:46:13.142Z",
-      "searchScore": 22.576288,
+      "searchScore": 22.629171,
       "package": {
         "name": "veact-use",
         "keywords": [
@@ -747,7 +747,7 @@
         }
       },
       "score": {
-        "final": 22.576288,
+        "final": 22.629171,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -765,7 +765,7 @@
       },
       "dependents": 0,
       "updated": "2026-11-11T14:11:59.141Z",
-      "searchScore": 22.157467,
+      "searchScore": 22.107727,
       "package": {
         "name": "naivebayes",
         "keywords": [],
@@ -789,7 +789,7 @@
         }
       },
       "score": {
-        "final": 22.157467,
+        "final": 22.107727,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -807,7 +807,7 @@
       },
       "dependents": 0,
       "updated": "2026-11-09T21:46:24.543Z",
-      "searchScore": 13.732759,
+      "searchScore": 13.893286,
       "package": {
         "name": "@fox-finder/base",
         "keywords": [],
@@ -834,7 +834,7 @@
         }
       },
       "score": {
-        "final": 13.732759,
+        "final": 13.893286,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -852,7 +852,7 @@
       },
       "dependents": 0,
       "updated": "2026-11-11T18:31:36.188Z",
-      "searchScore": 12.27848,
+      "searchScore": 12.250917,
       "package": {
         "name": "vue-stacks-editor",
         "keywords": [
@@ -883,7 +883,7 @@
         }
       },
       "score": {
-        "final": 12.27848,
+        "final": 12.250917,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -901,7 +901,7 @@
       },
       "dependents": 0,
       "updated": "2026-11-11T08:56:21.772Z",
-      "searchScore": 8.903089,
+      "searchScore": 8.837689,
       "package": {
         "name": "player.ts",
         "keywords": [],
@@ -925,7 +925,7 @@
         }
       },
       "score": {
-        "final": 8.903089,
+        "final": 8.837689,
         "detail": {
           "popularity": 1,
           "quality": 1,
@@ -938,23 +938,23 @@
     }
   ],
   "downloads": {
-    "vue-codemirror": 19645857,
-    "vue-quill-editor": 16427683,
-    "vue-video-player": 5053690,
-    "vue-awesome-swiper": 28977495,
-    "@videojs-player/vue": 2464268,
-    "@videojs-player/react": 102632,
-    "mongodb-data-api": 68786,
-    "vue-touch-ripple": 84683,
-    "simple-netease-cloud-music": 14382,
-    "wonderful-bing-wallpaper": 8521,
-    "veact": 8609,
-    "emoji-233333": 10478,
-    "vuniversal": 2966,
-    "vue-drag-zone": 19025,
+    "vue-codemirror": 19658600,
+    "vue-quill-editor": 16429863,
+    "vue-awesome-swiper": 28979832,
+    "vue-video-player": 5054384,
+    "@videojs-player/vue": 2465796,
+    "@videojs-player/react": 102651,
+    "mongodb-data-api": 68808,
+    "vue-touch-ripple": 84690,
+    "simple-netease-cloud-music": 14389,
+    "wonderful-bing-wallpaper": 8522,
+    "veact": 8612,
+    "emoji-233333": 10482,
+    "vuniversal": 2969,
+    "vue-drag-zone": 19026,
     "veact-use": 3452,
-    "naivebayes": 5010,
-    "@fox-finder/base": 721,
+    "naivebayes": 5011,
+    "@fox-finder/base": 722,
     "vue-stacks-editor": 361,
     "player.ts": 482
   }
